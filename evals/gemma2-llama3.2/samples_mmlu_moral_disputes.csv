@@ -1,0 +1,347 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_moral_disputes, Just war theory's principle of military necessity belongs to,True,False
+1,mmlu_moral_disputes," According to Mill, censoring speech that is possibly true",False,False
+2,mmlu_moral_disputes, West argues that feminist rhetoric has,False,False
+3,mmlu_moral_disputes," According to Mill, the value of a particular pleasure depends on",True,True
+4,mmlu_moral_disputes," According to Carruthers, whenever someone is required to act in a certain way toward an animal for the sake of the animal, what explains that fact are facts about",False,False
+5,mmlu_moral_disputes," What does SCNT stand for, as used in the discussion on cloning?",True,True
+6,mmlu_moral_disputes," Velleman worries that, by offering a patient the option of euthanasia,",True,True
+7,mmlu_moral_disputes, Nathanson supports which of the following kinds of retributivism?,True,True
+8,mmlu_moral_disputes, Carruthers approaches questions about the moral standing of nonhuman animals from the perspective of which of the following moral theories?,False,False
+9,mmlu_moral_disputes," In Gardiner's analysis, which of the following is a characteristic of the climate change problem?",True,True
+10,mmlu_moral_disputes," What is the ""intergenerational storm"" of climate change?",False,False
+11,mmlu_moral_disputes, Hourdequin argues that one flaw of consequentialist calculation is that,False,True
+12,mmlu_moral_disputes, Dershowitz discusses the hypothetical case where the hijacked planes of 9/11 must be shot down to argue that important decisions like these,False,False
+13,mmlu_moral_disputes, Baxter argues that we should view our treatment of the environment as a matter of various trade-offs whose aim is,False,False
+14,mmlu_moral_disputes, Which of the following is an example of a value-based moral theory?,False,True
+15,mmlu_moral_disputes, Kass worries that cloned individuals:,True,True
+16,mmlu_moral_disputes," Why, according to Gill, does Leon Kass think the notion of being ""better off dead"" is incoherent?",True,False
+17,mmlu_moral_disputes," In response to the argument that embryos are not persons because they lack certain rights that all persons have (such as the right to life), Lee and George argue that",True,False
+18,mmlu_moral_disputes, The consequentialist approach to punishment is at odds with,True,True
+19,mmlu_moral_disputes," What does Hursthouse say about the claim that any adequate action-guiding (i.e., moral) theory must provide clear guidance about what ought and ought not to be done that any intelligent person could follow?",False,True
+20,mmlu_moral_disputes, Which of the following is not an objection that Kass makes against cloning?,True,True
+21,mmlu_moral_disputes," In response to the objection that freedom of association is much more important in the marital context than the political realm, Wellman says",True,False
+22,mmlu_moral_disputes," If it were known that a policy would wipe out several animal species without negatively affecting human beings, Baxter would most likely say that",False,False
+23,mmlu_moral_disputes," According to Reiman, van den Haag's argument leads to the conclusion that",False,False
+24,mmlu_moral_disputes," According to Singer, the principle of equality requires",False,True
+25,mmlu_moral_disputes, Advocates of care ethics argue that,False,True
+26,mmlu_moral_disputes," According to Norcross, any attempt to justify the claim that humans have a higher moral status than other animals by appealing to some version of rationality as the morally relevant difference between humans and animals will",True,False
+27,mmlu_moral_disputes," In response to the argument that the death penalty does not deter murderers, van den Haag claims that",True,True
+28,mmlu_moral_disputes," Thomas Nagel call the two kinds of moral considerations he discusses in ""War and Massacre""",False,False
+29,mmlu_moral_disputes, What is the main reason why Arthur doesn't think that the poor have a right to aid from the affluent?,False,True
+30,mmlu_moral_disputes, What assumption does Pence think people who object to SCNT make when they say that SCNT is not best for the child?,True,False
+31,mmlu_moral_disputes, Van den Haag is,False,False
+32,mmlu_moral_disputes," Against Kant's view of sexual objectification, Papadaki argues that",True,False
+33,mmlu_moral_disputes, Thomson discusses a different version of the violinist case wherein the violinist only needs to use your kidneys for one hour to survive. Her own view about this case is that,False,True
+34,mmlu_moral_disputes, Fine asks us to consider the example of a yoga group that practices in Central Park and is free to reject prospective members but isn't free to exclude others from making use of Central Park. The point of this example is to show that,True,True
+35,mmlu_moral_disputes," The annual death-toll from poverty related causes is, according to Pogge,",False,False
+36,mmlu_moral_disputes, What is the overall percentage of capital cases that are overturned because of serious errors?,False,True
+37,mmlu_moral_disputes," According to Nussbaum, treating someone as an object is",True,False
+38,mmlu_moral_disputes," In Corvino's reading of Aquinas, ""unnatural"" sexual acts are those that are",False,True
+39,mmlu_moral_disputes, Rachels compares the cases of Smith and Jones to show that,True,True
+40,mmlu_moral_disputes, Biocentrism is the view that,True,False
+41,mmlu_moral_disputes, Which of the following is a feature of consequentialist moral theory?,True,True
+42,mmlu_moral_disputes," On West's account, women who engage in undesired sex because of actual or felt dependence on their partner may experience injury to their sense of autonomy because",True,False
+43,mmlu_moral_disputes, Which of the following is not mentioned by Macedo as a duty that societies have toward nonmembers?,True,False
+44,mmlu_moral_disputes, Mill thinks that each person desires,True,False
+45,mmlu_moral_disputes," According to Valls, a just cause for political violence is usually",True,False
+46,mmlu_moral_disputes," Fine asks us to consider an example in which a private club ""regularly arranges noisy late-night gatherings"" to show that",True,False
+47,mmlu_moral_disputes," According to Huemer, even if drug use harms a person's friends, families, and other relations,",True,False
+48,mmlu_moral_disputes, The basic idea of social contract theories of morality is that correct or justified moral rules or principles are the ones that result from,True,True
+49,mmlu_moral_disputes," In Singer's view, the question of when it's wrong to painlessly kill an animal is one",True,True
+50,mmlu_moral_disputes, Which of the following is one of de Marneffe's responses to the objection that drug prohibition would be paternalistic?,True,False
+51,mmlu_moral_disputes, Lukianoff and Haidt argue that the disinvitation of certain speakers,False,False
+52,mmlu_moral_disputes, Ashford's article is meant to address a particular paralysis in the face of,True,False
+53,mmlu_moral_disputes," In support of her thesis that global social institutions violate the rights of the world's poor, Ashford argues that",True,True
+54,mmlu_moral_disputes, Papadaki argues that,True,False
+55,mmlu_moral_disputes, The two kinds of anti-homosexuality arguments to which Corvino responds are,False,True
+56,mmlu_moral_disputes, The view that moral considerations do not apply to war is known as,False,False
+57,mmlu_moral_disputes," In the context of Gardiner's article, ""the fragmentation of agency"" refers to what?",False,True
+58,mmlu_moral_disputes, Ashford thinks that the right test of whether or not legal and economic structures are minimally just is to see whether or not,False,False
+59,mmlu_moral_disputes, Little argues that we should accept a prerogative on the part of mothers to end a pregnancy until the fetus is a person because,True,False
+60,mmlu_moral_disputes," Which of the following is, according to the introduction to chapter 8, typically defined as the act or practice of killing or allowing someone to die?",False,False
+61,mmlu_moral_disputes," In Baxter's view, the first and foremost step toward a solution of our environmental problems is a clear recognition that our objective is not pure air or water but rather",True,True
+62,mmlu_moral_disputes, Ross's moral theory is a version of,False,False
+63,mmlu_moral_disputes, Which of the following are forms of misogynist speech according to Richardson-Self?,True,True
+64,mmlu_moral_disputes," Leopold most likely describes the ""land pyramid"" to",False,True
+65,mmlu_moral_disputes, Ecoholism is the view that,False,True
+66,mmlu_moral_disputes, The view according to which wars are always (or at least nearly always) morally wrong is known as,True,False
+67,mmlu_moral_disputes," According to Reiman, van den Haag's arguments in favor of the death penalty",False,False
+68,mmlu_moral_disputes," What two problems does individualism lead us into, according to Hourdequin?",False,False
+69,mmlu_moral_disputes, One message that Nathanson argues we can send by abolishing the death penalty is that,True,True
+70,mmlu_moral_disputes, Aristotle claims that a state of character arises from the repetition of similar,False,False
+71,mmlu_moral_disputes," Corvino considers the following argument: Homosexuals are ""born that way""; therefore, homosexual activity is good and natural. Corvino claims that this argument is unsound. Why?",False,False
+72,mmlu_moral_disputes, Hardin's approach to the moral issues of hunger and poverty is essentially,False,False
+73,mmlu_moral_disputes, Which of the following theories will approach the morality of abortion by considering how much overall intrinsic value is likely to be brought about by abortion?,True,True
+74,mmlu_moral_disputes," In his definition of terrorism, Valls defines ""violence"" as",True,True
+75,mmlu_moral_disputes, What information is available to occupants within Rawls's original position?,False,False
+76,mmlu_moral_disputes, Shapiro claims that surveys have been confirmed by longitudinal studies that indicate that,False,True
+77,mmlu_moral_disputes, A truly environmental ethic must hold that which of the following has direct moral standing?,False,False
+78,mmlu_moral_disputes, Ashford argues that worries about causing dependency on aid agencies among those in extreme poverty does not mean that we should,False,True
+79,mmlu_moral_disputes," According to Singer, the conclusions argued for in ""all animals are equal"" flow from which of the following principles alone?",False,True
+80,mmlu_moral_disputes," Mill thinks that if something is desirable, but not desirable as an end, then it must be",True,True
+81,mmlu_moral_disputes," From the fact that emigration is often associated with significant costs, Fine concludes that",False,True
+82,mmlu_moral_disputes, Mill defends which of the following liberty-limiting principles?,True,True
+83,mmlu_moral_disputes," By definition, if a person or thing needs to be taken into account in moral decision-making (i.e., if it counts morally), then that person or thing has",True,False
+84,mmlu_moral_disputes," What is an example of ""mutual coercion, mutually agreed upon""?",True,False
+85,mmlu_moral_disputes," Which of the following is a problem for Kant's principle of equality and an ""eye for an eye"" according to Nathanson?",True,True
+86,mmlu_moral_disputes," What is Pence's main objective in his article ""Will Cloning Harm People?""",False,False
+87,mmlu_moral_disputes, Timmons suggests that many people believe in moral relativism because,True,True
+88,mmlu_moral_disputes," According to Sandel, eugenics and genetic enhancement can be seen to be wrong from a religious perspective because",True,False
+89,mmlu_moral_disputes, Which of the following is a method of torture that Dershowitz believes is appropriate in those cases where torture is permissible?,False,False
+90,mmlu_moral_disputes," In Rachels's thought experiment with Smith and Jones, Jones's action (i.e., his watching the child, who slipped accidentally, drowned in the tub) is supposed to be an example of",True,False
+91,mmlu_moral_disputes," According to Gill, the moral value of autonomy mostly consists in",False,True
+92,mmlu_moral_disputes, Foot's Rescue I and Rescue II cases are intended to,False,False
+93,mmlu_moral_disputes," In contrast to Garrett Hardin's approach, the Confucian model rejects coercion because",False,False
+94,mmlu_moral_disputes, Velleman believes that the option of euthanasia may harm some patients. What does he think is the most significant way in which this might happen?,True,False
+95,mmlu_moral_disputes, Velleman believes that euthanasia can be justified on the basis of,False,False
+96,mmlu_moral_disputes," Carruthers argues that, on contractualist grounds, nonhuman animals may be accorded which of the following kinds of moral standing?",False,False
+97,mmlu_moral_disputes," One of the premises of the ""lack of imagination"" argument that Kamm discusses is that",True,True
+98,mmlu_moral_disputes," In accordance with the theory of justice proposed by John Rawls, Stephen Macedo argues,""We must consider the justifiability of policies from the standpoint of the _____ well-off among our fellow citizens.""",False,True
+99,mmlu_moral_disputes, Which of the following is not a prima facie duty that Ross discusses?,True,False
+100,mmlu_moral_disputes, Which of the following is an example of a vice of character?,True,True
+101,mmlu_moral_disputes," Leopold claims that history has shown that ""the conqueror role is eventually self-defeating."" It is self-defeating, in this view, because",True,True
+102,mmlu_moral_disputes," Sarah Fine's ""internal critique"" of Wellman's argument targets his claim that",False,False
+103,mmlu_moral_disputes, Shapiro discusses experiments about the role of expectations in the experience of drug use to show that,True,True
+104,mmlu_moral_disputes, What kind of consequentialist theory does Dershowitz think can justify terrorism in certain extreme particular cases?,True,True
+105,mmlu_moral_disputes," On the proposal that we need to establish world food banks to help those who are in need, Hardin would say that",True,True
+106,mmlu_moral_disputes, A utilitarian who recognizes rights will attempt to explain rights on the basis of utility by claiming that,True,False
+107,mmlu_moral_disputes," If a global ban would not be effective in prohibiting genetic engineering that goes beyond eliminating obvious defects, then Singer suggests which ""bolder"" strategy?",False,True
+108,mmlu_moral_disputes, Which of the following is a kind of consequentialist theory that explains right action in terms of the net balance of pleasure (or lack of pain) produced by that action?,True,True
+109,mmlu_moral_disputes, The retributive theory of punishment does not claim that,False,True
+110,mmlu_moral_disputes," Mary's laptop deserves moral consideration only because she owns it and cares about it. Thus, Mary's laptop has",True,True
+111,mmlu_moral_disputes, Collins suggests that the moral value of caring actions comes from,False,True
+112,mmlu_moral_disputes," Kant's humanity formulation of the categorical imperative makes it impermissible for us to, he argues,",True,False
+113,mmlu_moral_disputes," According to Nathanson, criminals who commit murder forfeit their right to",False,False
+114,mmlu_moral_disputes, Reiman suggests that the refusal to execute criminals teaches,True,True
+115,mmlu_moral_disputes," According to Shapiro, the standard view has to explain the preeminence of controlled use by arguing that",False,False
+116,mmlu_moral_disputes, Which of the following is a premise of Kass's despotism argument?,True,False
+117,mmlu_moral_disputes," In Rachels's thought experiment with Smith and Jones, Smith's action (i.e., his holding the child underwater) is supposed to be an example of",True,True
+118,mmlu_moral_disputes, All cases of euthanasia in which the patient has consented to the active bringing of his or her death are cases of,True,True
+119,mmlu_moral_disputes," According to Ross, when our duties conflict with each other we should",True,True
+120,mmlu_moral_disputes, Kamm claims that Sandel's moral distinction between treatment and enhancement assumes that,False,False
+121,mmlu_moral_disputes, West argues that feminist legal theory has inadvertently led to the under-acknowledgement of the harms of consensual sex because,False,False
+122,mmlu_moral_disputes, Sinnott-Armstrong is most interested in examining issues about the moral obligations of,True,False
+123,mmlu_moral_disputes," The decision to remove Terri Schiavo's feeding tube, thus allowing her to die of dehydration, is a case of:",True,False
+124,mmlu_moral_disputes, De Marneffe explains that we might call someone a drug addict to show that,False,True
+125,mmlu_moral_disputes, Frances Kamm discusses the case of a scientist who works on finding a cure for congenital blindness and is motivated only by a bad desire for mastery to suggest that,True,True
+126,mmlu_moral_disputes," If Thomson's conclusion is correct, then",True,False
+127,mmlu_moral_disputes," In satisfying Kant's Humanity formulation of the categorical imperative, we are obligated to adopt two very general goals: the goal of promoting the (morally permissible) ends of others and the goal of",True,True
+128,mmlu_moral_disputes, Ashford defines a structural human rights violation as,False,False
+129,mmlu_moral_disputes," Which of the following is a possible source of obligations, according to Cohen?",True,True
+130,mmlu_moral_disputes, Richardson-Self argues that sexist speech,True,True
+131,mmlu_moral_disputes," Norcross agrees that if a being is incapable of moral reasoning, at even the most basic level, then it cannot be",False,False
+132,mmlu_moral_disputes," Shapiro cites a study of Vietnam veterans, which showed a significant decrease in heroin use after the veterans returned home. Which factor does Shapiro cite as explaining this decrease?",True,False
+133,mmlu_moral_disputes, One suggestion that Lukianoff and Haidt make to challenge vindictive protectiveness is,False,False
+134,mmlu_moral_disputes, Aristotle's moral theory is a version of,True,True
+135,mmlu_moral_disputes," Suppose Wellman argued that just as you have a right not to marry someone who would be harmed by your refusal, a state is free to exclude others even if it causes harm to them. Fine would respond by saying that",True,False
+136,mmlu_moral_disputes," Which of the following is an example of a ""right of noninterference"" according to Arthur?",True,True
+137,mmlu_moral_disputes, Audi proposed that we expand Ross's list of prima facie duties to include,False,True
+138,mmlu_moral_disputes," According to Singer, which of the following historical defenders of the principle of equal consideration of interests was one of the few to recognize that the principle applies to members of other species as well as to our own?",True,False
+139,mmlu_moral_disputes," The only way to break out of the ""terrorist cycle,"" says Walzer, is to",True,False
+140,mmlu_moral_disputes," According to Norcross, which of the following arguments poses a formidable challenge to any proposed criterion of full moral standing that excludes animals?",True,True
+141,mmlu_moral_disputes," According to Aquinas's moral theory, morality is ultimately grounded in",True,True
+142,mmlu_moral_disputes, Kant's moral theory is a version of,True,False
+143,mmlu_moral_disputes, Which of the following statements best describes Gill's response to the argument that the Oregon physician-assisted law falsely assumes that doctors are qualified to judge whether a life is worth living?,True,False
+144,mmlu_moral_disputes," The best explanation for drug addiction, according to Shapiro, appeals to",True,True
+145,mmlu_moral_disputes," Wellman accepts that there are other values besides the freedom of association, such as",True,True
+146,mmlu_moral_disputes, What does Marquis think is the main reason why it is wrong to kill a fetus?,True,False
+147,mmlu_moral_disputes, Altman believes that there are significant difficulties associated with defending a pro-censorship position based solely on claims of which of the following kinds of harm?,False,False
+148,mmlu_moral_disputes," According to Hardin, the ""ratchet effect"" refers to the fact that",False,True
+149,mmlu_moral_disputes, Which of the following is the term used to refer to a stage in prenatal development which in humans begins at roughly the second week of pregnancy and lasts until roughly the eighth week?,True,True
+150,mmlu_moral_disputes, Which of the following potentially morally relevant differences between Fred's behavior and the behavior of the consumers of factory-raised meat does Norcross not discuss?,True,True
+151,mmlu_moral_disputes," According to Singer, international corporations that deal with corrupt dictators are akin to",False,False
+152,mmlu_moral_disputes," Since we who live in wealthy countries have directly caused harm, Pogge argues that we have very stringent",False,False
+153,mmlu_moral_disputes," Which of the following is not a requirement on the definition of ""legal punishment""?",True,False
+154,mmlu_moral_disputes," According to Mill, the only evidence it is possible to produce that anything is desirable is that",False,False
+155,mmlu_moral_disputes, Velleman worries that the word dignity is sometimes used (incorrectly) to glorify which of the following:,False,False
+156,mmlu_moral_disputes, Which of the following is an example of a virtue of character?,True,True
+157,mmlu_moral_disputes," The most common form of cosmopolitanism is _____ cosmopolitanism, according to which those in a position to do so have an obligation to assist those in need because of poverty and to promote basic human rights.",True,True
+158,mmlu_moral_disputes, What is wrong with a conservation system based wholly on economic motives according to Leopold?,True,False
+159,mmlu_moral_disputes, Singer argues that developing nations are harming poor nations by,True,False
+160,mmlu_moral_disputes," According to Sandel, eugenics and genetic enhancement can be seen to be wrong from a secular perspective because they would produce unwelcome changes in",True,True
+161,mmlu_moral_disputes," According to some defenders of meat-eating, the suffering of animals counts less than the suffering of humans (if at all) because",True,False
+162,mmlu_moral_disputes, To say that an action is intrinsically permissible (a feature mentioned in the doctrine of double effect) is to say that,True,True
+163,mmlu_moral_disputes, Locke can be thought of as accepting a,True,True
+164,mmlu_moral_disputes, Metz argues that dignity is based in,True,False
+165,mmlu_moral_disputes," According to Singer, which of the following is the single relevant factor in determining whether something has moral status?",True,False
+166,mmlu_moral_disputes, Nathanson proposes a form of retributivism that requires all of the following except,True,False
+167,mmlu_moral_disputes," According to Kant, all imperatives are expressed by the word",True,True
+168,mmlu_moral_disputes, The goal of cognitive-behavioral therapy is to,False,False
+169,mmlu_moral_disputes, Thomson's appeal to the vices of callousness and self-centeredness relates to what kind of approach to abortion?,True,False
+170,mmlu_moral_disputes, Which of the following is evidence that de Marneffe cites in support of the claim that increased availability of a drug leads to increased use of that drug?,True,False
+171,mmlu_moral_disputes, Carens's main conclusion is that,True,True
+172,mmlu_moral_disputes," Carens accepts that it is possible for the sudden opening of one country's borders to do more harm than good from a liberal egalitarian perspective. However, he argues that",True,False
+173,mmlu_moral_disputes, Callahan is against the legalization of euthanasia because he believes legalization would,False,False
+174,mmlu_moral_disputes, Callahan discusses the Dutch Commission on Euthanasia in 1990 to show that,True,True
+175,mmlu_moral_disputes," According to Lukianoff and Haidt, institutionalizing vindictive protectiveness will",False,False
+176,mmlu_moral_disputes," Baxter claims that his ""very general way"" of stating what we should strive for environmentally assumes that",False,False
+177,mmlu_moral_disputes, Which of the following objections to adopting speech codes does Altman discuss?,True,True
+178,mmlu_moral_disputes," In Singer's understanding, the principle of the equality of human beings is",False,False
+179,mmlu_moral_disputes, Nathanson believes that killing another person in self-defense is compatible with,True,True
+180,mmlu_moral_disputes, Sandel believes that the use of genetic enhancement is inherently wrong because,False,False
+181,mmlu_moral_disputes,"According to Michael Huemer, the harm of drug use to individual drug users",True,True
+182,mmlu_moral_disputes," Which of the following is a basic intrinsic good, according to Aquinas's version of natural law theory?",True,True
+183,mmlu_moral_disputes," Mary is a person, and as such she plausibly deserves moral consideration because of features inherent to her (e.g., being self-aware). This suggests that she has",True,True
+184,mmlu_moral_disputes," In his objection to ""the second prong of the libertarian case for open borders,"" Wellman responds to the objection that he is essentially denying that we have a right to freedom of movement. Which of the following is part of his response?",True,False
+185,mmlu_moral_disputes, Richardson-Self discusses which of the following kinds of speech?,True,True
+186,mmlu_moral_disputes, Lex talionis is another name for,False,True
+187,mmlu_moral_disputes, Huemer argues that there is no reason to think that the harms of drug use are in an important sense,True,True
+188,mmlu_moral_disputes, Which of the following is a value that Arthur believes is more fundamental than rights and desert?,True,True
+189,mmlu_moral_disputes, One of the main factors that Hardin links to world hunger and poverty is,True,False
+190,mmlu_moral_disputes," According to the Humanity formulation of Kant's principle, we must treat persons",False,False
+191,mmlu_moral_disputes," Since Nagel thinks there can be genuine moral dilemmas, he denies the moral principle that",False,False
+192,mmlu_moral_disputes, Which of the following is not an example of vice?,True,True
+193,mmlu_moral_disputes," On Metz's view, what kind of punishment is justified for wrongdoers?",False,False
+194,mmlu_moral_disputes," According to the principle of greatest equal liberty proposed by John Rawls, each person is to have an equal right to",True,True
+195,mmlu_moral_disputes, Wellman argues that insisting on unlimited property rights commits one to,False,False
+196,mmlu_moral_disputes, Ross argues that the existing body of moral convictions of the best people is the cumulative product of,True,True
+197,mmlu_moral_disputes, Kant argues that marriage allows spouses to treat each other not as mere means when engaging in sexual activity because,True,True
+198,mmlu_moral_disputes," On Pogge's view, affluent citizens are harming the poor by",True,True
+199,mmlu_moral_disputes," According to Aquinas, the first precept of natural law is",True,False
+200,mmlu_moral_disputes, Shapiro discusses Mediterranean cultures' use of alcohol to show that,False,False
+201,mmlu_moral_disputes, Little argues that the norms governing the moral permission of abortion are,False,True
+202,mmlu_moral_disputes," According to Hardin, the fundamental error of ""sharing ethics"" is that",True,False
+203,mmlu_moral_disputes," The principle Arthur calls ""the greater moral evil rule""says that",True,True
+204,mmlu_moral_disputes, Ross claims that the essential defect of utilitarianism is that it ignores,False,False
+205,mmlu_moral_disputes," The second premise in Singer's main argument is: ""If it is in your power to prevent something bad from happening, without sacrificing anything nearly as important, it is wrong not to do so."" Which phrase in this premise is deliberately left vague?",True,False
+206,mmlu_moral_disputes," According to Lukianoff and Haidt, the recent trend to uncover microaggressions encourages",True,False
+207,mmlu_moral_disputes, Marcia Baron argues that the artificiality of ticking bomb cases is problematic because,True,False
+208,mmlu_moral_disputes, Carens argues that a policy of exclusion does not always imply that the culture and people being protected are superior because,True,False
+209,mmlu_moral_disputes," In responding to terrorism, says Walzer, it is particularly important that",True,False
+210,mmlu_moral_disputes," In response to the argument that embryos are not persons because they do not exercise higher mental capacities, Lee and George argue that",True,False
+211,mmlu_moral_disputes, Mill considers which of the following cases?,True,True
+212,mmlu_moral_disputes," According to Velleman, who, if anyone, should decide whether a patient receives euthanasia?",False,False
+213,mmlu_moral_disputes," In response to the objection that it would be wrong to prohibit the manufacture and sale of fatty foods and tobacco products, de Marneffe argues that",False,False
+214,mmlu_moral_disputes," According to Kass, one problem with cloning is that",True,True
+215,mmlu_moral_disputes," In Carruther's view, the justification for moral criticism for things that we do (or don't to do) to an animal derives from",False,True
+216,mmlu_moral_disputes," One way to value a patient's autonomy is by aiming to maximize his or her effective options. When we value a patient's autonomy in this way, what, according to Velleman, do we value?",True,False
+217,mmlu_moral_disputes," McGrecgor, following Hampton, argues that the harm of rape involves",True,False
+218,mmlu_moral_disputes," On Mill's view, the collision with error makes",True,False
+219,mmlu_moral_disputes, According to Kass the fact that people (like him) feel repugnance at the thought of human reproductive cloning,False,False
+220,mmlu_moral_disputes, Which of the following capacities does Carruther's assume that animals lack?,False,False
+221,mmlu_moral_disputes, Which of the following best characterizes de Marneffe's view?,False,False
+222,mmlu_moral_disputes," Wellman's response to the ""egalitarian"" objection to the state's right to exclude is that states can fulfill their duties to outsiders without allowing them into their territory. Fine thinks Wellman's response is insufficient because",True,True
+223,mmlu_moral_disputes," According to Huemer,",True,False
+224,mmlu_moral_disputes, One kind of externality imposed on the world's poor by the economic activity of wealthy nation is,False,False
+225,mmlu_moral_disputes," In therapeutic cloning, the goal is to",True,False
+226,mmlu_moral_disputes," According to Collins, one key claim of care ethics is that",True,True
+227,mmlu_moral_disputes," According to Confucian the model of persons,",True,False
+228,mmlu_moral_disputes, Which of the following is an example of a virtue?,True,True
+229,mmlu_moral_disputes," Carens argues that, for example, liberal egalitarianism has nothing to say about the question of whether a black doctor has a moral obligation to practice in a black community. This is because the only limit that liberal egalitarianism places on individuals' moral obligations, according to Caren, is that they",True,True
+230,mmlu_moral_disputes, Sandel's case against moral engineering can best be considered,False,False
+231,mmlu_moral_disputes," One problem with treating the ticking bomb case as involving only a single instance of torture, according to Baron, is that",True,False
+232,mmlu_moral_disputes," According to Cohen, animals are",False,False
+233,mmlu_moral_disputes," One objection to care ethics is thatit seems to imply that we areresponsible for our attitudes, even though they seem not to be under our voluntary control. Collins responds by arguing that",True,True
+234,mmlu_moral_disputes," According to Sinnott-Armstrong, if we cannot find any moral principle to back up our intuition that wasteful driving (of the sort mentioned in his article) is wrong, then",True,True
+235,mmlu_moral_disputes," The idea of ""using someone as a mere means"" is centrally relevant to which of the following moral theories?",True,True
+236,mmlu_moral_disputes," According to consequentialist theories of punishment, a lawbreaker should be punished only if",True,False
+237,mmlu_moral_disputes, Which of the following is not an example Aquinas gives of a self-evident proposition?,True,False
+238,mmlu_moral_disputes, Marquis argues that abortion is morally wrong by,False,False
+239,mmlu_moral_disputes," Of the following social problems that could result from a genetic supermarket, which does Singer think is the least serious?",True,True
+240,mmlu_moral_disputes," In response to Sandel's argument about the relationship between genetic enhancement and parent-child relationships, Kamm argues that",True,False
+241,mmlu_moral_disputes," According to Marquis, abortion is",True,True
+242,mmlu_moral_disputes," Michael Gill begins by discussing arguments against autonomy-based justifications of euthanasia. According to these arguments, autonomy-based justifications are contradictory because",False,False
+243,mmlu_moral_disputes, A war over ideological differences carried out by methods short of sustained overt military action and usually without breaking off diplomatic relations is known as,True,True
+244,mmlu_moral_disputes," Huemer worries that the employment of a ""war"" metaphor when describing government policies about drug use",False,False
+245,mmlu_moral_disputes, Which of the following is not one of the four main excuses for terrorism that Michael Walzer discusses?,False,False
+246,mmlu_moral_disputes, Christopher Heath Wellman defends the position that,True,False
+247,mmlu_moral_disputes," Ross proposed that we have a duty of reparation-that is, the prima facie duty-to",True,True
+248,mmlu_moral_disputes, Joseph Carens argues that restrictions on free migration can be justified if,False,False
+249,mmlu_moral_disputes, An unborn vertebrate animal that has developed to the point of having the basic structure that is characteristic of its kind is known as,False,False
+250,mmlu_moral_disputes, Corresponding to the theoretical aim of moral theory is the principle of,True,False
+251,mmlu_moral_disputes," According to Aquinas, every law is ordained to",False,True
+252,mmlu_moral_disputes, The question of whether the killing/letting die distinction is morally relevant can be posed by asking whether we are equally to blame for allowing people in Third World countries to starve as we would be for,True,True
+253,mmlu_moral_disputes, Singer presents his three-premise argument in addition to appealing to the case of the drowning child because,True,False
+254,mmlu_moral_disputes, Why can't animals be bearers of rights according to Cohen?,True,False
+255,mmlu_moral_disputes, An oocyte is,True,False
+256,mmlu_moral_disputes," According to Corvino, the ""unnaturalness"" charge can carry moral weight only if those who level it can do two things:",False,True
+257,mmlu_moral_disputes, Mill defends the harm principle on the basis of which moral theory?,True,False
+258,mmlu_moral_disputes," According to Carruthers, our duties to animals are",True,True
+259,mmlu_moral_disputes, Nagel clarifies that absolutism is the view that we should,True,False
+260,mmlu_moral_disputes," An unjust society, according to John Rawls, can be roughly characterized as any society where",True,True
+261,mmlu_moral_disputes," With respect to the issue of world hunger and poverty, Arthur points out that Singer ignores",False,False
+262,mmlu_moral_disputes," According to Altman, a viewpoint-biased speech restriction should be troubling to whom?",False,True
+263,mmlu_moral_disputes," According to McGregor, the expressive harm of rape",False,True
+264,mmlu_moral_disputes, Which of the following is not an objection Pence gives to the argument that SCNT is not best for the child?,True,False
+265,mmlu_moral_disputes," According to rule consequentialism, the rightness or wrongness of an action depends on",True,True
+266,mmlu_moral_disputes," Kant argues that because sexual attraction involves seeing another person as the object of one's appetites,",True,False
+267,mmlu_moral_disputes, One common objection to utilitarianism is that the principle of utility is,True,True
+268,mmlu_moral_disputes," According to Macedo, we have special obligations to our fellow citizens arising from",True,True
+269,mmlu_moral_disputes," According to the basic principle of natural law theory, an action is right if and only if (and because)",False,True
+270,mmlu_moral_disputes," In reproductive cloning, the cloned individual will have nearly the same genetic makeup as",False,False
+271,mmlu_moral_disputes, One of the messages Nathanson believes we can send by abolishing the death penalty is that,True,True
+272,mmlu_moral_disputes, Rachels believes that active euthanasia is better than passive euthanasia in cases where,True,False
+273,mmlu_moral_disputes," According to Altman, expressive harm is",False,False
+274,mmlu_moral_disputes, Papadaki thinks that in cases where partners in a relationship mutually deny each other's humanity that,True,True
+275,mmlu_moral_disputes, Which of the following statements would Macedo disagree with?,True,False
+276,mmlu_moral_disputes, Which of the following best characterizes Rachels's argument?,True,False
+277,mmlu_moral_disputes," Suppose two athletes, A and B, are equally skilled. Suppose also that A naturally inherited certain traits from her father that made playing the sport easier for her, and thus she didn't have to train as hard as B. According to the ethic of willfulness,",True,False
+278,mmlu_moral_disputes," According to Altman, justifications of speech codes that take account of which of the following kinds of harm have the best prospects for success?",False,False
+279,mmlu_moral_disputes," Kant's Universal Law formulation does not refer to an agent's wants; rather, it represents",True,False
+280,mmlu_moral_disputes," Wellman cites a number of ""unpalatable implications that follow from denying a country's right to freedom of association,"" including",True,True
+281,mmlu_moral_disputes," According to West, which of the following reasons for a women to engage in sex with her male partner may cause her harm?",True,True
+282,mmlu_moral_disputes," According to Kant, an imperative that represents an action as a necessary means to something that is willed is what kind of imperative?",True,False
+283,mmlu_moral_disputes, What does Pence think is an appropriate standard for the safety of SCNT before it should be allowed?,True,True
+284,mmlu_moral_disputes, Which of the following claims would Leopold clearly accept?,False,False
+285,mmlu_moral_disputes, Mill argues on that even a false opinion should not be censored because,False,False
+286,mmlu_moral_disputes," Norcross claims that if morality demands that we not torture puppies merely to enhance our own eating pleasure, morality also demands that",True,True
+287,mmlu_moral_disputes, Which of the following is not one of the potentially negative consequences of imposing the death penalty?,True,False
+288,mmlu_moral_disputes," According to Sinnott-Armstrong, the fact your government morally ought to do something",False,False
+289,mmlu_moral_disputes, Some forms of misogynist speech only target a subset of women. Richardson-Self argues that we should,True,True
+290,mmlu_moral_disputes," Instead of asking why the act of destroying the environment might be immoral, Hill wants to ask",False,False
+291,mmlu_moral_disputes, Philippa Foot explains the moral relevance of the killing/letting die distinction by appealing to,True,True
+292,mmlu_moral_disputes, Which of the following is an example of a duty-based moral theory?,True,True
+293,mmlu_moral_disputes, Lukianoff and Haidt argue that trigger warnings involve which kind of pathological thinking?,False,False
+294,mmlu_moral_disputes, Corresponding to the practical aim of moral theory is the principle of,False,True
+295,mmlu_moral_disputes," By recognizing that we have backup duties to donate to aid agencies, Ashford argues that we can",False,False
+296,mmlu_moral_disputes, Which of the following is a view that Dershowitz argues for?,True,True
+297,mmlu_moral_disputes," According to de Marneffe, which of the following is a reason we might call someone a drug addict?",True,True
+298,mmlu_moral_disputes," On McGregor's view, our rights carve out",False,False
+299,mmlu_moral_disputes, Which of the following is an example of a duty that corresponds to a right to goods and service?,True,True
+300,mmlu_moral_disputes," In response to the worry that the freedom of association could justify immigration policies that exclude entry to members of a given race, Wellman claims that",True,False
+301,mmlu_moral_disputes, Which of the following conditions would make a slippery-slope argument fallacious?,True,False
+302,mmlu_moral_disputes," According to Carruthers, which of the following groups should not be accorded direct moral standing?",True,True
+303,mmlu_moral_disputes," If the killing/letting die distinction is morally relevant, then that would show that the following distinction is also morally relevant:",False,False
+304,mmlu_moral_disputes, Macedo describes his position on immigration as politically,True,True
+305,mmlu_moral_disputes," In the context of Gardiner's article, what is ""the dispersion of causes and effects""?",True,False
+306,mmlu_moral_disputes, Kant refers to the special worth or value of persons as,True,False
+307,mmlu_moral_disputes, Stephen Macedo approaches the ethical issue of immigration from the perspective of _____ justice.,True,True
+308,mmlu_moral_disputes," On Kant's view, it is morally permissible to:",True,False
+309,mmlu_moral_disputes, West posits that one reason that these harms go unnoticed in the U.S. is that people in the U.S.,True,False
+310,mmlu_moral_disputes, Cases in which a doctor is involved to some degree in assisting an individual to commit suicide are known as,True,False
+311,mmlu_moral_disputes," In contrast to other moral theories, care ethics emphasizes",True,True
+312,mmlu_moral_disputes, Why does Metz think that extant dignity-based arguments based on African values fail?,True,True
+313,mmlu_moral_disputes," John considers what Mary has done and thinks to himself, Mary did the right thing. This thought is primarily a judgment about",True,False
+314,mmlu_moral_disputes, A central premise of Wellman's argument is that the state's right to freedom of association implies a right to _____ prospective members:,True,False
+315,mmlu_moral_disputes, Papadaki argues that the narrow view of sexual objectification,True,True
+316,mmlu_moral_disputes, Baron cites a summary of Ali Soufan's Senate testimony to suggest that,False,True
+317,mmlu_moral_disputes, A war that involves actual fighting is known as,True,False
+318,mmlu_moral_disputes, Carens defends a form of,True,False
+319,mmlu_moral_disputes," Callahan cites the Oregon Death with Dignity Legal Defense and the Education Center's finding that ""after four full years .. there have been no missteps, abuses or coercive tendencies"" regarding laws permitting euthanasia. In response he argues that",False,False
+320,mmlu_moral_disputes, Which of the following is not an example of a natural right that Locke uses?,True,False
+321,mmlu_moral_disputes," Shapiro claims that humans are social or cultural animals, which is significant for his view because it implies that",True,True
+322,mmlu_moral_disputes, Van den Haag thinks that we can't know whether a murderer who receives the death penalty,False,False
+323,mmlu_moral_disputes, Critics of speech codes adopted in the 1980s and early 1990s argued that these codes violated which of the following principles?,False,False
+324,mmlu_moral_disputes," According to Aristotle, if something has a function, then its good depends on",True,True
+325,mmlu_moral_disputes," Suppose Nathan argues that while neither nonhuman nor nonsentient beings have direct moral standing, we still ought to have a certain noninstrumental regard for the environment because failing to do so involves a deficiency in one's moral character. Nathan is most likely applying what moral theory?",True,False
+326,mmlu_moral_disputes," More than communicating to an individual, McGregor argues that rape",False,True
+327,mmlu_moral_disputes, What is the main difference between a cloned (SCNT) individual and an individual who is a product of normal sexual reproduction?,True,False
+328,mmlu_moral_disputes," According to Lee and George, ova/sperm are not human beings because",False,False
+329,mmlu_moral_disputes, Little suggests that we should think about the abortion issue in terms of degrees and layers because,False,False
+330,mmlu_moral_disputes, West worries that liberal theory in academia has inadvertently led to the under-acknowledgement of the harms of consensual sex because,True,True
+331,mmlu_moral_disputes, Utilitarian arguments depend heavily on factual claims about,False,True
+332,mmlu_moral_disputes," In his discussion of discrimination in war, Valls suggests that",False,True
+333,mmlu_moral_disputes," Which of the following is not, according to Carens, a concern for all liberal egalitarians?",True,False
+334,mmlu_moral_disputes, Lukianoff and Haidt argue that American colleges and universities now encourage,False,False
+335,mmlu_moral_disputes, Aristotle defines virtue as,True,True
+336,mmlu_moral_disputes, Nagel thinks that the core of the absolutist position is that,False,False
+337,mmlu_moral_disputes," Which of the following is a ""positional good,"" according to Peter Singer's definition?",True,False
+338,mmlu_moral_disputes, Aquinas's moral theory is a version of,True,True
+339,mmlu_moral_disputes," Van den Haag responds to the ""miscarriages of justice"" objection by claiming that",True,False
+340,mmlu_moral_disputes," Which of the following does Corvino take to be a problematic ""hidden assumption"" of harm arguments against homosexuality?",True,True
+341,mmlu_moral_disputes, Patrick Lee and Robert George argue that human embryos are complete human beings because,True,True
+342,mmlu_moral_disputes," Hate speech, according to Richardson-Self involves",True,True
+343,mmlu_moral_disputes," When we think about the norms of creation, Little argues that",True,False
+344,mmlu_moral_disputes," In Altman's characterization, racial epithets and similar terms of abuse are communicative tools for expressing an extreme form of which of the following?",True,True
+345,mmlu_moral_disputes," In ethics, the terms ""right"" and ""wrong"" are used primarily to evaluate the morality of",True,True

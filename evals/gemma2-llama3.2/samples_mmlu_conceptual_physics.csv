@@ -1,0 +1,236 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_conceptual_physics,A 10-N force at an angle 45° above the horizontal has a horizontal component of about,True,False
+1,mmlu_conceptual_physics,A completely submerged object always displaces its own,False,False
+2,mmlu_conceptual_physics,"When a diver points a flashlight upward toward the surface of the water at an angle 20° from the normal, the beam of light",False,False
+3,mmlu_conceptual_physics,"According to four-dimensional geometry, the angles of a triangle add to 180°",False,True
+4,mmlu_conceptual_physics,A voltage will be induced in a wire loop when the magnetic field within that loop,True,False
+5,mmlu_conceptual_physics,"Among these colors, the one that has the most energy per photon is",True,True
+6,mmlu_conceptual_physics,"According to general relativity,",True,True
+7,mmlu_conceptual_physics,A step-up transformer in an electric circuit can step up,True,False
+8,mmlu_conceptual_physics,Spectral lines of the elements are,True,True
+9,mmlu_conceptual_physics,A wave transfers,True,False
+10,mmlu_conceptual_physics,"Immediately after two separated charged particles are released from rest, both increase in acceleration. The sign of charge of the particles is therefore",False,True
+11,mmlu_conceptual_physics,The surface of planet Earth loses energy to outer space due mostly to,True,True
+12,mmlu_conceptual_physics,"In a series circuit, if the current in one lamp is 2 A, the current in the lamp next to it is",False,False
+13,mmlu_conceptual_physics,"As a blinking light source approaching you gains speed, you see the frequency of flashes",True,True
+14,mmlu_conceptual_physics,In the absence of air resistance a ball of mass m is tossed upward to reach a height of 20 m. At the 10-m position half way up the net force on the ball is,True,False
+15,mmlu_conceptual_physics,Pumice is a volcanic rock that floats in water. The density of pumice compared with that of water is,True,False
+16,mmlu_conceptual_physics,When you look at the red petals of a rose the color light you're seeing is,True,True
+17,mmlu_conceptual_physics,Compared with the sound you hear from the siren of a stationary fire engine the sound you hear when it approaches you has an increased,True,False
+18,mmlu_conceptual_physics,"When you squeeze an air-filled party balloon, you increase its",False,False
+19,mmlu_conceptual_physics,Polarization is a property of,True,False
+20,mmlu_conceptual_physics,"In a vacuum, an object has no",True,False
+21,mmlu_conceptual_physics,Temperature is generally proportional to a substance’s,False,True
+22,mmlu_conceptual_physics,"In a hydraulic press operation, the output piston cannot",True,False
+23,mmlu_conceptual_physics,When a spinning system contracts in the absence of an external torque its rotational speed increases and its angular momentum,False,False
+24,mmlu_conceptual_physics,"According to Hooke’s law, if you hang by a tree branch and note how much it bends, then hanging with twice the weight produces",True,True
+25,mmlu_conceptual_physics,When an increase in speed doubles the kinetic energy of a moving body its momentum,True,False
+26,mmlu_conceptual_physics,Suppose the number of neutrons in a reactor that is starting up doubles each minute reaching one billion neutrons in 10 minutes. When did the number of neutrons reach half a billion?,False,False
+27,mmlu_conceptual_physics,"If an object is already moving and the sum of all the vector forces on a mass is zero, then the object will",True,False
+28,mmlu_conceptual_physics,"Relativity equations for time, length, and momentum hold true for",True,True
+29,mmlu_conceptual_physics,Put a saucer of water on your table. A process that then occurs is,False,True
+30,mmlu_conceptual_physics,A barometer that uses water instead of mercury will be,False,True
+31,mmlu_conceptual_physics,A heavy rock and a light rock in free fall (zero air resistance) have the same acceleration. The heavy rock doesn't have a greater acceleration because the,False,True
+32,mmlu_conceptual_physics,When an increase in speed doubles the momentum of a moving body its kinetic energy,False,True
+33,mmlu_conceptual_physics,The equation E = mc^2 indicates that energy,True,True
+34,mmlu_conceptual_physics,General relativity predicts that,True,True
+35,mmlu_conceptual_physics,"When an element ejects an alpha particle, the atomic number of the resulting element",True,False
+36,mmlu_conceptual_physics,"As more lamps are connected in parallel in a circuit, the current in the power source",True,True
+37,mmlu_conceptual_physics,An airplane with its nose pointing north with an airspeed of 40 km/h in a 30-km/h crosswind (at right angles) has a groundspeed of,True,False
+38,mmlu_conceptual_physics,The energy of an emitted photon is related to its,True,True
+39,mmlu_conceptual_physics,Thermal conduction involves mainly,True,True
+40,mmlu_conceptual_physics,Compared with the current in an LED lamp the current in the connecting wire is,False,False
+41,mmlu_conceptual_physics,Bow waves are produced by waves of water,False,True
+42,mmlu_conceptual_physics,The speed of sound is slightly greater on a,False,True
+43,mmlu_conceptual_physics,"Consider two mercury barometers, one having a cross-sectional area of 1 cm2 and the other 2 cm2. The height of mercury in the narrower tube is",True,False
+44,mmlu_conceptual_physics,The second law of thermodynamics tells us that heat doesn’t flow from,False,True
+45,mmlu_conceptual_physics,In a mixture of hydrogen oxygen and nitrogen gases at a given temperature the molecules having the greatest average speed are those of,True,False
+46,mmlu_conceptual_physics,"Compared with the power input, the power output of an ideal transformer is",True,False
+47,mmlu_conceptual_physics,The amount of air drag on an 0.8-N flying squirrel dropping vertically at terminal velocity is,False,False
+48,mmlu_conceptual_physics,The vibrations in a longitudinal wave move in a direction,True,False
+49,mmlu_conceptual_physics,The potential energy of a compressed spring and the potential energy of a charged object both depend on,True,False
+50,mmlu_conceptual_physics,A step-up transformer in an electrical circuit can step up,True,False
+51,mmlu_conceptual_physics,The neutrons in an atom are normally found,True,True
+52,mmlu_conceptual_physics,The greenish-blue color of ocean water is due mostly to light that hasn’t been,True,False
+53,mmlu_conceptual_physics,Noise-canceling devices make use of sound,True,True
+54,mmlu_conceptual_physics,Black is the combination of,False,False
+55,mmlu_conceptual_physics,"In a circuit of two lamps in parallel, if the current in one lamp is 2 A, the current in the other lamp is",False,True
+56,mmlu_conceptual_physics,Which of these changes when light refracts in passing from one medium to another?,False,True
+57,mmlu_conceptual_physics,"If the frequency of one source of sound is 500 Hz and a second sound source is 504 Hz, then when the two waves interfere with each other, the beat frequency will be",False,True
+58,mmlu_conceptual_physics,The loudness of a sound is most closely related to its,True,True
+59,mmlu_conceptual_physics,The electric field inside the dome of a Van de Graaff generator is zero when the dome is,False,False
+60,mmlu_conceptual_physics,The redness of a sunrise or sunset is due mostly to light that hasn’t been,False,True
+61,mmlu_conceptual_physics,"When a nucleus of uranium-238 emits an alpha particle, left behind is",False,False
+62,mmlu_conceptual_physics,The Doppler effect occurs when a source of sound moves,False,False
+63,mmlu_conceptual_physics,"When a proton is plucked from an atomic nucleus, the atom has a decrease in",False,True
+64,mmlu_conceptual_physics,"If the Sun were twice as massive, its pull on Mars would be",True,True
+65,mmlu_conceptual_physics,During the time an aircraft produces a sonic boom the aircraft is,False,False
+66,mmlu_conceptual_physics,"When food is exposed to gamma radiation, the food",False,False
+67,mmlu_conceptual_physics,The red glow in the neon tube of an advertising sign is a result of,False,False
+68,mmlu_conceptual_physics,Light that is not transmitted by opaque materials is,True,True
+69,mmlu_conceptual_physics,Imagine you're standing on the surface of a shrinking planet. If it shrinks to one-tenth its original diameter with no change in mass on the shrunken surface you'd weigh,False,False
+70,mmlu_conceptual_physics,A magnetic force acting on a beam of electrons can change its,True,False
+71,mmlu_conceptual_physics,Microscopic slush in water tends to make the water,True,True
+72,mmlu_conceptual_physics,The speed of sound in air depends on,True,False
+73,mmlu_conceptual_physics,Heat comes from the Sun to Earth by the process of,False,False
+74,mmlu_conceptual_physics,A torque is a force,True,True
+75,mmlu_conceptual_physics,All of the following are electromagnetic waves EXCEPT,True,True
+76,mmlu_conceptual_physics,Big brother and little sister can balance on a seesaw because of balanced,False,False
+77,mmlu_conceptual_physics,Any atom that emits an alpha particle or beta particle,False,False
+78,mmlu_conceptual_physics,Regelation occurs due to water’s,False,False
+79,mmlu_conceptual_physics,"A big fish swims upon and swallows a small fish that is at rest. Right after lunch, the fattened big fish has a change in",False,False
+80,mmlu_conceptual_physics,A capacitor can store,True,True
+81,mmlu_conceptual_physics,"For a tube closed at one end, the length of the tube at a frequency of 256 Hz will be",False,True
+82,mmlu_conceptual_physics,The period of a 10-Hz wave is,True,False
+83,mmlu_conceptual_physics,If the Sun collapsed to become a black hole Planet Earth would,False,False
+84,mmlu_conceptual_physics,The electric field between a pair of oppositely charged parallel plates,False,False
+85,mmlu_conceptual_physics,The flight of a blimp best illustrates,False,True
+86,mmlu_conceptual_physics,The distance of your image behind a plane mirror is equal to,False,False
+87,mmlu_conceptual_physics,The discrete orbits of electrons are best understood when modeled by,False,False
+88,mmlu_conceptual_physics,"Heat engines, such as a jet engine, are more efficient when run at",True,True
+89,mmlu_conceptual_physics,The phenomenon of interference occurs for,True,True
+90,mmlu_conceptual_physics,As more lamps are connected in a series circuit the current in the power source,True,True
+91,mmlu_conceptual_physics,"When you buy a pipe in a hardware store, the water isn’t included. When you buy copper wire, electrons",False,False
+92,mmlu_conceptual_physics,When a uranium nucleus undergoes fission the energy released is primarily in the form of,False,False
+93,mmlu_conceptual_physics,Most of the radiation in Earth’s biosphere is,True,True
+94,mmlu_conceptual_physics,When white light enters a prism green light is bent more than,True,False
+95,mmlu_conceptual_physics,When a ball at rest hangs by a single vertical string tension in the string is mg. If the ball is made to move in amhorizontal circle so that the string describes a cone string tension,False,False
+96,mmlu_conceptual_physics,"When a tin can is whirled in a horizontal circle, the net force on the can acts",True,False
+97,mmlu_conceptual_physics,The highest ocean tides occur when Earth and the Moon are,True,False
+98,mmlu_conceptual_physics,"Lift a 100-N crate with an ideal pulley system by pulling a rope downward with 25 N of force. For every 1-m length of rope pulled down, the crate rises",False,False
+99,mmlu_conceptual_physics,"Hot sand cools off faster at night than does vegetation. Compared with vegetation, sand’s specific heat capacity is",True,False
+100,mmlu_conceptual_physics,The color of light most intense in the solar radiation curve is,False,False
+101,mmlu_conceptual_physics,"If the current in the filament of a lamp is 3 A, the current in the connecting wire is",True,False
+102,mmlu_conceptual_physics,"If two protons and two neutrons are removed from the nucleus of neon-20, a nucleus of which element remains?",False,True
+103,mmlu_conceptual_physics,"If a star that is 20 light-years from Earth explodes, gravitational waves from the explosion would reach Earth in",False,False
+104,mmlu_conceptual_physics,"In a mixture of hydrogen, oxygen, and nitrogen gases at a given temperature, the fastest molecules on average are those of",True,True
+105,mmlu_conceptual_physics,The mutual induction of electric and magnetic fields can produce,False,False
+106,mmlu_conceptual_physics,"When a model car speeds up to three times its original speed, its kinetic energy is",False,False
+107,mmlu_conceptual_physics,"If an iron nucleus split in two, its fission fragments would have",False,True
+108,mmlu_conceptual_physics,The surface of Planet Earth loses energy to outer space due mostly to,True,True
+109,mmlu_conceptual_physics,The direction of natural processes is from states of,True,False
+110,mmlu_conceptual_physics,A principal source of the Earth’s internal energy is,True,False
+111,mmlu_conceptual_physics,A diffraction grating relies on light,True,True
+112,mmlu_conceptual_physics,A satellite in Earth orbit is above Earth’s,True,False
+113,mmlu_conceptual_physics,The time it takes for a pendulum swinging to and fro refers to its,False,True
+114,mmlu_conceptual_physics,"As entropy in a system increases, energy in the system",False,True
+115,mmlu_conceptual_physics,"When water changes to steam, energy is",True,False
+116,mmlu_conceptual_physics,"According to Coulomb, a pair of charged particles placed twice as close to each other experience a force",True,True
+117,mmlu_conceptual_physics,"The factors, both of which will increase the magnetic field strength of an electromagnet, are",True,True
+118,mmlu_conceptual_physics,The team that wins in a tug-of-war is the team that,False,False
+119,mmlu_conceptual_physics,Which type of radiation from cosmic sources predominates on the inside of high-flying commercial airplanes?,True,True
+120,mmlu_conceptual_physics,Thermal convection involves mainly,True,False
+121,mmlu_conceptual_physics,A 10-Ω resistor carries 10 A. The voltage across the resistor is,False,False
+122,mmlu_conceptual_physics,A cannonball is fired horizontally at 10 m/s from a cliff. Its speed one second after being fired is about,False,True
+123,mmlu_conceptual_physics,The average speed of a gazelle traveling a distance of 2 km in a time of one-half hour is,True,False
+124,mmlu_conceptual_physics,The metal detectors people walk through at airports operate via,True,True
+125,mmlu_conceptual_physics,Sound travels in,True,True
+126,mmlu_conceptual_physics,When a fusion reaction converts a pair of hydrogen isotopes to an alpha particle and a neutron most of the energy released is in the form of,False,False
+127,mmlu_conceptual_physics,Polarization is a property of,True,False
+128,mmlu_conceptual_physics,The phenomenon of beats results from sound,False,False
+129,mmlu_conceptual_physics,"The lowest possible temperature is absolute zero, at",False,False
+130,mmlu_conceptual_physics,Refraction occurs when a wave crosses a boundary and changes,True,True
+131,mmlu_conceptual_physics,"When you tap a piece of wood, it will produce a characteristic sound related to its",True,True
+132,mmlu_conceptual_physics,"When wind speeds up as it blows over the top of a hill, atmospheric pressure there",True,True
+133,mmlu_conceptual_physics,"When white light passes through a prism, the light that bends more than green is",False,True
+134,mmlu_conceptual_physics,"If you travel at high speed, then compared with your friends who “stay at home,” you are",True,True
+135,mmlu_conceptual_physics,The component of velocity that can remain constant for a tossed baseball is,True,False
+136,mmlu_conceptual_physics,The crystals that make up minerals are composed of,True,True
+137,mmlu_conceptual_physics,"Two vectors, one 3 N and the other 4 N, can have a resultant of",True,False
+138,mmlu_conceptual_physics,Radioactivity has been around on Earth since the,True,False
+139,mmlu_conceptual_physics,"When the shadow of the Moon falls on Earth, we have a",False,False
+140,mmlu_conceptual_physics,"In both fission and fusion, energy is released while mass",True,False
+141,mmlu_conceptual_physics,"When relatively slow-moving molecules condense from the air, the temperature of the remaining air tends to",False,False
+142,mmlu_conceptual_physics,"If the volume of an object were to double, with no change in mass, its density would",True,False
+143,mmlu_conceptual_physics,The pressure at the bottom of a pond does NOT depend on the,False,False
+144,mmlu_conceptual_physics,The blueness of the daytime sky is due mostly to light,False,True
+145,mmlu_conceptual_physics,A galvanometer can be calibrated to read electric,True,True
+146,mmlu_conceptual_physics,Which of these temperatures is likely when a container of water at 20°C is mixed with water at 28°C?,True,False
+147,mmlu_conceptual_physics,To view your full-face image in a steamy mirror compared with the height of your face the minimum height of the patch to wipe away is,False,False
+148,mmlu_conceptual_physics,The vibrations in a transverse wave move in a direction,True,True
+149,mmlu_conceptual_physics,A 1134-Hz tuning fork is sounded at the same time a piano note is struck. You hear three beats per second. The frequency of the piano string is,False,True
+150,mmlu_conceptual_physics,Huygens’ principle for light is primarily described by,True,False
+151,mmlu_conceptual_physics,"When the temperature of a strip of iron is increased, the length of the strip",True,False
+152,mmlu_conceptual_physics,"When light undergoes interference, it can sometimes",False,False
+153,mmlu_conceptual_physics,When the color yellow is seen on your TV screen the phosphors being activated on the screen are,False,False
+154,mmlu_conceptual_physics,Which of these does NOT belong in the family of electromagnetic waves?,True,True
+155,mmlu_conceptual_physics,A math book and a physics book sitting on a table are tied together with a length of string. With the string taut one book is pushed off the edge of the table. As it falls the other book is dragged horizontally across the table surface. With no friction acceleration of the books is,False,False
+156,mmlu_conceptual_physics,A motor and a generator are,True,False
+157,mmlu_conceptual_physics,As more lamps are connected in parallel in a circuit the current in the power source,True,True
+158,mmlu_conceptual_physics,Newton’s law of cooling applies to objects that,False,True
+159,mmlu_conceptual_physics,The fact that the Moon always shows its same face to Earth is evidence that the Moon rotates about its axis about once per,False,False
+160,mmlu_conceptual_physics,Consider a ball rolling in a horizontal circular path on the inside surface of a cone. The normal force on the ball,False,False
+161,mmlu_conceptual_physics,The compressions and rarefactions in sound normally travel,True,False
+162,mmlu_conceptual_physics,The power required to raise a 100-kg crate a vertical distance of 2 m in a time of 4 s is,False,True
+163,mmlu_conceptual_physics,The phenomenon of beats is the result of sound,True,True
+164,mmlu_conceptual_physics,Interference is characteristic of,True,True
+165,mmlu_conceptual_physics,"In either a fission event or a fusion event, a quantity that remains unchanged is the",False,True
+166,mmlu_conceptual_physics,The magnetic force on a moving charged particle can change the particle's,False,False
+167,mmlu_conceptual_physics,"If you were to travel at a speed close to the speed of light, you could notice that your own",False,False
+168,mmlu_conceptual_physics,Electricity and magnetism connect to form,False,False
+169,mmlu_conceptual_physics,Sound travels in air by a series of,True,True
+170,mmlu_conceptual_physics,"When a cannonball is fired from a cannon, both the cannonball and the cannon experience equal",False,False
+171,mmlu_conceptual_physics,The nucleus of an electrically neutral iron atom contains 26 protons. The number of electrons this iron atom has is,False,True
+172,mmlu_conceptual_physics,To say that a rose petal is red is to say that it,True,True
+173,mmlu_conceptual_physics,"Compared with a sound of 60 decibels, a sound of 80 decibels has an intensity",False,False
+174,mmlu_conceptual_physics,"When red and blue light are overlapped, the color produced is",True,False
+175,mmlu_conceptual_physics,"When 100 J are put into a device that puts out 40 J of useful work, the efficiency of the device is",True,False
+176,mmlu_conceptual_physics,Shock waves are produced by waves of sound,False,True
+177,mmlu_conceptual_physics,A rock suspended by a weighing scale weighs 5 N out of water and 3 N when submerged in water. What is the buoyant force on the rock?,False,False
+178,mmlu_conceptual_physics,The work done on a 100-kg crate that is hoisted 2 m in a time of 4 s is,False,False
+179,mmlu_conceptual_physics,A capacitor loses half its remaining charge every second. If after five seconds its charge is q what was its initial charge?,False,False
+180,mmlu_conceptual_physics,The mass of an atom comes mostly from its _ ; and its volume from its _.,True,True
+181,mmlu_conceptual_physics,The definition of magnetic inclination is the angle between,False,True
+182,mmlu_conceptual_physics,The pitch of a sound is mostly related to its,True,True
+183,mmlu_conceptual_physics,"As more lamps are connected to a series circuit, the current in the power source",True,False
+184,mmlu_conceptual_physics,"When an element ejects an alpha particle, the mass number of the resulting element",False,True
+185,mmlu_conceptual_physics,An electron can be speeded up by,True,False
+186,mmlu_conceptual_physics,"A certain element emits 1 alpha particle, and its products then emit 2 beta particles in succession. The atomic number of the resulting element is changed by",True,False
+187,mmlu_conceptual_physics,"When an object is set vibrating by a wave that has a matching frequency, what occurs is",True,True
+188,mmlu_conceptual_physics,The red glow in the neon tube of an advertising sign is a result of,False,False
+189,mmlu_conceptual_physics,"At very high speeds, an object appears to an observer at rest to be",True,True
+190,mmlu_conceptual_physics,"When a wave moves from shallow water to deep water, the",True,False
+191,mmlu_conceptual_physics,When you drop a ball from rest it accelerates downward at 9.8 m/s^2. If you instead throw it downward assuming no air resistance its acceleration immediately after leaving your hand is,True,False
+192,mmlu_conceptual_physics,Carbon-14 is primarily produced by cosmic radiation in the,True,False
+193,mmlu_conceptual_physics,Chain reactions in a fission reactor are caused by,True,True
+194,mmlu_conceptual_physics,Satellites in circular Earth orbit maintain a constant speed because gravitational force on them is,False,True
+195,mmlu_conceptual_physics,The complementary color of blue is,False,False
+196,mmlu_conceptual_physics,"The difference between dc and ac in electric circuits is that in dc, charges flow",False,True
+197,mmlu_conceptual_physics,To receive an electric shock there must be a,False,True
+198,mmlu_conceptual_physics,A karate chop delivers a force of 3000 N to a board that breaks. The force that the board exerts on the hand during this event is,False,False
+199,mmlu_conceptual_physics,Find the speed of a wave by multiplying its frequency by its,False,True
+200,mmlu_conceptual_physics,The magnitude of the gravitational force on a satellite is constant if the orbit is,False,False
+201,mmlu_conceptual_physics,The impulse–momentum relationship is a direct result of Newton’s,True,True
+202,mmlu_conceptual_physics,A common nuclear fission reactor,True,False
+203,mmlu_conceptual_physics,The process of boiling water tends to,False,False
+204,mmlu_conceptual_physics,"When you scale up an object to 3 times its linear size, the surface area increases by",False,False
+205,mmlu_conceptual_physics,"If you change the magnetic field in a closed loop of wire, what is created in the loop is a(n)",True,True
+206,mmlu_conceptual_physics,Clocks on a fast-moving spaceship whizzing past Earth appear to run slow when viewed from,True,False
+207,mmlu_conceptual_physics,The model of light most supported by the photoelectric effect is the,True,False
+208,mmlu_conceptual_physics,"Compared with a fundamental tone, the frequency of its second harmonic is",True,True
+209,mmlu_conceptual_physics,A string is plucked producing four loops (antinodes). The length of the string is 12.00 m. The wavelength of the wave must be,False,False
+210,mmlu_conceptual_physics,"During the time an aircraft produces a sonic boom, the aircraft is",True,False
+211,mmlu_conceptual_physics,The principal source of Earth’s internal energy is,True,False
+212,mmlu_conceptual_physics,"When you brush your hair and scrape electrons from your hair, the charge of your hair becomes",True,False
+213,mmlu_conceptual_physics,Astrophysicists are able to identify the elements in the outer layers of a star by studying its,False,True
+214,mmlu_conceptual_physics,Relativistic equations for time dilation length contraction and relativistic momentum and energy hold true,True,False
+215,mmlu_conceptual_physics,"In his special theory of relativity, Einstein stated that the laws of physics are",True,True
+216,mmlu_conceptual_physics,"When an element ejects a beta particle, the atomic number of that element",False,True
+217,mmlu_conceptual_physics,The amount of heat transferred to a system can be measured in,True,False
+218,mmlu_conceptual_physics,"Compared with the sound you hear from the siren of a stationary fire engine, its sound when it approaches you has an increased",False,True
+219,mmlu_conceptual_physics,Light reflecting from a smooth surface undergoes a change in,False,False
+220,mmlu_conceptual_physics,What Einstein discovered about space and time is that they,False,True
+221,mmlu_conceptual_physics,All parts of a laser beam have the same,True,True
+222,mmlu_conceptual_physics,The rotational inertia of an object is greater when most of the mass is located,True,True
+223,mmlu_conceptual_physics,"When small pieces of material are assembled into a larger piece, the combined surface area",True,False
+224,mmlu_conceptual_physics,A rainbow is the result of light in raindrops that undergoes,False,True
+225,mmlu_conceptual_physics,"In the atomic nucleus, electrical forces tend to",False,True
+226,mmlu_conceptual_physics,The fact that the acceleration of free fall is the same for all masses is explained by Newton’s,True,True
+227,mmlu_conceptual_physics,"Compared with radiation from the Sun, terrestrial radiation has a lower",False,False
+228,mmlu_conceptual_physics,"When we speak of time dilation, we mean that time",False,True
+229,mmlu_conceptual_physics,The magnetic field lines about a current-carrying wire form,True,False
+230,mmlu_conceptual_physics,An inflated balloon with a heavy rock tied to it is dropped into a deep lake. As the balloon sinks deeper and deeper the buoyant force acting on it,False,True
+231,mmlu_conceptual_physics,"A radioactive sample has a half-life of 1 hour. If we start with 1.000 gram of it at noon, how much remains at 3:00 pm?",False,True
+232,mmlu_conceptual_physics,Boiling and freezing occur when water is subjected to,False,False
+233,mmlu_conceptual_physics,"When you bend the branch of a tree by hanging on its end, the top side of the branch is under",True,True
+234,mmlu_conceptual_physics,A simple and correct way to comprehend satellites orbiting Earth is to view them as,False,False

@@ -1,0 +1,101 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_global_facts,"As of 2016, about what percentage of adults aged 18 years or older were overweight?",False,True
+1,mmlu_global_facts,What was GDP per capita in the United States in 1850 when adjusting for inflation and PPP in 2011 prices?,False,False
+2,mmlu_global_facts,"As of 2019, about what percentage of people from the United States says homosexuality should be accepted by society?",False,True
+3,mmlu_global_facts,Which of the following countries generated the most total energy from solar sources in 2019?,True,True
+4,mmlu_global_facts,"Controlling for inflation and PPP-adjustment, about how much did GDP per capita increase from 1950 to 2016 in Japan?",False,False
+5,mmlu_global_facts,What is the biggest cause of death in children under five years old (as of 2017)?,True,True
+6,mmlu_global_facts,"As of 2019, about what percentage of the global population does not have access to safe drinking water?",False,True
+7,mmlu_global_facts,About what percentage of survey respondents from India report having paid a bribe in the last year to access public services (such as education; judiciary; medical and health; police; registry and permit services; utilities; tax revenue and customs; and land service) as of 2017?,False,True
+8,mmlu_global_facts,"As of 2017, what fraction of the population in Brazil used the internet in the past three months?",False,True
+9,mmlu_global_facts,"As of 2017, what fraction of the population in India used the internet in the past three months?",False,False
+10,mmlu_global_facts,"As of 2018, about what percentage of Indians say that having an increasing number of people of many different races, ethnic groups and nationalities in their country makes it a better place to live (as opposed to worse or no difference)?",False,True
+11,mmlu_global_facts,"As of 2019, about what percentage of the world population lives in extreme poverty (less than $1.90 a day)?",False,False
+12,mmlu_global_facts,"As of 2020, about what percentage of the world population practices open defecation?",False,True
+13,mmlu_global_facts,Which of the following is not an element of the redistribution-with-growth policy approach?,True,False
+14,mmlu_global_facts,About what percentage of the global population was literate in 1950?,False,False
+15,mmlu_global_facts,"As of 2016, about what percentage of adults aged 18 years or older were obese?",True,False
+16,mmlu_global_facts,"As of 2019, about what percentage of Germans say the relationship between the U.S. and Germany is good?",False,False
+17,mmlu_global_facts,"As of 2017, what percentage of Americans live in urban areas?",False,True
+18,mmlu_global_facts,What was GDP per capita in the United States in 1950 when adjusting for inflation and PPP in 2011 prices?,False,True
+19,mmlu_global_facts,"In 2016, about how many people in the United States were homeless?",True,False
+20,mmlu_global_facts,In 1965 how many Americans thought that sending troops to Vietnam was a mistake?,True,False
+21,mmlu_global_facts,"As of 2013, share of people in the Ethiopia who think political parties are corrupt is",True,False
+22,mmlu_global_facts,"In 1997, the World Bank found that the fraction of the world’s population living in low and lower-middle income countries—that is, countries with per capita incomes of $1230 or less—was approximately",False,False
+23,mmlu_global_facts,"As of 2015, agriculture made up about what percentage of total Indian GDP?",False,False
+24,mmlu_global_facts,Which of the following is true as of 2020?,False,True
+25,mmlu_global_facts,"As of 2019, about what percentage of people from Brazil says homosexuality should be accepted by society?",False,False
+26,mmlu_global_facts,"As of 2017, the share of GDP spent on the military by Saudi Arabia is about",False,False
+27,mmlu_global_facts,"As of 2019, about what share of electricity came from fossil fuels in the United States?",True,True
+28,mmlu_global_facts,What is the percentage of children aged 13-15 in Egypt who reported being bullied at least once in the past couple of months as of 2015?,False,False
+29,mmlu_global_facts,"As of 2018, about what percentage of US adults say criminal risk assessment for people up for parole is an unreasonable application of algorithmic decision making?",False,True
+30,mmlu_global_facts,"In 2018, about how many chickens were killed for meat production?",False,False
+31,mmlu_global_facts,"In 2016, what percentage of the population of South Sudan had access to electricity?",True,False
+32,mmlu_global_facts,About what percentage of survey respondents from Mexico report having paid a bribe in the last year to access public services (such as education; judiciary; medical and health; police; registry and permit services; utilities; tax revenue and customs; and land service) as of 2017?,False,False
+33,mmlu_global_facts,"Controlling for inflation and PPP-adjustment, about how much did GDP per capita increase from 1950 to 2016 in China?",False,False
+34,mmlu_global_facts,Ross Perot makes polling history by leading the presidential race briefly in June as a third-party candidate with 39%. He winds up with _% of the popular vote.,False,False
+35,mmlu_global_facts,"As of 2019, about what percentage of Turks say God plays an important role in their life?",False,False
+36,mmlu_global_facts,Which of the following was responsible for the most death in the 20th century?,False,False
+37,mmlu_global_facts,"What is the percentage of children aged 13-15 in the United States who reported being in a physical fight at school, one or more times during the past 12 months as of 2015?",False,False
+38,mmlu_global_facts,"Controlling for inflation and PPP-adjustment, about how much did GDP per capita increase from 1950 to 2016 in South Korea?",False,True
+39,mmlu_global_facts,"As of 2019, about what percentage of people from Turkey agree that the state is run for the benefit of all the people?",False,True
+40,mmlu_global_facts,"As of 2015, what percentage of the global population over 15 years old was literate?",True,False
+41,mmlu_global_facts,About what percentage of survey respondents from China report having paid a bribe in the last year to access public services (such as education; judiciary; medical and health; police; registry and permit services; utilities; tax revenue and customs; and land service) as of 2017?,True,False
+42,mmlu_global_facts,"As of 2019, which of the following had the lowest life expectancy?",False,False
+43,mmlu_global_facts,"As of 2019, unsafe water is responsible for about how many deaths each year?",True,False
+44,mmlu_global_facts,Which of the following causes more deaths globally each year (as of 2017)?,False,False
+45,mmlu_global_facts,About how many people are infected by HIV/AIDS as of 2020?,True,False
+46,mmlu_global_facts,What is the percentage of children aged 13-15 in the United States who reported being bullied at least once in the past couple of months as of 2015?,True,False
+47,mmlu_global_facts,"As of 2019, about what percentage of South Koreans say it is necessary to believe in God in order to be moral and have good values?",False,False
+48,mmlu_global_facts,What is the percentage of children aged 13-15 in Japan who reported being bullied at least once in the past couple of months as of 2015?,False,True
+49,mmlu_global_facts,"As of 2018, about what percentage of US adults say computer programs will always reflect human bias?",False,False
+50,mmlu_global_facts,"As of 2017, the share of GDP spent on the military by China is about",True,False
+51,mmlu_global_facts,"The conjecture that inequality first increases with development, then decreases with further development (known as the “inverted U hypothesis”) has, as of 2020, been",True,False
+52,mmlu_global_facts,"Worldwide, 30 year old men have spent 10 years in school, on average. How many years have women of the same age spent in school, as of 2020?",False,True
+53,mmlu_global_facts,"As of 2017, the share of deaths in Greenland by suicide is about",False,False
+54,mmlu_global_facts,"As of 2019, about what percentage of people from Russia says homosexuality should be accepted by society?",True,False
+55,mmlu_global_facts,"As of 2019, about what percentage of Americans say the relationship between the U.S. and Germany is good?",True,False
+56,mmlu_global_facts,"As of 2019, about what percentage of Americans say it is very important to have free media in our country without government/state censorship?",False,False
+57,mmlu_global_facts,In 1987 during Iran Contra what percent of Americans believe Reagan was witholding information?,False,False
+58,mmlu_global_facts,"In Sub-Saharan Africa, as of 2020,",True,False
+59,mmlu_global_facts,"World Bank data show that in 1995, the poorest 20% of households accounted for 7.5% of household income in Niger, the next 20% of households accounted for 11.8% of income, the middle 20% accounted for 15.5% of income, the second richest 20% accounted for 21.1% of income, and the top 20% accounted for 44.1% of income. What was the cumulative income share of the bottom 60% of households in Niger?",True,False
+60,mmlu_global_facts,How many children between the ages of 5-14 worked globally as of 2012?,True,True
+61,mmlu_global_facts,"Different less developed countries have different levels of secondary school enrollment. Some countries with high secondary-school enrollment are, as of 2020,",True,False
+62,mmlu_global_facts,The percentage of children in Vietnam (age 8) who reported physical punishment by teachers in the past week in 2009 was about what?,False,False
+63,mmlu_global_facts,The percentage of children in India (age 8) who reported physical punishment by teachers in the past week in 2009 was about what?,False,True
+64,mmlu_global_facts,"Consider the following statements: (1) In every country, people think other individuals in their country are less happy than they actually are. (2) In the United States, women’s happiness has increased both absolutely and relative to men. Which of these statements is True/False?",False,False
+65,mmlu_global_facts,"In 2017, about how many people died from terrorism globally?",False,True
+66,mmlu_global_facts,In 1935 roughly how many Americans were in favor of Social Security act?,True,False
+67,mmlu_global_facts,Which of the following countries emitted the most CO2 per capita in 2017?,True,False
+68,mmlu_global_facts,"As of 2019, about what percentage of Indians say it is necessary to believe in God in order to be moral and have good values?",False,True
+69,mmlu_global_facts,"What is the percentage of children aged 13-15 in China who reported being in a physical fight at school, one or more times during the past 12 months as of 2015?",False,False
+70,mmlu_global_facts,The percentage of children in Ethiopia (age 8) who reported physical punishment by teachers in the past week in 2009 was about what?,True,False
+71,mmlu_global_facts,"As of 2018, about what percentage of people from Tunisia say that having an increasing number of people of many different races, ethnic groups and nationalities in their country makes it a better place to live (as opposed to worse or no difference)?",False,False
+72,mmlu_global_facts,"As of 2015, the global fertility rate was about",True,True
+73,mmlu_global_facts,What is the median international income as of 2020?,True,False
+74,mmlu_global_facts,Before being reelected for a third term as president how many Americans approved of running a third time?,False,True
+75,mmlu_global_facts,"As of 2019, about what percentage of Italians say it is very important to have free media in our country without government/state censorship?",True,False
+76,mmlu_global_facts,Public spending on education in the world is about what percentage of global GDP as of 2017?,True,True
+77,mmlu_global_facts,"As of 2013, which of the following countries had the highest per capita rate of homelessness?",True,False
+78,mmlu_global_facts,"Overall, the growth rate of average incomes in less developed countries between 1960 and 1995",False,False
+79,mmlu_global_facts,"As of 2015, about what percentage of the world’s land area is forested?",False,False
+80,mmlu_global_facts,The greatest population growth rate has taken place,False,False
+81,mmlu_global_facts,The global HIV/AIDS death rate is highest for which of these age groups?,False,True
+82,mmlu_global_facts,"As of 2015, agriculture made up about what percentage of total US GDP?",True,False
+83,mmlu_global_facts,"As of 2017, what percentage of Indians live in urban areas?",False,False
+84,mmlu_global_facts,"Consider the following statements: (1) As countries get richer, the population tends to report higher average life satisfaction. (2) Important life events such as marriage or divorce do affect our happiness, but have surprisingly little long-term impact. Which of these statements is True/False, as of 2020?",True,False
+85,mmlu_global_facts,"At its peak, what was the approximate difference in approval of school desegration from the South and the rest of the U.S.?",False,False
+86,mmlu_global_facts,"As of 2013, share of people in the United States who think political parties are corrupt is",False,True
+87,mmlu_global_facts,Which of the following countries invested the largest fraction of its GDP in renewable energy in 2015?,False,False
+88,mmlu_global_facts,"As of 2020, about how much do you need to make annually to be among the richest one percent in the world?",False,False
+89,mmlu_global_facts,In 1943 how many Americans believed in the Holocaust?,False,False
+90,mmlu_global_facts,Which of the following countries emitted the most CO2 in 2017?,False,False
+91,mmlu_global_facts,"At the time of independence, there were already hundreds of thousands of university graduates in ____, but hardly any at all in ____.",False,True
+92,mmlu_global_facts,"As of 2013, share of people in the India who think political parties are corrupt is",False,False
+93,mmlu_global_facts,"As of 2019, about what percentage of French people say God plays an important role in their life?",False,False
+94,mmlu_global_facts,"As of 2017, the share of GDP spent on the military by the United States is about",False,True
+95,mmlu_global_facts,"As of 2017, the share of global deaths by suicide is about",False,True
+96,mmlu_global_facts,Many countries that became independent after World War II found that the legacy of colonialism hindered their economic development. The list of hindrances included,True,True
+97,mmlu_global_facts,Which of the following mental disorders is most prevalent in the world?,True,False
+98,mmlu_global_facts,"As of 2017, how many people in the world have some access to electricity?",False,True
+99,mmlu_global_facts,Before Nixon resigned how many believed he should be removed from office?,False,False

@@ -1,0 +1,224 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_human_aging,The study of older adults and aging is referred to as,True,False
+1,mmlu_human_aging,Which of the following factors is associated with a decreased risk of Alzheimer's?,True,False
+2,mmlu_human_aging,The docility hypothesis is that,True,False
+3,mmlu_human_aging,Normal memory seems to be improved by,True,False
+4,mmlu_human_aging,The perspective that development is embedded in history means that,True,False
+5,mmlu_human_aging,"The answer ""both play an important role"" is clearly applicable to the question of",True,True
+6,mmlu_human_aging,Which of the following does NOT usually occur to the lens of the eye as one grows older?,True,False
+7,mmlu_human_aging,The houses of the future may allow you to operate virtually everything in the house from a central terminal; such a house is already in production and is referred to as,False,True
+8,mmlu_human_aging,The reaction time difference between younger and older adults is reduced when older adults,True,True
+9,mmlu_human_aging,A major difference between programmed and unprogrammed theories of senescence is that programmed theories,True,True
+10,mmlu_human_aging,One reason that older adults show high levels of optimism is that,True,True
+11,mmlu_human_aging,Bu is often late for appointments but says it's because she had more important things on her mind. This is an example of which coping strategy?,False,False
+12,mmlu_human_aging,Which of the following is most strongly associated with loss of bone density?,False,False
+13,mmlu_human_aging,That super sweet iced tea that your grandmother gives you might be that way because she,True,True
+14,mmlu_human_aging,A shortage of these two vitamins can produce symptoms that mimic dementia:,True,False
+15,mmlu_human_aging,Which of the following is one of McAdam's levels of personality?,False,False
+16,mmlu_human_aging,"In this chapter's Senior View, Dr. Donham told us that mental stimulation, exercise, diet, and what other factor is important for long life?",False,False
+17,mmlu_human_aging,Surveys of older adults who are living together show that they tend to view cohabitation as,True,True
+18,mmlu_human_aging,Older adults may be more attached to a place than younger adults because,True,True
+19,mmlu_human_aging,The Hayflick number for human cells is,False,True
+20,mmlu_human_aging,High levels of self-care behaviors have been associated with high levels of,False,False
+21,mmlu_human_aging,Research has offered some longitudinal as well as cross sectional support for the theory put forth by,False,False
+22,mmlu_human_aging,"Which of the following is more likely to be a cohort, rather than an age, difference?",False,True
+23,mmlu_human_aging,Fear of aging has been associated with high levels of,True,True
+24,mmlu_human_aging,In which dementia are cognitive symptoms less likely?,True,False
+25,mmlu_human_aging,"In this chapter's Senior View, Dr. Shealy advises you to",True,False
+26,mmlu_human_aging,"When your sister Patricia was feeling depressed, you comforted her and reminisced about happier times. You provided which type of social support?",True,True
+27,mmlu_human_aging,Hearing loss occurs more frequently for,True,False
+28,mmlu_human_aging,Continued stress is damaging to health and longevity because it leads to,True,True
+29,mmlu_human_aging,One difference that seems to be mostly cohort rather than age is the difference in ____ for different age groups,False,False
+30,mmlu_human_aging,"According to Tat Kleckley of this chapter's Senior View, the most important part of the healing process for those who are bereaved is to",False,True
+31,mmlu_human_aging,Social support is most likely to have a positive influence on health and well being when it is,True,True
+32,mmlu_human_aging,Free radicals are produced by,True,False
+33,mmlu_human_aging,Prejudice or bias against older adults is referred to as,True,True
+34,mmlu_human_aging,"The program that takes over care for those with 6 or fewer months to live, attempts to keep them at home, provides pain relief, and ends all life-prolonging technologies is called",True,True
+35,mmlu_human_aging,Loss of smell for adults 80 and older is,True,True
+36,mmlu_human_aging,Activation of a class of genes called sirtuins may help to,True,True
+37,mmlu_human_aging,Elder abuse most frequently comes from the older adult's,False,False
+38,mmlu_human_aging,Projective tests generally ___ than objective tests of personality.,True,False
+39,mmlu_human_aging,Cells in the eye that respond to low levels of illumination are called,True,False
+40,mmlu_human_aging,Some work on age stereotypes suggests that,False,True
+41,mmlu_human_aging,Which of the following could very well be a cohort difference rather than a change that occurs with age?,True,False
+42,mmlu_human_aging,The major question concerning aging and personality is:,False,False
+43,mmlu_human_aging,A researcher who wants to examine both age and cohort differences is advised to use a _____ design.,True,True
+44,mmlu_human_aging,Which of the following is NOT one of the most rewarding aspects of being a grandparent as reported by grandparents?,False,False
+45,mmlu_human_aging,"Of the following animals, which has the longest life span by current measures?",True,True
+46,mmlu_human_aging,One advantage of an expected death over an unexpected death is that,False,False
+47,mmlu_human_aging,Changes in the reproductive system are more _____ for men but not for women,False,False
+48,mmlu_human_aging,Which of the following hormones has not yet been claimed to ward off senescence?,True,False
+49,mmlu_human_aging,The majority of older widows live,True,True
+50,mmlu_human_aging,Centenarians are people who,True,True
+51,mmlu_human_aging,Quantitative analyses of TV shows have shown that,False,False
+52,mmlu_human_aging,Which of the following groups of Americans have the lowest rate of alcohol abuse?,False,False
+53,mmlu_human_aging,"If you believe that changes occur slowly and steadily throughout life, you would be holding the _____ side of this view of development.",False,False
+54,mmlu_human_aging,"All other things being equal, which of the following persons is likely to live the longest?",False,True
+55,mmlu_human_aging,"Which of the following age differences could be, in part, a cohort effect? Differences in",False,True
+56,mmlu_human_aging,"Clifford and Lucia Pauling, in Senior View, told us that physical changes",False,True
+57,mmlu_human_aging,The biggest and most dangerous changes in the cardiovascular system take place in the,False,True
+58,mmlu_human_aging,Older adults generally perform very well when their _____ memory is tested.,False,False
+59,mmlu_human_aging,"With respect to marital satisfaction, most long lasting marriages",False,False
+60,mmlu_human_aging,Theories,True,True
+61,mmlu_human_aging,The least favored theory of senescence among researchers is the _____ theory,False,False
+62,mmlu_human_aging,A researcher finds that age is negatively correlated with cigarette smoking; this means that,True,False
+63,mmlu_human_aging,"When a researcher takes part in the situation he or she is observing, he or she is said to be a(n)",False,True
+64,mmlu_human_aging,"The term ""work-family conflict"" for middle-aged adults can occur when they must",True,False
+65,mmlu_human_aging,Do traits change with age?,False,False
+66,mmlu_human_aging,The cause of Alzheimer's appears to be,True,True
+67,mmlu_human_aging,Older married men have been found to have,False,False
+68,mmlu_human_aging,"Within the United States, which location has the longest life expectancy?",True,False
+69,mmlu_human_aging,The largest proportion of older adults living alone reside in,False,False
+70,mmlu_human_aging,Which level of personality description appears to show the most change with age?,False,False
+71,mmlu_human_aging,The positive relationship between religion and physical health is NOT thought to be due to,True,False
+72,mmlu_human_aging,Human factors examines the performance of different tasks by examining,False,False
+73,mmlu_human_aging,Prospective memory refers to memory,True,False
+74,mmlu_human_aging,The total number of people who have some disorder divided by the total number of people gives you the ____ rate.,True,True
+75,mmlu_human_aging,Remarriages are,True,True
+76,mmlu_human_aging,"With respect to job training, younger workers",True,True
+77,mmlu_human_aging,About how many grieving individuals seem to require some professional help?,False,False
+78,mmlu_human_aging,People with which of the following forms of control are least likely to have accessibility problems where they live?,False,True
+79,mmlu_human_aging,Which of the following has been found to improve balance for older adults?,True,True
+80,mmlu_human_aging,The most frequent chronic condition for older adults is,False,False
+81,mmlu_human_aging,Hypokinesia refers to,True,True
+82,mmlu_human_aging,What percentage of older adults report feeling very or often lonely?,False,False
+83,mmlu_human_aging,An example of a discontinuous change over the adult years is the change in,False,True
+84,mmlu_human_aging,Which leg of the three-legged stool do most retirees have,False,True
+85,mmlu_human_aging,One of the most important points made in this chapter is that physical changes,False,True
+86,mmlu_human_aging,Which of the following forms of dementia has the highest prevalence rate?,True,False
+87,mmlu_human_aging,High levels of social support are strongly associated with,True,True
+88,mmlu_human_aging,"The term ""cohort"" refers to",True,True
+89,mmlu_human_aging,Middle-aged adults appear to be more ____ than older or younger adults,True,True
+90,mmlu_human_aging,Which of the following improves attitudes toward aging and older adults?,True,True
+91,mmlu_human_aging,A problem for immune system theories of senescence is,True,True
+92,mmlu_human_aging,Those more likely to experience depression after a loss are those who,True,False
+93,mmlu_human_aging,Which of the following appears to lower bad cholesterol?,True,True
+94,mmlu_human_aging,Most people who have used physician assisted suicide have had,False,False
+95,mmlu_human_aging,A researcher who is interested in the differences between two or more groups of people is most likely to use which of the following approaches?,True,True
+96,mmlu_human_aging,Being in bright light during the later parts of the day seems to,True,True
+97,mmlu_human_aging,A major reason for studying human aging is that,True,True
+98,mmlu_human_aging,The model of social support that says that those who are close to you now are likely to be close for the rest of your days is called the ____ model,True,False
+99,mmlu_human_aging,"When older and younger workers have lost their jobs, older workers typically",True,True
+100,mmlu_human_aging,Our social network refers to,True,True
+101,mmlu_human_aging,Those who survive the loss of another are called the,False,True
+102,mmlu_human_aging,Financial adjustment to retirement has been most difficult for,False,False
+103,mmlu_human_aging,Socioemotional selectivity theory says that older adults have smaller social networks because they,True,False
+104,mmlu_human_aging,The gender gap is likely to be associated with male/female differences in,True,True
+105,mmlu_human_aging,Those cells that build bone are called,True,True
+106,mmlu_human_aging,An increase in neuroticism later in life is a strong predictor of,True,False
+107,mmlu_human_aging,Which of the following countries has the longest life expectancy?,True,True
+108,mmlu_human_aging,Which type of reaction time results in the biggest age differences?,False,True
+109,mmlu_human_aging,Gary says he won $1000 in the lottery because he really knows how to pick those numbers. Gary would be said to have a strong ____ locus of control,False,True
+110,mmlu_human_aging,The advanced directive where one specifies the types of medical intervention that are and are not desired is called a,True,False
+111,mmlu_human_aging,"If links between various diseases are found, then future older adults will probably",True,False
+112,mmlu_human_aging,With respect to hair loss,False,False
+113,mmlu_human_aging,"In this chapter's Senior View, Pat Shelley told us that you shouldn't retire if",True,False
+114,mmlu_human_aging,"A person who is not very well organized, rarely sets goals, and frequently puts things off until the last minute would be said to be low on which trait?",True,True
+115,mmlu_human_aging,As working people get closer to retirement they are more likely to,False,True
+116,mmlu_human_aging,Older adults may show less major depression than younger adults because they,True,True
+117,mmlu_human_aging,The different components of memory should be thought of as,False,True
+118,mmlu_human_aging,"Very rapid disposal of the body, before sundown on the day of the death, is typical of which religion?",True,False
+119,mmlu_human_aging,An example of an objective test of personality is the,True,False
+120,mmlu_human_aging,"When a measure actually quantifies what it claims to measure, we say that it has good",False,True
+121,mmlu_human_aging,In which country do most individuals choose to be cremated?,True,False
+122,mmlu_human_aging,A possible positive effect of moderate alcohol consumption is that it may,False,True
+123,mmlu_human_aging,The environmental design that brings pets and plants to nursing homes and young people and children as regular visitors is referred to as,True,True
+124,mmlu_human_aging,Excess disability refers to symptoms that are,True,False
+125,mmlu_human_aging,Well being for younger adults is positively related to which form of control?,False,False
+126,mmlu_human_aging,Which of the following is NOT one of the major reasons for the increase in numbers of older adults?,True,True
+127,mmlu_human_aging,Before we can collect data from other human beings we must make sure that they,True,True
+128,mmlu_human_aging,"In this chapter's Senior View, May Lee told us that we should all respect our elders because",False,False
+129,mmlu_human_aging,One line of evidence against antagonistic pleiotropy is that,True,False
+130,mmlu_human_aging,Loss of muscle fiber may be due to loss of neurons which may be due to,True,False
+131,mmlu_human_aging,"After losing a spouse, the surviving spouse often dies within the first year because of",True,True
+132,mmlu_human_aging,Which of the following factors has NOT received as much support as the others in research investigating why social support is related to better health?,False,False
+133,mmlu_human_aging,Older adults' coping strategies are generally,True,True
+134,mmlu_human_aging,Men are more likely than women to die from,False,False
+135,mmlu_human_aging,The slowing that occurs with advanced age appears to be centered in,False,True
+136,mmlu_human_aging,One possible reason that time seems to pass more rapidly for older adults is that,True,False
+137,mmlu_human_aging,"If we found that adult age was significantly and positively correlated with consumption of herbal teas, we could conclude that",False,True
+138,mmlu_human_aging,The initials ADL stand for,True,True
+139,mmlu_human_aging,The dementia that results from a long-term deficiency of thiamine is one type of ____ dementia,True,False
+140,mmlu_human_aging,The initial length of telomere stand for members of a species is,False,False
+141,mmlu_human_aging,The current record for longest lived human being is held by,True,True
+142,mmlu_human_aging,Glaucoma refers to the condition in which,True,False
+143,mmlu_human_aging,Workers in which of the following jobs still have mandatory retirements once they reach a certain age?,False,True
+144,mmlu_human_aging,Validation therapy refers to treatments in which the person with dementia,True,True
+145,mmlu_human_aging,Surveys of bereaved individuals have found that one of the things that is reported as being most helpful is when others,True,True
+146,mmlu_human_aging,"An example of a gain, rather than a loss, that occurs as we grow older is our gain in",True,True
+147,mmlu_human_aging,Which of the following appears to remain relatively stable over the adult years?,True,True
+148,mmlu_human_aging,Which of the following is always the longest?,True,True
+149,mmlu_human_aging,"Of the following, which is the more frequent stereotype of older adults?",True,True
+150,mmlu_human_aging,One reason that older adults may have difficulty in retrieving memories is that,False,False
+151,mmlu_human_aging,Even a small amount of sleep deprivation seems to,False,False
+152,mmlu_human_aging,NEAT may be one way in which some people are able to maintain a healthy BMI; NEAT refers to,True,True
+153,mmlu_human_aging,"Over the last decade or two, which of the following causes of death has shown a huge increase?",True,False
+154,mmlu_human_aging,Which of the following statements is TRUE concerning older workers' job performance?,True,True
+155,mmlu_human_aging,Older adults' negative beliefs about their own memories seem to be more influenced by _____ than by their actual performance on memory tests,True,True
+156,mmlu_human_aging,Which of the following is NOT one of the more frequently named activities by those who are retired?,False,False
+157,mmlu_human_aging,The retirement phase that occurs least frequently is the ____ phase,True,False
+158,mmlu_human_aging,Which of the following is the most important variable for gerontological researchers?,True,True
+159,mmlu_human_aging,Which of the following does NOT increase the risk of falling?,False,True
+160,mmlu_human_aging,The main reason given by men and women for their long lasting marriage is that,True,False
+161,mmlu_human_aging,"An older adult who has received a message (e.g., it's going to rain tomorrow) would be most likely to remember what when telling another person?",True,False
+162,mmlu_human_aging,The lifespan perspective says that development is composed of gains and losses; this means that,True,True
+163,mmlu_human_aging,Identity refers to one's,False,True
+164,mmlu_human_aging,Current estimates of how many people exercise on a regular basis suggest that _____ do,True,False
+165,mmlu_human_aging,An increased frequency of urination in older adults is most likely caused by,False,True
+166,mmlu_human_aging,Some research has found that later cognitive decline is predicted by earlier,False,False
+167,mmlu_human_aging,The law that requires all healthcare institutions that receive Medicaid funds to inform patients about advance directives is called the,True,False
+168,mmlu_human_aging,Which of the following is NOT among the top 10 causes of death in the U. S.?,True,True
+169,mmlu_human_aging,Presbyopia refers to,False,False
+170,mmlu_human_aging,The design of products and environments to fit the capabilities of people who use them or live there is called _____ design,True,True
+171,mmlu_human_aging,The insurance program for poor people of all ages is called,False,False
+172,mmlu_human_aging,When damage to the brain is irreversible and increasing we refer to the disorder as,False,True
+173,mmlu_human_aging,Grandparents with grandchildren in college report feeling especially loved when such grandchildren,False,True
+174,mmlu_human_aging,The influence of genetics on longevity is estimated to be about,False,False
+175,mmlu_human_aging,Older adults are most likely to be involved in a traffic accident when they are,True,False
+176,mmlu_human_aging,Life stories are more likely for people who have a sense of,False,True
+177,mmlu_human_aging,The idea that the ability to complete a task depends on the fit between the environment and the person undertaking the task is a basic tenet of which of the following theories of aging?,True,False
+178,mmlu_human_aging,Neuroticism has been found to be correlated with which of the following?,True,True
+179,mmlu_human_aging,The Apo-E 2 protein is very prevalent in people who,False,True
+180,mmlu_human_aging,Information coming into our cognitive system is thought to first enter a,True,True
+181,mmlu_human_aging,Omega 3 appears to reduce the risk of,False,True
+182,mmlu_human_aging,"The term ""senescence"" refers to",True,False
+183,mmlu_human_aging,Which of the following is caused by a prion?,True,True
+184,mmlu_human_aging,A difference between the social networks of older and younger adults is that older adults have,False,False
+185,mmlu_human_aging,The first person to measure and compare the response times of young and old was,True,False
+186,mmlu_human_aging,About what percentage of people who have had bridge jobs say it was better than their career job?,False,True
+187,mmlu_human_aging,We want our measures to be as reliable as possible; reliability refers to,False,False
+188,mmlu_human_aging,A problem in comparing older adults' memory for recent events and events that happened a long time ago is that recent events,False,False
+189,mmlu_human_aging,"Of the following types of memory, which shows the biggest deficit with advanced age?",True,True
+190,mmlu_human_aging,The loss of a ____ is regarded in the U. S. as the most severe loss and frequently produces guilt in addition to other emotions.,True,True
+191,mmlu_human_aging,DNA damage/repair theory claims that senescence is due to cells getting incorrect instructions from DNA damaged by sources such as,False,True
+192,mmlu_human_aging,Comorbidity is a problem for older adults because it,True,True
+193,mmlu_human_aging,"With respect to theories of senescence, it's probably safe to say that",True,True
+194,mmlu_human_aging,Current life expectancy in the United States is about,True,False
+195,mmlu_human_aging,A burial site where the body is allowed to decompose naturally without a casket is called a _____ cemetery,False,True
+196,mmlu_human_aging,Older adults with higher education and self-esteem are more likely to be,True,True
+197,mmlu_human_aging,BMI is regarded as a better measure of health than weight by itself because BMI is based on weight and,True,True
+198,mmlu_human_aging,Morbidity refers to,True,True
+199,mmlu_human_aging,Older adults are able to improve their memories and reduce their anxiety about declining memory when,True,True
+200,mmlu_human_aging,Hearing loss for higher pitch is referred to as,True,True
+201,mmlu_human_aging,"In this chapter's Senior View, Tolly Kleckley told us that personality",False,False
+202,mmlu_human_aging,The Kingbergs give us several keys to successful aging; which of the following is one that they did not name?,True,True
+203,mmlu_human_aging,Those who have lost a close family member to suicide most often experience,True,False
+204,mmlu_human_aging,"Our bodies have a natural, built in defense against free radicals that is referred to as",True,False
+205,mmlu_human_aging,Open-ended questions on a survey often make it difficult to,False,True
+206,mmlu_human_aging,Which of the following groups is likely to have the more positive view of aging and older adults?,True,True
+207,mmlu_human_aging,The paradox of well-being refers to the finding of high levels of happiness among,True,True
+208,mmlu_human_aging,The Supreme Court has now ruled that older workers need no longer prove _____________ to win a job discrimination suit.,False,False
+209,mmlu_human_aging,The decline in working memory with advanced age seems to be due to,True,True
+210,mmlu_human_aging,A disadvantage of institutional care is that the staff frequently teach older residents to be,False,True
+211,mmlu_human_aging,"If you believe that we are mostly in control of our own development and that our behaviors, good or bad, determine how successful our aging with be, you would be said to have which of the following perspectives?",True,True
+212,mmlu_human_aging,The age at which one can receive full benefits from social security,False,False
+213,mmlu_human_aging,Loss of stomach lining can lead to symptoms that resemble,False,False
+214,mmlu_human_aging,Which of the following has NOT been shown to be an effective treatment for depression in older adults?,False,False
+215,mmlu_human_aging,The term Baby Boom Generation refers to people who,True,False
+216,mmlu_human_aging,Older workers are more likely to,False,False
+217,mmlu_human_aging,"Mabel Davis, in this chapter's Senior View, would agree with which of the following?",True,True
+218,mmlu_human_aging,"The information stored in memory, according to research and our Senior View interviewees, is",True,False
+219,mmlu_human_aging,"When speaking with an older adults with some hearing loss, you should",False,False
+220,mmlu_human_aging,Longevity is strongly associated with higher levels of,True,True
+221,mmlu_human_aging,The hypothesis that says adults will remain healthy until very old age and then quickly become ill and die is the ____ hypothesis,False,True
+222,mmlu_human_aging,The woman who conducted a longitudinal study on herself and found increased retrieval difficulty as she got older was named,False,True

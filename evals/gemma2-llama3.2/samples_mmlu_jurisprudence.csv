@@ -1,0 +1,109 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_jurisprudence,Which statement best explains the purpose of Hart's distinction between 'being obliged' and 'having an obligation'?,False,False
+1,mmlu_jurisprudence,Maine's famous aphorism that 'the movement of progressive societies has hitherto been a movement from Status to Contract' is often misunderstood. In what way?,True,False
+2,mmlu_jurisprudence,Which of the following factors contributed significantly to the revival of natural law in the 20th century?,True,True
+3,mmlu_jurisprudence,Which of the following criticisms of Llewellyn's distinction between the grand and formal styles of legal reasoning is the most compelling?,True,True
+4,mmlu_jurisprudence,Which proposition below is the most consistent with what Rawls claims the POP would opt for in respect of 'social primary goods'?,False,False
+5,mmlu_jurisprudence,The ________ School believes that promoting market efficiency should be the central goal of legal decision-making.,True,True
+6,mmlu_jurisprudence,Which statement below is the least likely to follow logically from Austin's argument that a sanction consists of the smallest chance of incurring the smallest evil?,True,False
+7,mmlu_jurisprudence,How does Weber solve the 'England problem'?,False,True
+8,mmlu_jurisprudence,Cicero's conception of natural law is 'based on the idea that 'true law is right reason in agreement with Nature.' Reason is a key element because:,False,True
+9,mmlu_jurisprudence,"Catharine MacKinnon argues that since men dominate women, the question is ultimately one of power. Which proposition below is the most inconsistent with this argument?",True,False
+10,mmlu_jurisprudence,Who was an exponent of “natural law with a variable content”?,True,True
+11,mmlu_jurisprudence,The ________ School of jurisprudence asserts that the law is a means of achieving and advancing certain sociological goals.,True,False
+12,mmlu_jurisprudence,"According to Malinowski, the Trobriand Islanders organized their society around what concept?",True,True
+13,mmlu_jurisprudence,In Justice for Hedgehogs Dworkin endorses 'Hume's principle'. What does he understand by this idea?,True,True
+14,mmlu_jurisprudence,Lyotard's dictum 'I define postmodern as incredulity toward meta-narratives' means:,False,False
+15,mmlu_jurisprudence,Habermas distinguishes between 'law as medium' and 'law as institution'. Which statement below most accurately describes this distinction?,True,True
+16,mmlu_jurisprudence,To claim that one has a prima facie duty to obey the law is to assert that:,True,True
+17,mmlu_jurisprudence,Dworkin contends that to every legal question there is only one right answer. Which proposition below is most inconsistent with this claim?,True,True
+18,mmlu_jurisprudence,"Robert makes the following statement while negotiating the sale of his car, 'This is the sharpest car on the market.' His statement may support a claim for:",False,False
+19,mmlu_jurisprudence,According to Austin the science of jurisprudence is concerned with,True,True
+20,mmlu_jurisprudence,Which of the following statements best captures the nature of Fuller's 'inner morality of law'?,True,True
+21,mmlu_jurisprudence,Hart argues that secondary rules are 'power-conferring' but this seems unconvincing in the case of the rule of recognition because:,True,False
+22,mmlu_jurisprudence,Adherence to precedent is called the doctrine of ________.,True,True
+23,mmlu_jurisprudence,Which proposition below may be characterized as the most powerful refutation by Hart of Lord Devlin's argument?,True,False
+24,mmlu_jurisprudence,What relationships to the type of law that exists in society does Durkheim identify between (1) mechanical and (2) organic solidarity?,False,True
+25,mmlu_jurisprudence,Which of the following quotations best describes the central thesis of difference feminism?,False,False
+26,mmlu_jurisprudence,Which statement below is the least likely to follow logically from Dworkin's notion of law as integrity?,True,True
+27,mmlu_jurisprudence,Which statement best describes one of Dworkin's central arguments in Justice for Hedgehogs?,False,True
+28,mmlu_jurisprudence,Which statement best describes the nature and function of Kelsen's Grundnorm?,False,True
+29,mmlu_jurisprudence,Critical Legal Studies (CLS) is often compared to (or with) American realism. Which of the following statements is inaccurate?,True,False
+30,mmlu_jurisprudence,Which of the following best describes Dworkin's distinction between principles and policies?,True,True
+31,mmlu_jurisprudence,Statutes are often called ________ law.,False,True
+32,mmlu_jurisprudence,Which is the least accurate description of legal positivism?,True,False
+33,mmlu_jurisprudence,Which proposition below is the most powerful refutation of Bentham's felicific calculus?,True,True
+34,mmlu_jurisprudence,"Donny threw a knife at Sally, intending to injure her severely. However, Donny missed Sally. Sally saw the knife just as it whizzed by her head, missing it by about one inch. As a result, Sally was very scared. Sally sued Donny for assault and battery. Which of the following is most correct?",False,False
+35,mmlu_jurisprudence,Why does a Marxist account of law reject individual rights?,False,False
+36,mmlu_jurisprudence,Kelsen’s theory of law is called pure theory because Kelsen :,False,False
+37,mmlu_jurisprudence,Which of the following purposes does the 'internal point of view' play in Hart's concept of law?,True,False
+38,mmlu_jurisprudence,The body of law which establishes rights between persons and provides for redress for violation of those rights is known as:,True,True
+39,mmlu_jurisprudence,Why does Parfit oppose equality?,False,False
+40,mmlu_jurisprudence,"The most fundamental of positivism's key commitments,' writes Ken Himma, 'is the Social Fact Thesis.' What does it claim?",True,True
+41,mmlu_jurisprudence,How does Nozick answer the criticism of his historical entitlement theory that if the distribution of goods in society is unjust those at the bottom always lose?,True,True
+42,mmlu_jurisprudence,The ________ School of jurisprudence maintains that the law is shaped by logic.,True,True
+43,mmlu_jurisprudence,Dworkin argues that it is only a conception of equality of resources that can secure the ideal of equality of welfare. How does he suggest this aspect of equality to be measured?,True,True
+44,mmlu_jurisprudence,Which statement best describes the relationship between law and morality among non-positivist legal theorists?,True,False
+45,mmlu_jurisprudence,Why does communitarianism resemble Aristotle's philosophy more than Kant's?,False,True
+46,mmlu_jurisprudence,Which proposition below is the most inconsistent with a consequentialist justification of punishment?,True,False
+47,mmlu_jurisprudence,"The philosophers of the ________ School of jurisprudence believe that the law is a set of rules developed, communicated, and enforced by the ruling party rather than a reflection of the society's morality, history, logic, or sociology.",True,False
+48,mmlu_jurisprudence,Which statement below best represents Durkheim's view of the function of punishment?,False,False
+49,mmlu_jurisprudence,What does Dworkin mean by the 'semantic sting'?,True,True
+50,mmlu_jurisprudence,"The expression to signify any assumption which conceals of affects to conceal the fact that a rule of law has undergone alteration, its letter being unchanged, its operation being modified is :",True,True
+51,mmlu_jurisprudence,Hume's attack on natural law is founded on his argument that:,True,False
+52,mmlu_jurisprudence,Why does Dworkin support liberal egalitarianism?,True,True
+53,mmlu_jurisprudence,Why do the Scandinavian realists reject a metaphysical approach to law?,True,True
+54,mmlu_jurisprudence,Which statement below is the least consistent with the argument that judges in an unjust legal system ought to resign?,True,True
+55,mmlu_jurisprudence,Normative legal theory is most accurately summarized by which of the following statements?,True,False
+56,mmlu_jurisprudence,"Hart writes: '[T]he certification of something as legally valid is not conclusive of the question of obedience ... however great the aura of majesty or authority which the official system may have, its demands must in the end be submitted to a moral scrutiny.' What does this say about the nature of legal positivism?",True,False
+57,mmlu_jurisprudence,Which of the following propositions would be rejected by those who describe themselves as critical legal theorists?,True,True
+58,mmlu_jurisprudence,Posner denies the autonomy of law on two grounds. Name one of them.,True,False
+59,mmlu_jurisprudence,"Bill purchased a can of Sipep from the Ajax Minimart. After he finished drinking the Sipep, Bill noticed that the can contained dead insects stuck on the inside bottom of the can. In a strict product liability tort action against Ajax, Bill must prove, among other things, that:",True,False
+60,mmlu_jurisprudence,The ________ School of jurisprudence believes that the law is an aggregate of social traditions and customs that have developed over the centuries.,True,False
+61,mmlu_jurisprudence,"Point out the most accurate response : According to Austin, law has the following attributes :",True,False
+62,mmlu_jurisprudence,Which one of the following schools supports the view that a custom becomes law when it receives the stamp of judicial recognition by courts,False,True
+63,mmlu_jurisprudence,The will theory of rights maintains that the enforcement of Y's duty requires the exercise of will by X. It assumes the correlativity of rights and duties. Which of the following succeeds in formulating the interest theory without this correlativity?,False,False
+64,mmlu_jurisprudence,Which statement is closest to characterizing the principal difference between the positions adopted by Hobbes and Locke?,True,True
+65,mmlu_jurisprudence,Which of the following statements best describes the postmodernist project?,True,True
+66,mmlu_jurisprudence,Which of the following best describes Lon Fuller's objective in his hypothetical case of the Speluncean Explorers?,True,False
+67,mmlu_jurisprudence,Which of the following arguments against the 'fair play' argument in support of a duty to obey the law is the most persuasive?,True,False
+68,mmlu_jurisprudence,"What is the main reason why many Critical Race Theorists are hostile to concepts such as 'justice', 'neutrality', and 'truth'?",True,False
+69,mmlu_jurisprudence,On what grounds does John Finnis reject Hume's conception of practical reason?,False,True
+70,mmlu_jurisprudence,The distinction between general and particular jurisprudence was recognized by,False,True
+71,mmlu_jurisprudence,Lex iniusta non est lex' has which of the following meanings?,True,True
+72,mmlu_jurisprudence,In which of the following the idea of ‘natural law’ first appeared,False,False
+73,mmlu_jurisprudence,"Tom and Jerry entered into a contract whereby Tom agreed to sell Jerry $1,000 worth of heroin, an illegal substance. This is an example of a:",True,True
+74,mmlu_jurisprudence,Which statement best describes Tom Regan's 'sentimental anthropomorphicism' in support of animals rights?,True,False
+75,mmlu_jurisprudence,"Hart dismissed American realism as 'the claim that talk of rules is a myth, cloaking the truth that law consists simply of the decisions of courts and predictions of them.' What is the strongest reason for regarding this remark as unfair?",False,True
+76,mmlu_jurisprudence,The following person is the author of the book ‘The Concept of Law’ :,True,True
+77,mmlu_jurisprudence,Which description below most accurately captures the distinction between Gemeinschaft and Gesellschaft?,True,True
+78,mmlu_jurisprudence,The judicial branch of the United States government has the power to ________ the law.,True,True
+79,mmlu_jurisprudence,“Natural law is based on the nature of man and on his inward need of living in society.” Who said it?,False,False
+80,mmlu_jurisprudence,‘Law consists of set of principles or body of rules recognized and applied by the State in the administration of justice’. The statement is made by :,False,False
+81,mmlu_jurisprudence,Why does the 'capability' approach to justice reject Rawls' theory?,True,True
+82,mmlu_jurisprudence,Which of the following apparent correlatives contradicts Hohfeld's scheme of 'jural relations'?,False,False
+83,mmlu_jurisprudence,Why is it important to separate the concept of punishment from its justification?,False,False
+84,mmlu_jurisprudence,"According to Hobbes, peace is the first law of nature because of which of the following situations?",True,False
+85,mmlu_jurisprudence,The United States Supreme Court's decision in Roe v Wade is highly controversial because:,True,True
+86,mmlu_jurisprudence,The focus of liberal feminists on equality is denounced by radical feminists as mistaken because:,False,False
+87,mmlu_jurisprudence,Who said that “Jurisprudence is the eye of law”,False,False
+88,mmlu_jurisprudence,Who amongst the following said that jurisprudence is the philosophy of positive law,False,True
+89,mmlu_jurisprudence,Hart’s analysis of law distinguishes between,True,True
+90,mmlu_jurisprudence,"Who defined jurisprudence as the knowledge of things divine and human, the science of right and wrong",True,False
+91,mmlu_jurisprudence,Which of the factors below contributed significantly to the revival of natural law in the 20th century?,True,True
+92,mmlu_jurisprudence,The U.S. Congress is empowered by the Commerce Clause and other provisions of the U.S. Constitution to enact ________ to regulate foreign and interstate commerce.,True,True
+93,mmlu_jurisprudence,"Who amongst the following said that “right with me is a child of law…..a natural right is a son that never had a father""",True,True
+94,mmlu_jurisprudence,"American realists argued that formalism devalued the authority of the judge to make law, because:",False,False
+95,mmlu_jurisprudence,Which of the following most accurately describes Hart's response to Fuller's argument concerning the invalidity of Nazi law?,False,True
+96,mmlu_jurisprudence,Which of the following is the strongest argument against ethical relativism's hostility to human rights?,True,False
+97,mmlu_jurisprudence,Robert Nozick's proposes the formula r x H as a guide to determine the appropriate punishment. What does it mean?,False,True
+98,mmlu_jurisprudence,Who says that “Social Contract is not a historical fact but a hypothetical construction of reason”,True,False
+99,mmlu_jurisprudence,The legislative branch of the United States government has the power to ________ the law.,True,True
+100,mmlu_jurisprudence,"Leopold Pospisil identifies four elements manifested by law: authority, universality, 'obligatio' - and fourthly?",False,True
+101,mmlu_jurisprudence,What is Kant's 'categorical imperative?,False,False
+102,mmlu_jurisprudence,"Which of the following statements is correct concerning the ""reasonable person"" standard in tort law?",True,False
+103,mmlu_jurisprudence,"What is the purpose of politics, according to Aristotle?",True,True
+104,mmlu_jurisprudence,Which of the following statements most accurately explains Ross' comparison of social life to the game of chess?,True,True
+105,mmlu_jurisprudence,Which statement below is the least likely to follow logically from Savigny's notion of a Volksgeist?,True,False
+106,mmlu_jurisprudence,The ________ School proposes that legal rules are unnecessary and are used as an obstacle by the powerful to maintain the status quo.,True,True
+107,mmlu_jurisprudence,Austin has been described as a 'naive empiricist.' Why?,False,False

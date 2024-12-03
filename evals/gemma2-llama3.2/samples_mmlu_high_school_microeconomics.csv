@@ -1,0 +1,239 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_high_school_microeconomics,Marginal revenue equals marginal cost at the point where,False,True
+1,mmlu_high_school_microeconomics,"The price of labor is $2, and the price of capital is $1. The marginal product of labor is 200, and the marginal product of capital is 50. What should the firm do?",False,False
+2,mmlu_high_school_microeconomics,"At a Nash equilibrium,",False,True
+3,mmlu_high_school_microeconomics,You are told that the cross-price elasticity between goods X and Y is +2.0. This means that,True,True
+4,mmlu_high_school_microeconomics,An externality,False,False
+5,mmlu_high_school_microeconomics,What is one reason why the government discourages collusion between large firms in the same industry?,False,False
+6,mmlu_high_school_microeconomics,Which of the following illustrates the demand curve facing an oligopolist when rival firms follow a price decrease but not a price increase?,False,True
+7,mmlu_high_school_microeconomics,Which of the following is not the basis for a wage differential?,True,False
+8,mmlu_high_school_microeconomics,"Patents, control of resources, economies of scale, and exclusive licenses are",False,False
+9,mmlu_high_school_microeconomics,"The industry that makes plastic army figures uses a small fraction of the plastic demanded for all purposes. On this basis, we can conclude that the army-figures industry is most likely a(n)",False,False
+10,mmlu_high_school_microeconomics,"Which of the following is most likely an example of production inputs that can be adjusted in the long run, but not in the short run?",True,False
+11,mmlu_high_school_microeconomics,"The apple market is in equilibrium. Suppose we observe that apple growers are using more pesticides to increase apple production. At the same time, we hear that the price of pears, a substitute for apples, is rising. Which of the following is a reasonable prediction for the new price and quantity of apples?",False,False
+12,mmlu_high_school_microeconomics,Which of the following is most likely to result in a shift to the right in the demand curve for orange juice?,True,False
+13,mmlu_high_school_microeconomics,Which of the following statements is accurate in regard to a perfectly competitive firm?,True,False
+14,mmlu_high_school_microeconomics,"Economists use the term ""capital"" to mean",True,True
+15,mmlu_high_school_microeconomics,"Ray and Dorothy can both cook and can both pull weeds in the garden on a Saturday afternoon. For every hour of cooking, Ray can pull 50 weeds and Dorothy can pull 100 weeds. Based on this information,",True,True
+16,mmlu_high_school_microeconomics,Your aunt runs a small firm from her home making apple pies. She hires some friends to help her. Which of the following situations would most likely increase her demand for labor?,True,False
+17,mmlu_high_school_microeconomics,"Mrs. Johnson spends her entire daily budget on potato chips, at a price of $1 each, and onion dip at a price of $2 each. At her current consumption bundle, the marginal utility of chips is 12 and the marginal utility of dip is 30. Mrs. Johnson should",True,True
+18,mmlu_high_school_microeconomics,"In the absence of intervention, imperfect competition, externalities, public goods, and imperfect information all result in which of the following?",True,True
+19,mmlu_high_school_microeconomics,Marginal cost (MC) is equal to average variable cost (AVC) and average total cost (ATC) when:,False,False
+20,mmlu_high_school_microeconomics,"After Julia received a raise in her income, she began purchasing more ice cream cones and fewer popsicles. For Julia, popsicles",False,False
+21,mmlu_high_school_microeconomics,Which of the following conditions is characteristic of oligopoly?,True,True
+22,mmlu_high_school_microeconomics,Which of the following is characteristic of oligopoly? I. Formidable barriers to entry. II. Price (P) = Marginal Revenue (MR). III. Relatively few sellers.,True,True
+23,mmlu_high_school_microeconomics,A monopoly is less efficient than a perfect competitor because,True,True
+24,mmlu_high_school_microeconomics,"In the design of a competitive market system, which of the following does NOT describe how resources are allocated?",True,True
+25,mmlu_high_school_microeconomics,A production possibility frontier will be a straight line when,False,False
+26,mmlu_high_school_microeconomics,Which of the following statements is correct?,True,True
+27,mmlu_high_school_microeconomics,"If the per unit price of labor, a variable resource, increases, it causes which of the following?",True,True
+28,mmlu_high_school_microeconomics,"If the wage paid to all units of labor is $4.50, how many units of labor are hired?",False,True
+29,mmlu_high_school_microeconomics,"If consumers are advised that multigrained bread will substantially lessen the risk of cancer, which of the following will happen in the market for multigrained bread?",True,False
+30,mmlu_high_school_microeconomics,The market structures of perfect competition and monopolistic competition share which of the following characteristics?,True,True
+31,mmlu_high_school_microeconomics,"When a negative externality exists as the result of the production of a good, the socially optimal quantity of output could be achieved by",True,True
+32,mmlu_high_school_microeconomics,"Jason cleans swimming pools in a perfectly competitive local market. A profit maximizer, he can charge $10 per pool to clean 9 pools per day, incurring total variable costs of $80 and total fixed costs of $20. Which of the following is true?",False,True
+33,mmlu_high_school_microeconomics,Which of the following is not a characteristic of oligopoly?,True,False
+34,mmlu_high_school_microeconomics,The competitive market provides the best outcome for society because,False,False
+35,mmlu_high_school_microeconomics,You are told that the income elasticity for DVDs is + 1.5. This means that,True,False
+36,mmlu_high_school_microeconomics,"If the price of a product decreases with the price of a substitute product remaining constant such that the consumer buys more of this product, this is called the",True,True
+37,mmlu_high_school_microeconomics,Which of the following is an example of a transfer earning?,False,False
+38,mmlu_high_school_microeconomics,"A small business estimates price elasticity of demand for the product to be 3. To raise total revenue, owners should",True,False
+39,mmlu_high_school_microeconomics,A bilateral monopoly exists when,True,False
+40,mmlu_high_school_microeconomics,"If firms are entering an industry that is monopolistically competitive, we would expect",False,False
+41,mmlu_high_school_microeconomics,The Law of Diminishing Marginal Returns is responsible for,False,False
+42,mmlu_high_school_microeconomics,"Which of the following would best complete a short definition of economics? ""Economics is the study of . . .""",True,True
+43,mmlu_high_school_microeconomics,"With capital fixed at one unit with 1, 2, 3 units of labor added in equal successive units, production of the output increases from 300 (1 unit of labor), to 350 (2 units of labor) to 375 (3 units of labor). Which of the following is a correct interpretation?",True,False
+44,mmlu_high_school_microeconomics,Which of the following is the best example of a public good?,True,True
+45,mmlu_high_school_microeconomics,Which of the following is the best example of a public good?,True,True
+46,mmlu_high_school_microeconomics,"When the cross-price elasticity of demand is negative, the goods in question are necessarily",True,False
+47,mmlu_high_school_microeconomics,A competitive labor market is currently in equilibrium. Which of the following most likely increases the market wage?,True,True
+48,mmlu_high_school_microeconomics,One of the reasons that the government discourages and regulates monopolies is that,True,False
+49,mmlu_high_school_microeconomics,Which of the following is true of equilibrium in a purely (or perfectly) competitive market for good X?,True,True
+50,mmlu_high_school_microeconomics,"When the price of pears increases, we expect the following:",True,False
+51,mmlu_high_school_microeconomics,"If the demand for grapes increases simultaneously with an increase in the supply of grapes, we can say that",True,True
+52,mmlu_high_school_microeconomics,"If the government wishes to regulate a natural monopoly so that it produces an allocatively efficient level of output, it would be at an output",True,True
+53,mmlu_high_school_microeconomics,"When price elasticity of demand is greater than 1, demand is",True,True
+54,mmlu_high_school_microeconomics,Which of the following tax systems is designed to redistribute income from the wealthy to the poor?,True,True
+55,mmlu_high_school_microeconomics,Which of these situations is not an example of price discrimination?,True,False
+56,mmlu_high_school_microeconomics,"With the presence of a positive externality, which of the following would correct the externality?",True,False
+57,mmlu_high_school_microeconomics,"The market for denim jeans is in equilibrium, and the price of polyester pants, a substitute good, rises. In the jean market",False,False
+58,mmlu_high_school_microeconomics,A rational consumer who is eating Girl Scout cookies stops eating when,True,False
+59,mmlu_high_school_microeconomics,"Which of the following correctly illustrates why price (P) equals marginal revenue (MR) under perfect competition, and why price (P) is greater than marginal revenue under monopoly or imperfect competition? I. MR = P = demand on horizontal function for perfect competition. II. P > MR as downward sloping functions for imperfect competition. III. Demand and Price are represented as a vertical function for imperfect competition.",True,True
+60,mmlu_high_school_microeconomics,"When a good is taxed, the tax burden falls mainly on the consumer if",False,True
+61,mmlu_high_school_microeconomics,The long-run average cost curve,False,False
+62,mmlu_high_school_microeconomics,Which of the following is not a characteristic of a kinked demand curve?,True,False
+63,mmlu_high_school_microeconomics,Economics is a social science that,True,True
+64,mmlu_high_school_microeconomics,Which of the following is true?,True,False
+65,mmlu_high_school_microeconomics,A monopsonist is identified by one of the following:,True,False
+66,mmlu_high_school_microeconomics,"If the price of one good (A) increases and the quantity demanded of another good (B) increases, the two goods are",True,False
+67,mmlu_high_school_microeconomics,Which of the following statements is true for a firm in a perfectly competitive industry?,False,True
+68,mmlu_high_school_microeconomics,A perfectly competitive employer hires labor up to the point where,False,False
+69,mmlu_high_school_microeconomics,The necessity for a monopoly to lower its price in order to sell more units of its product explains why,False,True
+70,mmlu_high_school_microeconomics,Suppose a price floor is installed in the market for coffee. One result of this policy would be,False,False
+71,mmlu_high_school_microeconomics,A minimum wage in the market for fast-food workers is likely to produce,False,False
+72,mmlu_high_school_microeconomics,Which of the following is true of the perfectly competitive firm in the short run?,True,True
+73,mmlu_high_school_microeconomics,"A competitive market for coffee, a normal good, is currently in equilibrium. Which of the following would most likely result in an increase in the demand for coffee?",True,False
+74,mmlu_high_school_microeconomics,"When a firm is earning a normal profit from the production of a good, it is true that",False,False
+75,mmlu_high_school_microeconomics,"If a business wants to increase its revenue and it knows that the demand price elasticity of its product is equal to 0.78, it should",False,False
+76,mmlu_high_school_microeconomics,Which of the following is a characteristic of monopolistic competition?,True,True
+77,mmlu_high_school_microeconomics,The backward bending supply curve is characterized by which of the following?,True,True
+78,mmlu_high_school_microeconomics,Which of the following goods is likely to provide both the largest total utility and the smallest marginal utility?,True,False
+79,mmlu_high_school_microeconomics,The Lorenz Curve is used to measure which of the following:,True,True
+80,mmlu_high_school_microeconomics,Which of the following examples would result in consumers paying for the largest burden of an excise tax placed on a producer?,True,False
+81,mmlu_high_school_microeconomics,Which of the following could have caused an increase in the demand for ice cream cones?,False,False
+82,mmlu_high_school_microeconomics,The primary focus of microeconomics is,False,True
+83,mmlu_high_school_microeconomics,"In order for a firm to successfully carry out price discrimination, which of the following conditions must hold? I. The firm cannot face a downward sloping demand curve. II. The firm must have market power. III. Buyers with differing demand elasticities must be separable. IV. The firm must have motives beyond profit maximization. V. The firm must be able to prevent the re-sale of its products.",True,True
+84,mmlu_high_school_microeconomics,Which of the following is an example of an economic rent?,True,True
+85,mmlu_high_school_microeconomics,"With the presence of a negative externality, which of the following would internalize (or correct) the externality?",True,False
+86,mmlu_high_school_microeconomics,Which of the following is a characteristic of monopoly?,True,True
+87,mmlu_high_school_microeconomics,"A monopoly with a straight, downward-sloping demand curve has a marginal revenue curve that is",False,False
+88,mmlu_high_school_microeconomics,A consequence of a price floor is,False,False
+89,mmlu_high_school_microeconomics,Which of the following is not among the methods unions use to increase wages?,False,False
+90,mmlu_high_school_microeconomics,Which of the following is a characteristic of perfect competition?,True,False
+91,mmlu_high_school_microeconomics,Which of the following is correct?,True,True
+92,mmlu_high_school_microeconomics,Monopolistic competition is said to be productively inefficient because,True,True
+93,mmlu_high_school_microeconomics,"Compared to perfect competition in the long run, monopoly has",True,False
+94,mmlu_high_school_microeconomics,"If the price of firm A's cell phone service rises by 5 percent and the quantity demanded for firm B's cell phone service increases by 10 percent, we can say that",True,False
+95,mmlu_high_school_microeconomics,The relationship between the marginal revenue curve and the demand curve for a monopoly is most similar to the relationship between the marginal factor cost curve and what curve for a monopsony?,False,False
+96,mmlu_high_school_microeconomics,"Suppose the market for roses is currently in equilibrium. If the supply of roses falls, while at the same time the demand for roses rises, what can you say about the price and quantity of roses in the market?",True,True
+97,mmlu_high_school_microeconomics,"The competitive market for gasoline, a normal good, is currently in a state of equilibrium. Which of the following would most likely increase the price of gasoline?",True,True
+98,mmlu_high_school_microeconomics,Which of the following will increase wages for tuba makers?,False,False
+99,mmlu_high_school_microeconomics,Diminishing marginal returns to short-run production begin when,True,True
+100,mmlu_high_school_microeconomics,What you give up to pursue another alternative is known as,True,True
+101,mmlu_high_school_microeconomics,Which of the following is NOT a characteristic of perfectly competitive industry?,True,False
+102,mmlu_high_school_microeconomics,"Relative to a competitive input market, a monopsony",True,False
+103,mmlu_high_school_microeconomics,"If a monopsony labor market suddenly were transformed into a perfectly competitive labor market, how would the wage and employment change?",False,True
+104,mmlu_high_school_microeconomics,"If corn is produced in a perfectly competitive market and the government placed a price ceiling above equilibrium, which of the following would be true?",False,False
+105,mmlu_high_school_microeconomics,Marginal cost always intersects average variable cost at,False,True
+106,mmlu_high_school_microeconomics,Production possibilities frontiers are concave to the origin because,False,False
+107,mmlu_high_school_microeconomics,Scarcity is best defined as,True,False
+108,mmlu_high_school_microeconomics,The market for Cincinnati Reds baseball tickets is currently in equilibrium. Which of the following events would most likely increase the consumer surplus received by Reds fans?,True,False
+109,mmlu_high_school_microeconomics,"Firms with the following market structure(s) maximize profits by producing where marginal cost equals marginal revenue, if at all. I. Perfect competition II. Oligopoly III. Monopoly IV. Monopolistic competition",True,True
+110,mmlu_high_school_microeconomics,Consumer surplus is,False,False
+111,mmlu_high_school_microeconomics,Which of the following statements is positive?,True,False
+112,mmlu_high_school_microeconomics,Relatively free or easy entry (low or nonexistent barriers to entry) is best matched by which of the following?,True,False
+113,mmlu_high_school_microeconomics,Firms maximize their profits by producing a level of output at which,True,True
+114,mmlu_high_school_microeconomics,A typical characteristic of capitalist market economies is,True,True
+115,mmlu_high_school_microeconomics,"When a monopolist has maximized profit,",True,False
+116,mmlu_high_school_microeconomics,Which of the following situations best exemplifies the concept of consumer surplus?,True,True
+117,mmlu_high_school_microeconomics,"If the perfectly competitive price is currently below minimum average total cost, we can expect which of the following events in the long run?",False,False
+118,mmlu_high_school_microeconomics,"If total product of labor is rising at an increasing rate,",True,True
+119,mmlu_high_school_microeconomics,"When the opportunity for price discrimination arises,",False,False
+120,mmlu_high_school_microeconomics,Price times quantity measures,False,False
+121,mmlu_high_school_microeconomics,A tax imposed on a supplier will more likely be passed on to the consumer in the form of price increase if,True,False
+122,mmlu_high_school_microeconomics,The law of increasing costs,False,True
+123,mmlu_high_school_microeconomics,Which of the following is true about a price ceiling?,True,False
+124,mmlu_high_school_microeconomics,"Consider a profit-maximizing firm in a perfectly competitive market with several sellers and several buyers (i.e., the firm is a ""price taker"" of the goods it sells and a ""price taker"" of the hourly wages it pays its workers). If a technological innovation made by someone in this firm were to significantly raise the firm's marginal physical product (but not that of any other firm's), then this innovation would",False,False
+125,mmlu_high_school_microeconomics,Suppose the price of beef rises by 10 percent and the quantity of beef demanded falls by 20 percent. We can conclude that,True,False
+126,mmlu_high_school_microeconomics,The elasticity of supply is typically greater when,False,True
+127,mmlu_high_school_microeconomics,Which of the following is true?,True,False
+128,mmlu_high_school_microeconomics,Which of the following is most likely to decrease the demand for kindergarten teachers?,True,False
+129,mmlu_high_school_microeconomics,Monopoly deadweight loss is the result of,True,False
+130,mmlu_high_school_microeconomics,"Education makes Chris a better worker, voter, parent, and citizen. Because the benefits from education go beyond those that Chris enjoys himself, education provides",True,True
+131,mmlu_high_school_microeconomics,"If, for each additional unit of a variable input, the increases in output become smaller, which of the following correctly identifies the concept?",True,True
+132,mmlu_high_school_microeconomics,"If there is a positive externality associated with the production of a private good, which of the following is an action of government that would most likely move the market to an efficient outcome?",True,True
+133,mmlu_high_school_microeconomics,A positive sign on cross price elasticity of demand indicates that the two products are,True,False
+134,mmlu_high_school_microeconomics,The price elasticity of demand for a product is greater if,True,False
+135,mmlu_high_school_microeconomics,A price discriminating monopoly differs from a non-discriminating monopoly because a discriminating monopoly,True,False
+136,mmlu_high_school_microeconomics,"Every time Mr. Hamm makes another pizza in his shop, he places $0.45 worth of sauce on top. For Mr. Hamm, the cost of pizza sauce is a component of which of the following? I. Total Fixed Costs II. Total Variable Costs III. Marginal Cost IV. Total Costs",False,True
+137,mmlu_high_school_microeconomics,The law of increasing costs is useful in describing,True,False
+138,mmlu_high_school_microeconomics,"Suppose that aluminum is a key production input in the production of bicycles. If the price of aluminum falls, and all other variables are held constant, we expect",True,False
+139,mmlu_high_school_microeconomics,The sales tax that you pay at the grocery store is commonly labeled a,True,True
+140,mmlu_high_school_microeconomics,Which of the following is the best example of the free-rider effect?,True,True
+141,mmlu_high_school_microeconomics,Which of the following is the best example of a negative externality and the appropriate plan for eliminating it?,False,True
+142,mmlu_high_school_microeconomics,"If the government regulates a monopoly to produce at the allocative efficient quantity, which of the following would be true?",False,False
+143,mmlu_high_school_microeconomics,Which of the following indicates that two goods are complements?,True,False
+144,mmlu_high_school_microeconomics,"If the government subsidizes the production of halogen headlights,",True,False
+145,mmlu_high_school_microeconomics,Suppose the county government sends each parent a coupon that can be used to subsidize the cost of sending each child to daycare. What would you expect to occur in the market for daycare services?,True,True
+146,mmlu_high_school_microeconomics,Which of the following is a characteristic of monopolistic competition?,True,False
+147,mmlu_high_school_microeconomics,Which of the following is a fundamental aspect of the free market system?,True,True
+148,mmlu_high_school_microeconomics,A price ceiling is characterized by,True,False
+149,mmlu_high_school_microeconomics,"Elsa values her time at $50 per hour, and tutors David for two hours. David is willing to pay $175 for two hours of tutoring, but they negotiate a price of $125 for the entire two hours. Which of the following statements is true about the transaction above:",False,False
+150,mmlu_high_school_microeconomics,"If a consumer is not required to pay a monetary price for each cookie she consumes, the consumer will stop eating cookies when",True,True
+151,mmlu_high_school_microeconomics,"For a competitive firm, what is the most important thing to consider in deciding whether to shut down in the short run?",True,False
+152,mmlu_high_school_microeconomics,Which is true of monopolistic competition?,True,False
+153,mmlu_high_school_microeconomics,The supply curve for lawn-mowing services is likely to slope upward because of,True,True
+154,mmlu_high_school_microeconomics,"Labor, human capital, entrepreneurship, natural resources, and physical capital are all examples of which of the following?",True,True
+155,mmlu_high_school_microeconomics,"According to the principle of diminishing marginal utility,",True,True
+156,mmlu_high_school_microeconomics,The downward-sloping demand curve is partially explained by which of the following?,True,True
+157,mmlu_high_school_microeconomics,"If a market is organized by a cartel, we can expect",True,True
+158,mmlu_high_school_microeconomics,"At the birthday party of your best friend, you see Skylar help himself to a second piece of cake. For this individual, it must be the case that",False,True
+159,mmlu_high_school_microeconomics,"In the short run, a firm employs labor and capital to produce gadgets. If the annual price of capital increases, what will happen to the short-run cost curves?",False,True
+160,mmlu_high_school_microeconomics,Which of the following is true about a price floor?,True,False
+161,mmlu_high_school_microeconomics,Which of the following is true?,True,True
+162,mmlu_high_school_microeconomics,An industry described as an oligopoly would most likely have,True,True
+163,mmlu_high_school_microeconomics,Which of the following is correct about the demand for labor?,True,True
+164,mmlu_high_school_microeconomics,"Which of the following is not correct for the perfectly competitive firm, in the long run?",True,False
+165,mmlu_high_school_microeconomics,The demand curve for a perfectly competitive firm's product is,True,False
+166,mmlu_high_school_microeconomics,Normal goods always have a/an,True,False
+167,mmlu_high_school_microeconomics,"Which of the following represents a measure of a firm's monopoly pricing or market power, i.e., the larger the value of the index, the greater the firm's market pricing power?",False,False
+168,mmlu_high_school_microeconomics,The market demand curve for labor would shift to the left as the result of,True,False
+169,mmlu_high_school_microeconomics,"Opportunity costs or implicit costs of a ""Mom & Pop""-owned business are:",True,True
+170,mmlu_high_school_microeconomics,The owner of a competitive firm making zero economic profit,False,False
+171,mmlu_high_school_microeconomics,"If the market price is above the perfectly competitive firm's average total cost curve, we expect that in the long run,",False,False
+172,mmlu_high_school_microeconomics,"Land, labor, capital and entrepreneurial talent are often referred to as",False,True
+173,mmlu_high_school_microeconomics,Which of the following goods is likely to have the most elastic demand curve?,True,False
+174,mmlu_high_school_microeconomics,Deadweight loss occurs in,True,True
+175,mmlu_high_school_microeconomics,"The individual firm, operating under perfect competition, is characterized as:",True,True
+176,mmlu_high_school_microeconomics,Which of the following are associated with public goods? I. Free riders II. Adding demand curves vertically to find the demand curve for society III. Nonrivalry in consumption IV. Nonexcludability,True,True
+177,mmlu_high_school_microeconomics,Which of the following is true about the pure public good?,False,False
+178,mmlu_high_school_microeconomics,"Nancy has the choice to spend one hour studying for an exam, mowing the lawn for one hour at a wage of $6, or babysitting her niece for one hour at a wage of $8. If we know that Nancy has chosen to study for the exam, which of the following is true?",True,True
+179,mmlu_high_school_microeconomics,Which of the following statements accurately describes the relationship between average product (AP) and marginal product (MP) of labor?,True,True
+180,mmlu_high_school_microeconomics,"Because people with relatively low incomes spend a larger percentage of their income on food than people with relatively high incomes, a sales tax on food would fall into which category of taxes?",True,True
+181,mmlu_high_school_microeconomics,Which of the following is NOT a source of wage differentials?,True,False
+182,mmlu_high_school_microeconomics,Which of the following certainly lowers the equilibrium price of a good exchanged in a competitive market?,True,False
+183,mmlu_high_school_microeconomics,Which of the following is true for a firm operating under perfect competition in the long run?,True,True
+184,mmlu_high_school_microeconomics,A negative externality in the market for a good exists when,True,True
+185,mmlu_high_school_microeconomics,Which characteristic is likely a part of a monopoly market but not of monopolistic competition?,True,False
+186,mmlu_high_school_microeconomics,"Every day Melanie spends her lunch money consuming apples, at $1 each, and oranges, at $2 each. At her current level of consumption, Melanie's marginal utility of apples is 12 and her marginal utility of oranges is 18. If she has already spent all of her lunch money, how should Melanie change her consumption decision to maximize utility?",True,True
+187,mmlu_high_school_microeconomics,Which of the following describes the theory behind the demand curve?,True,False
+188,mmlu_high_school_microeconomics,Economics is best described as,True,True
+189,mmlu_high_school_microeconomics,An effective price ceiling in the market for good X likely results in,False,True
+190,mmlu_high_school_microeconomics,"When the production or consumption of a good creates a positive externality, it is deemed a market failure because at the market quantity",True,False
+191,mmlu_high_school_microeconomics,A competitive firm's demand for labor is determined directly by,True,True
+192,mmlu_high_school_microeconomics,"When a perfectly competitive labor market is in equilibrium,",True,False
+193,mmlu_high_school_microeconomics,The market demand curve for labor will shift to the right when,True,True
+194,mmlu_high_school_microeconomics,Which of the following was not a landmark antitrust act?,True,True
+195,mmlu_high_school_microeconomics,Which of the following might explain how a price decrease might cause a decrease in quantity demanded and an upward-sloping demand curve?,True,True
+196,mmlu_high_school_microeconomics,"If the government wants to establish a socially optimal price for a natural monopoly, it should select the price at which",False,False
+197,mmlu_high_school_microeconomics,Which of the following is an implicit cost for the owner of a small store in your hometown?,True,False
+198,mmlu_high_school_microeconomics,"The greater (higher) the wage elasticity of demand, the",False,False
+199,mmlu_high_school_microeconomics,"Unlike a perfectly competitive firm, a monopoly",False,True
+200,mmlu_high_school_microeconomics,The law of diminishing marginal utility is most useful for explaining the,False,False
+201,mmlu_high_school_microeconomics,Which of the following statements is most consistent with a capitalist market economy?,False,False
+202,mmlu_high_school_microeconomics,Which of the following is an example of a long-run adjustment for the owners of a small café?,True,False
+203,mmlu_high_school_microeconomics,Which of the following is most likely to be true in the long run for a monopoly firm?,False,False
+204,mmlu_high_school_microeconomics,Which of the following is not correct about economies of scale?,True,False
+205,mmlu_high_school_microeconomics,"For the perfectly competitive firm, the profit-maximizing decision to shut down is made when the price",True,False
+206,mmlu_high_school_microeconomics,Which of the following is true in the long run in perfect competition?,True,False
+207,mmlu_high_school_microeconomics,"If the perfectly competitive price is currently above minimum ATC, we can expect which of the following events in the long run?",True,False
+208,mmlu_high_school_microeconomics,Which of the following will shift the supply curve for textbooks to the left?,True,False
+209,mmlu_high_school_microeconomics,"If Matt's total utility from consuming bratwurst increased at a constant rate, no matter how many bratwurst Matt consumed, what would Matt's demand curve for bratwurst look like?",False,False
+210,mmlu_high_school_microeconomics,Which of the following causes the supply curve of paper to shift to the left?,True,False
+211,mmlu_high_school_microeconomics,"When opportunity cost is constant across all production levels, the productions possibilities frontier is",True,False
+212,mmlu_high_school_microeconomics,Which of the following is likely to have a demand curve that is the least elastic?,True,True
+213,mmlu_high_school_microeconomics,A demand curve slopes downward for an individual as the result of,True,False
+214,mmlu_high_school_microeconomics,"In order to find the market supply curve for a particular good, one would",True,True
+215,mmlu_high_school_microeconomics,The ability for firms to enter and exit a market over time means that,True,False
+216,mmlu_high_school_microeconomics,"If one person has the only original signed copy of The Wealth of Nations by Adam Smith, which of the following would illustrate this situation?",True,False
+217,mmlu_high_school_microeconomics,Land refers to,False,True
+218,mmlu_high_school_microeconomics,The basis for the answer in number 1 is,False,True
+219,mmlu_high_school_microeconomics,In the same period there is a drought affecting the supply of pineapples and a discovery that may assist in the avoidance of cancer. How will this combination of events affect the equilibrium price and quantity of pineapples?Equilibrium Quantity,False,True
+220,mmlu_high_school_microeconomics,"With respect to the kinked demand curve, which of the following is NOT correct?",True,False
+221,mmlu_high_school_microeconomics,Suppose that there are only two goods: x and y. Which of the following is NOT correct?,True,False
+222,mmlu_high_school_microeconomics,The total utility from sardines is maximized when they are purchased until,True,False
+223,mmlu_high_school_microeconomics,"Assume a firm hires labor for $15 each and sells its products for $3 each. If the MP of the 3rd worker is 10, which of the following statements would be the most true?",False,False
+224,mmlu_high_school_microeconomics,The demand curve for labor is derived from,False,False
+225,mmlu_high_school_microeconomics,Monopolistic competition is often characterized by,False,False
+226,mmlu_high_school_microeconomics,"A student decides that, having already spent three hours studying for an exam, she should spend one more hour studying for the same exam. Which of the following is most likely true?",False,False
+227,mmlu_high_school_microeconomics,Macroeconomics focuses on,False,False
+228,mmlu_high_school_microeconomics,Which of the following is true?,True,True
+229,mmlu_high_school_microeconomics,Good X is exchanged in a competitive market. Which of the following is true if an excise tax is now imposed on the production of good X?,True,True
+230,mmlu_high_school_microeconomics,What could the government do to most effectively avoid a free rider problem?,False,False
+231,mmlu_high_school_microeconomics,"In order to hire the least-cost combination of labor and capital, the firm must do which of the following?",True,True
+232,mmlu_high_school_microeconomics,Which of the following is a characteristic of monopolistic competition in the long run?,True,True
+233,mmlu_high_school_microeconomics,"A student eats 3 slices of pizza while studying for his Economics exam. The marginal utility of the first slice of pizza is 10 utils, the second slice is 7 utils, and the third slice is 3 utils. Which of the statements below holds true with the above data?",False,True
+234,mmlu_high_school_microeconomics,"The United States is trading salmon to Peru in exchange for anchovies. If these nations are trading based upon relative opportunity costs, what must be the case?",True,False
+235,mmlu_high_school_microeconomics,Which of the following is true about the relationship of the average total cost (ATC) curve and the marginal cost (MC) curve?,False,False
+236,mmlu_high_school_microeconomics,Which of the following statements about a price ceiling is accurate?,True,False
+237,mmlu_high_school_microeconomics,"In an oligopoly market, firms",True,True

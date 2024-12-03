@@ -1,0 +1,172 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_world_religions, What can murtis be translated as?,False,True
+1,mmlu_world_religions, Naturalists who concentrated on natural elements and processes are associated with which of the following?,False,True
+2,mmlu_world_religions, When was the first Buddhist temple constructed in Japan?,True,True
+3,mmlu_world_religions, What is the name of the ten day New Year festival that celebrated Babylon's culture?,True,True
+4,mmlu_world_religions,Which of the following terms denote the Japanese art of flower arranging?,True,True
+5,mmlu_world_religions, Guru Nanak and his successors instructed the use of particular Sikh Ragas in order to promote which of the following?,False,False
+6,mmlu_world_religions," Guru Nanak used what term to denote the ""divine word"" as part of divine revelation?",True,True
+7,mmlu_world_religions,What is the mi'raj?,True,True
+8,mmlu_world_religions,"What is the name of the most famous dharmashastras, which probably dates from around the first century?",True,False
+9,mmlu_world_religions,"What does the term ""Qur'an"" literally mean?",True,False
+10,mmlu_world_religions, Mani referred to God by which of the following names?,False,False
+11,mmlu_world_religions," Which tradition is known to promote ""gradual enlightenment""?",False,False
+12,mmlu_world_religions,What is the communal meal offered at the place of worship called in Sikhism?,True,True
+13,mmlu_world_religions,To which tradition do the anti-Han rebel group known as the Celestial Masters belong?,True,False
+14,mmlu_world_religions,"What does the word ""Islam"" mean in Arabic?",True,True
+15,mmlu_world_religions,What does the term anatman mean?,True,True
+16,mmlu_world_religions, What genre of Sikh literature is denoted by the term janam-sakhis?,True,True
+17,mmlu_world_religions,Pure Land Buddhism belongs to which school?,True,True
+18,mmlu_world_religions, Which Jaina group only allows women to lead a life of semi-renunciation?,False,False
+19,mmlu_world_religions,What is the most important prayer in Judaism?,True,True
+20,mmlu_world_religions, The socio-political alliance between the kshatriyas and the shramanas was rooted in their shared opposition to which of the following?,True,True
+21,mmlu_world_religions, Which early battle led to the conversion of Mecca?,False,False
+22,mmlu_world_religions, What interior discipline must be adopted to achieve spiritual liberation within Sikhism?,True,True
+23,mmlu_world_religions," During Japan's occupation of Korea (1910-1945), which of the following was imposed upon the Koreans?",True,False
+24,mmlu_world_religions,"What is the meaning of the Punjabi word ""Sikh""?",True,True
+25,mmlu_world_religions, Which of the following shuns politics?,True,False
+26,mmlu_world_religions,What does the Hebrew word mashiach mean?,True,True
+27,mmlu_world_religions,"According to Jaina traditions, what does the term ajiva mean?",False,True
+28,mmlu_world_religions," In the Japanese Zen tradition, what is zazen?",True,True
+29,mmlu_world_religions, What is a central component of tantric Buddhism?,False,False
+30,mmlu_world_religions," How does the Egyptian composition Ludul Bel Nemequi (""I will praise the Lord of wisdom) portray Marduk?",False,False
+31,mmlu_world_religions," After the Bar Kochba revolt, where were the two main centres for Jewish development?",True,True
+32,mmlu_world_religions," In addition to Jainism, which other tradition began as a world-renouncing movement?",True,True
+33,mmlu_world_religions,"According to Hindu tradition, which age are we in currently?",True,True
+34,mmlu_world_religions," In the Zoroastrian tradition, the term Gathas refers to which of the following?",True,True
+35,mmlu_world_religions,Which form of Buddhism taught the only hope for salvation was in the saving grace of Amida?,True,True
+36,mmlu_world_religions," According to Hindu tradition, who is considered to be the ideal wife?",True,True
+37,mmlu_world_religions,Who is the woman mystic who exemplified the all-consuming love of the divine?,True,True
+38,mmlu_world_religions, Who is the eighth-century CE female poet worshipped throughout many South Indian temples dedicated to Vishnu?,True,False
+39,mmlu_world_religions, Who is associated with the stigmata and preaching to birds?,False,False
+40,mmlu_world_religions," In his final work, Laws, Plato shifted from cosmology to which of the following issues?",False,False
+41,mmlu_world_religions, Which Christian denomination promotes a stripped-down Christianity?,True,True
+42,mmlu_world_religions, Rome claimed that their bishop (pope) was the director successor of which leader?,True,True
+43,mmlu_world_religions,When was the current Dalai Lama born?,True,False
+44,mmlu_world_religions," According to Jaina traditions, who were the caityavasis?",True,True
+45,mmlu_world_religions,"Zhuangzi describes a state as ziran, which means which of the following?",True,False
+46,mmlu_world_religions," The mudras, which are an important feature of Buddhist art, are also known as what?",True,True
+47,mmlu_world_religions, The Maccabean Revolt is associated with which ruler?,True,True
+48,mmlu_world_religions, How old was Guru Nanak when he started to preach the message of the divine Name?,True,False
+49,mmlu_world_religions,The widely adored Egyptian goddess Hathor was depicted as which of the following?,True,False
+50,mmlu_world_religions,What does the phrase Guru-Panth mean within the Sikh traditions?,False,True
+51,mmlu_world_religions, After what event did the Rabbinical period begin within Judaism?,True,True
+52,mmlu_world_religions,Which monk developed Pure Land Buddhism as we know it today?,True,False
+53,mmlu_world_religions,Which is the largest Muslim country in the world with more than 200 million adherents?,True,False
+54,mmlu_world_religions,Which pope promoted the cults of St. Peter and St. Paul to bolster authority in Rome?,True,False
+55,mmlu_world_religions,"Which of the following does the term ""Arhats"" refer to?",True,False
+56,mmlu_world_religions,Which Guru was martyred when he refused to embrace Islam?,True,True
+57,mmlu_world_religions, Which Guru donned the two swords symbolling temporal and spiritual authority?,True,False
+58,mmlu_world_religions, Where is the key to liberation found within Sikhism?,False,True
+59,mmlu_world_religions,Which is one of the most fundamental themes of Japanese culture and civilization?,False,False
+60,mmlu_world_religions, Which goddess is worshipped during the festival of Divali?,True,True
+61,mmlu_world_religions, Where did people believe in the goddess known as Holy Mother of Mount Fairy Peach?,True,True
+62,mmlu_world_religions, To whom is the Yoga Sutras attributed?,True,True
+63,mmlu_world_religions, Which of the following does NOT describe the Ka'ba?,True,False
+64,mmlu_world_religions,Which elephant-headed Hindu deity is often described as the most beloved?,True,True
+65,mmlu_world_religions,Sacred literature originated with which of the following jina?,False,False
+66,mmlu_world_religions, Who is the author of Admonitions for Women?,True,True
+67,mmlu_world_religions,How many female renouncers were under the tutelage of Chandanbala?,True,False
+68,mmlu_world_religions,"According to the Sikh tradition, the Mul Mantar illuminates the nature of what?",True,True
+69,mmlu_world_religions, What term refers the divine order as an ell-embracing higher principle in Sikhism?,True,True
+70,mmlu_world_religions, How many books are in the New Testament?,True,False
+71,mmlu_world_religions,Which form of Buddhism focuses on social engagement that attracts lay participation?,True,False
+72,mmlu_world_religions, What was one of the distinctive beliefs or practices of the southerners (Digambara)?,True,True
+73,mmlu_world_religions,The central prayer in Jainism is known by which of the following names?,True,False
+74,mmlu_world_religions,When did the first Jaina temples appear?,False,True
+75,mmlu_world_religions,How many Jinas have appeared during our age?,True,True
+76,mmlu_world_religions,The title Dalai Lama means which of the following?,True,True
+77,mmlu_world_religions,"Who accompanies Vishnu in many of his incarnations as his consort, and is known as the goddess of good fortune?",True,False
+78,mmlu_world_religions,What is bhakti often translated as?,True,True
+79,mmlu_world_religions," Which Hindu god or goddess is speech incarnate, the power of the word, and the mother of the Vedas?",True,False
+80,mmlu_world_religions, What is the name of the Jewish prayer used for mourning since the Middle Ages?,True,True
+81,mmlu_world_religions,Krishna and Rama are incarnations of which Hindu god?,True,True
+82,mmlu_world_religions, The kshatriyas is the caste name assigned to which group?,True,True
+83,mmlu_world_religions,When was the Old Babylonian version of Gilgamesh modified into the standard version?,False,False
+84,mmlu_world_religions, What is the meaning ofsamyak jnanawithin the Jaina traditions?,False,False
+85,mmlu_world_religions, What type of Buddhist organization is the Bodu Bala Sena?,True,True
+86,mmlu_world_religions,Which mystic believed that evil was a distortion that reveals divine love more clearly?,True,True
+87,mmlu_world_religions,"In the Jaina traditions ""bad karma"" is known by which of the following terms?",True,True
+88,mmlu_world_religions, During what Japanese festival do the spirits of deceased family members return to receive ritual offerings of food made by their loved ones?,True,True
+89,mmlu_world_religions,"What does ""Mahavira"" mean?",True,True
+90,mmlu_world_religions, What does the Tripitaka mean?,True,False
+91,mmlu_world_religions,Where is the largest network of Confucian shrines in the world?,False,False
+92,mmlu_world_religions," Ghosa, Apala and Lopamurda, all named in the early Vedas, are which of the following?",False,False
+93,mmlu_world_religions, What is the title for the religious and administrative leaders who succeeded the Prophet?,True,True
+94,mmlu_world_religions,Which of the following is NOT included in the Islamic understanding of jurisprudence?,False,False
+95,mmlu_world_religions,Why is Mahavira a significant person in the Jaina traditions?,True,False
+96,mmlu_world_religions, The Tibetan Book of the Dead is also known as which of the following?,True,True
+97,mmlu_world_religions," Which Hindu festival involves decorating the house with lights, setting off firecrackers and wearing new clothes?",True,False
+98,mmlu_world_religions,What hours are set aside as the ambrosial hours for the Sikhs?,True,True
+99,mmlu_world_religions, Self-sacrifice is an important theme for which Buddhist thinker?,False,True
+100,mmlu_world_religions, How many times a day is the Fatihah recited?,False,True
+101,mmlu_world_religions,"Which branch of Judaism founded by Zacharias Frankel is known for its ""Positive-Historical Judaism""?",False,False
+102,mmlu_world_religions," What is the term used to describe the ""pure"" as an order of loyal Sikhs bound together?",True,True
+103,mmlu_world_religions,Who is the founder of Sikhism?,True,False
+104,mmlu_world_religions,Which term is usually associated with women in Hindu traditions?,True,True
+105,mmlu_world_religions,What is another name for Enuma Elish?,True,True
+106,mmlu_world_religions, What was the most important female-centered festival in cities throughout Greece?,True,False
+107,mmlu_world_religions,Speaking in tongues is a feature of which Christian denomination?,True,True
+108,mmlu_world_religions, Charism can be defined as which of the following?,True,True
+109,mmlu_world_religions," In Islam, what is the qiblah?",True,True
+110,mmlu_world_religions,"In Tendai Buddhism, what does the term honji mean?",False,True
+111,mmlu_world_religions, What is the name of a recent revivalist movement in Turkey led by Fetullah Gülen?,True,True
+112,mmlu_world_religions,For whom are the Hindu Vedas most significant?,True,True
+113,mmlu_world_religions," According to the Korean foundation myth, who transformed into a human in order to father Dangun?",True,True
+114,mmlu_world_religions," In Buddhism, what are ordained women known as?",True,True
+115,mmlu_world_religions, What is the name of the most authoritative Kabbalah text?,True,True
+116,mmlu_world_religions, Which Confucian philosopher is described as a mystic due to his focus on qi (or ch'i)?,False,False
+117,mmlu_world_religions, Which of the following does the Qur'an permit?,True,True
+118,mmlu_world_religions, Which is the main form of Buddhism in Sri Lanka?,True,True
+119,mmlu_world_religions, Which leader is known for spreading the dharma of non-violence?,True,False
+120,mmlu_world_religions,What are the two sacraments that all Christians celebrate?,True,True
+121,mmlu_world_religions,What is the most important festival for Sikhs?,True,True
+122,mmlu_world_religions, Who declared Muhammad a prophet?,False,False
+123,mmlu_world_religions,The Jataka tales are a collection of which genre of stories?,False,True
+124,mmlu_world_religions, Which of the following is the timespan for Japan's closure to Christianity and Europe?,True,False
+125,mmlu_world_religions," In Yiddish, what is the word for covenant?",False,False
+126,mmlu_world_religions,"According to the Sumerian King List, where does kingship come from?",False,False
+127,mmlu_world_religions,What is the name of the Hindu community associated with environmental activism?,True,True
+128,mmlu_world_religions, Which bodhisattva is known for conducting the souls of dead children to salvation?,True,False
+129,mmlu_world_religions, The Gospel of John is associated with which theological concept?,False,True
+130,mmlu_world_religions,Which god supplanted the earlier Mesopotamian supreme god Enil?,True,True
+131,mmlu_world_religions,Which of the following movements was founded by Mordechai Kaplan?,True,False
+132,mmlu_world_religions,When was the State of Israel established?,True,True
+133,mmlu_world_religions, Icons are a main feature of which church?,False,False
+134,mmlu_world_religions,The first of the Four Noble Truths teaches which of the following cannot be escaped?,True,True
+135,mmlu_world_religions, The Continental Reformation started in what year?,False,True
+136,mmlu_world_religions,The minimalism of Haiku is said to be derived from which tradition?,True,True
+137,mmlu_world_religions,Which deity is the Roman counterpart to the Greek god Zeus?,True,True
+138,mmlu_world_religions,The philosopher Laozi is associated with which tradition?,True,True
+139,mmlu_world_religions, Which Egyptian gods did Akhenaten make a determined effort to eliminate?,True,False
+140,mmlu_world_religions,The term xin refers to which of the following?,False,True
+141,mmlu_world_religions, Which term in the dharma texts of the classical period denotes the four stages of life?,True,True
+142,mmlu_world_religions,"What is the term for commentary on the Qur'an, which means ""unveiling""?",True,True
+143,mmlu_world_religions, With which branch of Islam are the Isma'ilis are associated?,True,True
+144,mmlu_world_religions, The term mappo is associated with which of the following?,True,False
+145,mmlu_world_religions, What is the name of the bodhisattva in Japan known for a commitment to alleviating suffering?,True,False
+146,mmlu_world_religions,Who was the first significant anchorite hermit?,True,False
+147,mmlu_world_religions,Which are the synoptic Gospels?,True,False
+148,mmlu_world_religions,What is the English title for the divination text also known as the Yijing?,True,False
+149,mmlu_world_religions, Where was the most famous site of the mystery cults in Greece?,True,True
+150,mmlu_world_religions,"When did the Babylonian captivity of ""Exile"" begin?",True,True
+151,mmlu_world_religions, The term vajrya means diamond and which of the following?,True,True
+152,mmlu_world_religions," In Jainism, what is the cycle that one must liberate oneself from?",True,True
+153,mmlu_world_religions, The classic text Daodejing is known by what title in English?,True,True
+154,mmlu_world_religions, The Communidades de Base is associated with which of the following?,True,True
+155,mmlu_world_religions,What does the term matsuri mean?,True,True
+156,mmlu_world_religions, Which Roman statesman encouraged civic religion in his work The Laws?,False,True
+157,mmlu_world_religions," What does ""Svetambara"" mean?",True,False
+158,mmlu_world_religions,"What is seen by Europeans, and many Muslims, as the symbol of Islam?",False,True
+159,mmlu_world_religions, What is the purpose for hearing the Guru's Vak in the morning?,True,False
+160,mmlu_world_religions, What are the rabbinical commentaries produced after the Mishnah called?,True,False
+161,mmlu_world_religions,What is a mohel?,True,True
+162,mmlu_world_religions,"The ""Flower Sermon"" is associated with which form of Buddhism?",True,False
+163,mmlu_world_religions, When was the major shift by Greek philosophers who rejected the anthropomorphic view of the divine?,False,False
+164,mmlu_world_religions, What is the foremost reason for wearing the hijab in the present day?,True,False
+165,mmlu_world_religions,"The Oral Torah, in its written form, is known as what?",True,True
+166,mmlu_world_religions,What has been a central focus of religious traditions in China and Korea?,True,False
+167,mmlu_world_religions, To whom did ordinary folk appeal during a drought in the time of the Han Dynasty?,False,True
+168,mmlu_world_religions, The theological term homoousios means which of the following?,True,True
+169,mmlu_world_religions,"According to the Japanese origin myth, who gives birth to Amaterasu from his left eye?",True,True
+170,mmlu_world_religions, The numen of Augustus referred to which of the following characteristics?,True,True

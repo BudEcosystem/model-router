@@ -1,0 +1,136 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_anatomy,A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral,True,True
+1,mmlu_anatomy,"A ""dished face"" profile is often associated with",False,False
+2,mmlu_anatomy,Which of the following best describes the structure that collects urine in the body?,True,False
+3,mmlu_anatomy,Which of the following structures is derived from ectomesenchyme?,True,False
+4,mmlu_anatomy,Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?,True,True
+5,mmlu_anatomy,A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.,False,False
+6,mmlu_anatomy,Which of the following anatomical regions of abdomen lies just distal to the sternum?,True,True
+7,mmlu_anatomy,Which of the following best describes the human body's defense mechanism against environmental bacteria?,True,True
+8,mmlu_anatomy,The palatine processes begin to fuse at,False,False
+9,mmlu_anatomy,Primary motor cortex activity results in,False,True
+10,mmlu_anatomy,You notice that your patient's submandibular lymph nodes are enlarged. You would look for potential infection sites in the,True,False
+11,mmlu_anatomy,A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which of the following signs will be present?,True,False
+12,mmlu_anatomy,Which of the following statements is true of the temporomandibular joint?,False,False
+13,mmlu_anatomy,Laryngoscopic examination of the vocal folds after suspected recurrent laryngeal nerve damage usually shows that the vocal fold on the injured side is tensed and in an intermediate position between adduction and abduction. This is because,False,False
+14,mmlu_anatomy,Which one of the following statements about the growth of the mandible is correct?,False,False
+15,mmlu_anatomy,Which of the following statements is true of the pupillary light reflex?,True,True
+16,mmlu_anatomy,Which muscles are normally active during quiet inspiration?,True,True
+17,mmlu_anatomy,Male hormones are produced by which of the following?,True,True
+18,mmlu_anatomy,Oxygenated blood is carried to the heart by which of the following structures?,False,False
+19,mmlu_anatomy,Which of the following allows air to pass into the lungs?,True,True
+20,mmlu_anatomy,Where is the sinoatrial node located?,True,False
+21,mmlu_anatomy,"In relation to the rib, the corresponding intercostal nerve lies",False,False
+22,mmlu_anatomy,The regional lymphatic drainage of the left side of the tip of the tongue is to the,True,True
+23,mmlu_anatomy,Gastrulation is the process of,False,True
+24,mmlu_anatomy,The spheno-occipital synchondrosis,False,True
+25,mmlu_anatomy,Which of the following substances is found in greater quantity in exhaled air?,False,False
+26,mmlu_anatomy,Which of the following conditions is characterized by the presence of kidney stones (renal calculi)?,True,True
+27,mmlu_anatomy,A pulse may be felt on a patient's face where the,True,False
+28,mmlu_anatomy,A patient sustains severe blunt trauma to the left upper abdomen and requires surgery. Which one of the following organs is most likely to be involved?,True,True
+29,mmlu_anatomy,Which statement concerning the atrioventricular bundle is correct?,True,False
+30,mmlu_anatomy,Which of the following terms describes the motion of bending the forearm toward the body?,True,True
+31,mmlu_anatomy,Food is prevented from entering the larynx during the pharyngeal phase of swallowing by,True,False
+32,mmlu_anatomy,At which of the following locations does bile enter the digestive tract?,True,True
+33,mmlu_anatomy,In which of the following positions does a patient lie face down?,False,False
+34,mmlu_anatomy,Complete bilateral cleft palate is due to failure of fusion of the,False,True
+35,mmlu_anatomy,The auditory tube,False,False
+36,mmlu_anatomy,Which of the following is the lymphoid organ that is a reservoir for red blood cells and filters organisms from the blood?,True,True
+37,mmlu_anatomy,Which of the following cavities are separated by the diaphragm?,True,True
+38,mmlu_anatomy,The walls of bronchioles contain,True,False
+39,mmlu_anatomy,"Which of the following organs removes bilirubin from the blood, manufactures plasma proteins, and is involved with the production of prothrombin and fibrinogen?",True,True
+40,mmlu_anatomy,Which of the following conditions is characterized by incompetence of the esophageal sphincter?,True,True
+41,mmlu_anatomy,The muscles of the soft palate are innervated by branches of the,False,False
+42,mmlu_anatomy,Which of the following is the large bone found superior to the patella and inferior to the ischium?,True,True
+43,mmlu_anatomy,A successful inferior alveolar nerve block will produce anaesthesia of the,False,True
+44,mmlu_anatomy,The mucosa of the upper larynx is innervated by the,True,False
+45,mmlu_anatomy,The bones of the viscerocranium develop initially by,False,True
+46,mmlu_anatomy,The physician directs the medical assistant to complete a request form for an X-ray study of the fibula. The procedure will be performed on which of the following structures?,True,True
+47,mmlu_anatomy,Which cells in the blood do not have a nucleus?,True,True
+48,mmlu_anatomy,The coronal suture joins the,True,False
+49,mmlu_anatomy,"If you run your finger down the anterior midline of a patient's extended neck from chin to sternal notch, you should be able to palpate, in order, the",False,False
+50,mmlu_anatomy,Which of the following bony structures may be palpated in a live patient?,True,True
+51,mmlu_anatomy,Which of the following structures accompany the oesophagus through the diaphragm?,False,False
+52,mmlu_anatomy,Which sequence describes the systemic circulation?,True,False
+53,mmlu_anatomy,The anatomic location of the spinal canal is,False,True
+54,mmlu_anatomy,The parotid duct runs,False,True
+55,mmlu_anatomy,"If the foot is abducted, it is moved in which direction?",False,False
+56,mmlu_anatomy,The infraorbital nerve,True,True
+57,mmlu_anatomy,Which of the following best describes the process whereby the stomach muscles contract to propel food through the digestive tract?,True,True
+58,mmlu_anatomy,Which of the following is the point at which an impulse is transmitted from one neuron to another neuron?,True,True
+59,mmlu_anatomy,Which of the following muscles initiates elevation of the mandible?,False,False
+60,mmlu_anatomy,Which of the following is an accessory organ of the gastrointestinal system that is responsible for secreting insulin?,True,True
+61,mmlu_anatomy,A malignant tumour is damaging the patient's glossopharyngeal nerve. They will experience,True,True
+62,mmlu_anatomy,A possible effect of damage to the third cranial nerve by trauma to the orbit is,False,False
+63,mmlu_anatomy,Blood flows from the right ventricle of the heart into which of the following structures?,True,True
+64,mmlu_anatomy,A patient is stabbed in the neck. You suspect damage to the accessory nerve in the posterior triangle. You would test nerve function by asking the patient to,False,False
+65,mmlu_anatomy,Which of the following muscles are derived from the first brachial arch?,True,False
+66,mmlu_anatomy,Which of the following best describes the location where the carotid pulse can be found?,True,True
+67,mmlu_anatomy,"In the brain stem, pathways for:",True,False
+68,mmlu_anatomy,The respiratory tract is crossed by the isthmus of the thyroid gland at the level of the,False,False
+69,mmlu_anatomy,You notice a lesion on the labial alveolar mucosa of the lower right lateral incisor tooth of one of your patients and decide to take a biopsy to send for oral pathology report Which nerve would require local anaesthesia in order to carry out a pain-free biopsy?,True,False
+70,mmlu_anatomy,The major concentrations of proprioceptive receptors providing information about position of the TMJ are located in,False,False
+71,mmlu_anatomy,Which of the following is a substance that aids the transmission of nerve impulses to the muscles?,True,True
+72,mmlu_anatomy,"In the spinal cord, motor neuron cell bodies are located in",False,False
+73,mmlu_anatomy,"When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the",True,False
+74,mmlu_anatomy,Examination of a patient indicates that they have a medially directed strabismus (squint). This could be due to damage to the,False,True
+75,mmlu_anatomy,"A patient cuts a peripheral motor nerve in their wrist when they fall through a plate glass window. If the nerve does not regenerate, after about 6 months the muscles it normally innervates will show signs of which of the four options below?",False,False
+76,mmlu_anatomy,A patient suffers a CVA in the area of the left internal capsule conveying motor neurons to the right leg. The patient's leg will exhibit,True,False
+77,mmlu_anatomy,The crown of a very carious tooth suddenly fractures while the patient is standing eating at a take-away food outlet and a fragment is inhaled. It is more likely to enter the,True,True
+78,mmlu_anatomy,"Calcium, potassium, and sodium are classified as which of the following?",True,True
+79,mmlu_anatomy,Noradrenaline is the neurotransmitter between which of the two structures below?,True,False
+80,mmlu_anatomy,Which of the following are mucus-producing glands located on each side of the vaginal opening?,True,True
+81,mmlu_anatomy,"When an emergency opening into the airway is required, the cricothyroid membrane should be pierced immediately",False,True
+82,mmlu_anatomy,Cerebrospinal fluid circulates around the brain between the,False,True
+83,mmlu_anatomy,Which of the following closes and seals off the lower airway during swallowing?,True,True
+84,mmlu_anatomy,Which orbital wall is most likely to collapse in a 'blow out' fracture?,True,True
+85,mmlu_anatomy,The walls of the maxillary sinus are sinus is related to,True,False
+86,mmlu_anatomy,Which of one of the following statements about the postnatal growth of the maxilla is correct?,False,True
+87,mmlu_anatomy,The seventh cranial nerve supplies,False,False
+88,mmlu_anatomy,Which of the following paranasal sinuses open into the middle meatus?,True,True
+89,mmlu_anatomy,"Which of the following is a structural, fibrous protein found in the dermis?",True,True
+90,mmlu_anatomy,Palatine shelf elevation is due to the effect of,True,True
+91,mmlu_anatomy,On which surfaces of the teeth is dental plaque most likely to accumulate in the mouth of a patient with poor oral hygiene?,False,True
+92,mmlu_anatomy,Laryngeal oedema is usually confined to the larynx above the vocal folds because,False,True
+93,mmlu_anatomy,The coronary arteries,False,False
+94,mmlu_anatomy,Which muscle is the most active during a right lateral excursion of the mandible?,True,False
+95,mmlu_anatomy,The phrenic nerves innervate the,False,True
+96,mmlu_anatomy,Parasympathetic preganglionic nerves leave the central nervous system with the,True,False
+97,mmlu_anatomy,"In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandibular teeth to be",False,False
+98,mmlu_anatomy,Macrostomia results from failure of fusion of,True,True
+99,mmlu_anatomy,You suspect that your patient has an enlarged submandibular salivary gland. You expect the enlarged gland,False,False
+100,mmlu_anatomy,Osteoclasts,False,False
+101,mmlu_anatomy,The lateral pterygoid muscle,False,False
+102,mmlu_anatomy,"In the fetus, the ductus arteriosus passes blood from the",True,False
+103,mmlu_anatomy,Which of the following bones develop by endochondral ossification?,False,False
+104,mmlu_anatomy,The mucosa of the hard palate is,True,False
+105,mmlu_anatomy,The head of the sixth rib articulates with,True,True
+106,mmlu_anatomy,Which of the following is located beneath the diaphragm in the left upper quadrant of the abdominal cavity?,True,True
+107,mmlu_anatomy,Proprioceptive nerve endings in synovial joints are located in,False,False
+108,mmlu_anatomy,The thoracic cage is a structural unit important for which of the following functions?,True,True
+109,mmlu_anatomy,A patient is admitted after a head injury and sinks rapidly into a coma. An MRI scan indicates an extradural haemorrhage because extravasated blood can be detected between the,True,True
+110,mmlu_anatomy,A successful infraorbital nerve block will produce anaesthesia of the,False,True
+111,mmlu_anatomy,Which of the following foramina pierce the sphenoid bone?,False,True
+112,mmlu_anatomy,Which of the following is a disorder characterized by uncontrollable episodes of falling asleep during the day?,True,True
+113,mmlu_anatomy,Which of the following allows gas exchange in the lungs?,True,True
+114,mmlu_anatomy,"A patient has a fracture in which the radius is bent but not displaced, and the skin is intact. This type of fracture is known as which of the following?",True,True
+115,mmlu_anatomy,Fertilization of an ovum by a spermatozoon occurs in which of the following structures?,True,True
+116,mmlu_anatomy,Ectoderm gives rise to,True,True
+117,mmlu_anatomy,"In men, which of the following structures is located at the neck of the bladder and surrounds the urethra?",True,True
+118,mmlu_anatomy,"Which of the following options completes the following statement? ""The right atrioventricular valve…""",True,False
+119,mmlu_anatomy,Which one of the following brain areas is supplied by branches of the subclavian arteries?,False,False
+120,mmlu_anatomy,Which of the following structures is part of the small intestine?,True,False
+121,mmlu_anatomy,During an inferior alveolar nerve block the needle ideally passes,False,False
+122,mmlu_anatomy,Patients with which of the following diseases are treated with injections of vitamin B-12?,True,True
+123,mmlu_anatomy,Which of the following bones has a process that joins with the zygomatic bone to form the zygomatic arch?,True,False
+124,mmlu_anatomy,Parasympathetic preganglionic axons leave the CNS with the,False,True
+125,mmlu_anatomy,A patient with damage to their cervical sympathetic chain will show the following signs and symptoms.,False,False
+126,mmlu_anatomy,Which of the following cranial nerves is related to the sense of smell?,True,True
+127,mmlu_anatomy,Where are the vital centres located in the brainstem?,False,True
+128,mmlu_anatomy,Saliva contains an enzyme that acts upon which of the following nutrients?,True,False
+129,mmlu_anatomy,During swallowing the,True,False
+130,mmlu_anatomy,The dorsal roots of all spinal nerves contain,True,False
+131,mmlu_anatomy,Which of the following is the master gland of the endocrine system?,True,True
+132,mmlu_anatomy,Loss of somatic sensation over the anterior two-thirds of the tongue indicates damage to the,False,False
+133,mmlu_anatomy,"In men, specimens for gonococcal cultures are most commonly obtained from which of the following structures?",True,True
+134,mmlu_anatomy,Which of the following structures should be visible on a dental panoramic radiograph?,False,False

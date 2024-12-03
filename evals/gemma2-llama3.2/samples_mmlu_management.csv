@@ -1,0 +1,104 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_management,What is the term for a sub-optimal but acceptable outcome of negotiations between parties?,True,True
+1,mmlu_management,What is the term for the 'rule of thumb' type of bias in decision making?,True,True
+2,mmlu_management,What is a normative perspective?,True,True
+3,mmlu_management,"In the 'five forces model', what is the type of competitive activity that exists between organisations?",False,True
+4,mmlu_management,Which one of the following political leaders could not be termed a 'transformational' leader?,False,False
+5,mmlu_management,What is a Gantt chart a type of?,True,False
+6,mmlu_management,Which one of the following is a feature of McGregor's Theory X?,True,True
+7,mmlu_management,What is the term for power derived from status or position in an organisation?,False,True
+8,mmlu_management,Which writer is most associated with bureaucratic structures?,True,False
+9,mmlu_management,Who of the following is the industrial philanthropist?,True,True
+10,mmlu_management,Individualism as a guiding moral philosophy was advocated by which economist?,True,False
+11,mmlu_management,The Hawthorn Studies are most associated with which writer?,True,True
+12,mmlu_management,How can you describe the thinking and outlook of transformational leaders?,False,True
+13,mmlu_management,What are the key characteristics of transactional leaders?,True,False
+14,mmlu_management,What is not an assumption underpinning the rational decision making model?,True,True
+15,mmlu_management,Which one of the following is not one of Drucker's five guiding principles of management?,True,True
+16,mmlu_management,What is a paradigm?,False,False
+17,mmlu_management,What one of the following is not a key management skill in planning?,True,True
+18,mmlu_management,According to Belbin (1981) an extroverted and enthusiastic person fits with what role?,False,False
+19,mmlu_management,Which is not a recognised form of business continuity planning?,True,False
+20,mmlu_management,What is the term for an organisation that adapts to changes in the environment by quickly responding to shifts in supply and demand conditions?,False,True
+21,mmlu_management,Which of these is not part of the recognised challenges for modern managers?,True,True
+22,mmlu_management,To what does emotional intelligence refer?,True,True
+23,mmlu_management,Of what is individual freedom to schedule work an example?,False,False
+24,mmlu_management,What are workers primarily motivated by according to the instrumental approach?,True,True
+25,mmlu_management,Which is not a characteristic of corporate social responsibility?,True,True
+26,mmlu_management,Who was a major protagonist of utilitarianism?,True,True
+27,mmlu_management,As what is ensuring that one individual does not carry the burden of a whole work task referred to?,True,False
+28,mmlu_management,How do you describe a work group that comprises workers with demarcated tasks and distant line managers?,False,False
+29,mmlu_management,Specialisation is a feature of which organisational structure?,True,False
+30,mmlu_management,Which one is not an element in the primary activities of a value chain?,True,True
+31,mmlu_management,What is the term for the act of getting individuals to behave in ways that are acceptable to a group?,False,True
+32,mmlu_management,When does an acquisition take place?,False,False
+33,mmlu_management,Who of these is the entrepreneur?,True,True
+34,mmlu_management,Which of these is not an advantage of a virtual team?,True,False
+35,mmlu_management,What is the richest form of information?,True,False
+36,mmlu_management,What is the purpose of a 'quality circle'?,True,False
+37,mmlu_management,What is the guiding principle behind New Public Management?,True,True
+38,mmlu_management,Profitability stemming from how well a firm positions itself in the market is a key feature of which writer's view on strategy?,True,True
+39,mmlu_management,Functional structures help to create...,True,True
+40,mmlu_management,What is a succession plan?,True,True
+41,mmlu_management,What is the definition of a scenario in scenario planning?,True,True
+42,mmlu_management,What assumption is the garbage can model of decision making based on?,False,True
+43,mmlu_management,By which principle is utilitarianism defined?,False,False
+44,mmlu_management,What is the term for the set of behaviours and tasks that a member of the group is expected to perform because he or she is a member of the group?,True,True
+45,mmlu_management,"What is the term for a process that enables an organisation to assess and demonstrate its social, economic, and environmental benefits and limitation?",True,True
+46,mmlu_management,What type of organisational culture is most likely to deliver stability and efficiency?,True,False
+47,mmlu_management,Who of the following is a leading writer on contingency theory of leadership?,True,False
+48,mmlu_management,What are characteristics of a programmed decision?,True,False
+49,mmlu_management,What is not an advantage of a hierarchical structure?,True,False
+50,mmlu_management,What is a strategic alliance?,True,True
+51,mmlu_management,What are group norms?,True,True
+52,mmlu_management,Which of the following is not a recognised type of plan?,False,True
+53,mmlu_management,What is the term for the extent to which competition in one country is influenced by competition in other countries?,False,True
+54,mmlu_management,As what are key factors that reflect the situation of an organisation referred to?,False,False
+55,mmlu_management,Which of these does not form part of the key streams identified by March (1988) in decision making in highly ambiguous environments?,False,False
+56,mmlu_management,What does PEST stand for?,True,False
+57,mmlu_management,What does the acronym SMART stand for?,False,True
+58,mmlu_management,Which writer was concerned with the reaction of workers to key characteristics of bureaucracies?,False,False
+59,mmlu_management,What is the optimal span of control?,False,False
+60,mmlu_management,What one of these is not a recognised type of authority?,True,False
+61,mmlu_management,Which one of the following is not a characteristic of a team?,True,True
+62,mmlu_management,Which of these factors is not one of the competing responsibilities that influence corporate social responsibility?,True,False
+63,mmlu_management,What is the term used in Ansoff's matrix for increasing market share with existing products in existing markets?,True,True
+64,mmlu_management,What is characteristic for the location of a virtual team?,True,True
+65,mmlu_management,"According to the Five Factor model, 'extraversion' as a personality type is characterised by what type of people?",True,True
+66,mmlu_management,What is the overriding philosophy underpinning the strategic direction of an organisation?,True,False
+67,mmlu_management,What is the term for the action in which managers at an organisation analyse the current situation of their organisation and then develop plans to accomplish its mission and achieve its goals?,True,False
+68,mmlu_management,What is Frank Gilbreth`s work most noted for?,True,True
+69,mmlu_management,What is another name for contingency planning?,False,True
+70,mmlu_management,Which feature does not form one of Fayol's 14 principles of management?,True,True
+71,mmlu_management,What one of the following is not a characteristic of the job characteristics model?,True,True
+72,mmlu_management,Workers' acceptance of change is characteristic of what type of culture?,False,True
+73,mmlu_management,What is a virtual organisation?,True,True
+74,mmlu_management,From what does a chain of command extend?,False,True
+75,mmlu_management,"What do you call a style of leadership that takes account of others' views, opinions and ideas?",False,False
+76,mmlu_management,What is the guiding principle of scientific management?,True,True
+77,mmlu_management,What is the term Tuckman uses for reaching consensus as a group?,False,True
+78,mmlu_management,What theory is built around the principle that 'people make choices regarding how to behave based on values and beliefs'?,True,False
+79,mmlu_management,What is the term for decisions limited by human capacity to absorb and analyse information?,True,True
+80,mmlu_management,What is a definition of an objective?,True,True
+81,mmlu_management,What is not a purpose of an organisational structure?,True,False
+82,mmlu_management,To what time-frame do strategic plans relate?,True,True
+83,mmlu_management,What is the term for organisational development through a formally designed organisational structure?,True,False
+84,mmlu_management,'There is no discernible link between planning and performance'. Who is this position held by?,True,False
+85,mmlu_management,What does situational theory of leadership emphasise?,True,False
+86,mmlu_management,What is intuitive decision making based on?,True,False
+87,mmlu_management,Enhancement of job satisfaction and productivity are key characteristics of which theoretical perspective of work design?,False,True
+88,mmlu_management,Which 18th century writer produced a famous book called 'The Wealth of Nations'?,True,True
+89,mmlu_management,Which one of these characteristics is most commonly associated with the 'rational goal' model of management?,True,True
+90,mmlu_management,In what order do managers typically perform the managerial functions?,False,False
+91,mmlu_management,How does lateral communication in an organisation occur?,True,True
+92,mmlu_management,Of what is advertising a form?,False,True
+93,mmlu_management,What is not a component of an agile organisation?,False,False
+94,mmlu_management,Of what is worker autonomy in decision making an example?,True,True
+95,mmlu_management,Vertical integration forwards is when a firm mergers or acquires another,True,False
+96,mmlu_management,What is the term for an autonomous business entity within an overall corporate enterprise which is set apart from other areas of the business?,False,True
+97,mmlu_management,What is not a characteristic of a corporate social responsibility framework?,True,True
+98,mmlu_management,What is a whistleblower?,True,True
+99,mmlu_management,What is T-group training?,False,False
+100,mmlu_management,What is a social enterprise concerned with?,True,True
+101,mmlu_management,Which of the following is not part of Schein's model of the formation of culture?,False,True
+102,mmlu_management,What is not one of the layers of cultural influence?,False,False

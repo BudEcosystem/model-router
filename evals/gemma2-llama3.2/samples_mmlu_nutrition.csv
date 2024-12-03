@@ -1,0 +1,616 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_nutrition,"Which foods tend to be consumed in lower quantities in Wales and Scotland (as of 2020)?
+",False,True
+1,mmlu_nutrition,"In which one of the following circumstances will the prevalence of a disease in the population increase, all else being constant?
+",True,True
+2,mmlu_nutrition,"Which of the following statements is correct?
+",False,False
+3,mmlu_nutrition,"What are the main causes of the obesity epidemic?
+",True,True
+4,mmlu_nutrition,"Which vitamin is a major lipid-soluble antioxidant in cell membranes?
+",True,True
+5,mmlu_nutrition,"Which of the following contributes to vitamin B12 deficiency in older adults?
+",True,True
+6,mmlu_nutrition,"Obesity increases the risk of endometrial cancer. Which hormone is thought to mediate this effect?
+",True,True
+7,mmlu_nutrition,"Which vitamin is required for calcium absorption from the small intestine?
+",True,True
+8,mmlu_nutrition,"Which of the following statements about the metabolic demand for amino acids is correct?
+",True,True
+9,mmlu_nutrition,"Which of the following statements about human amino acid requirements in human nutrition is correct?
+",False,True
+10,mmlu_nutrition,"A food additive is considered to be safe when:
+",False,True
+11,mmlu_nutrition,"Which of the following statements is true:
+",False,True
+12,mmlu_nutrition,"What role do women play in food security?
+",True,True
+13,mmlu_nutrition,"The following amino acids are all essential components of the diet:
+",True,True
+14,mmlu_nutrition,"Which single statement about fat digestion and absorption is correct?
+",False,False
+15,mmlu_nutrition,"Which fatty acids found in plasma phospholipids are associated with reduced cardiovascular mortality?
+",True,True
+16,mmlu_nutrition,"Crohn's disease:
+",True,False
+17,mmlu_nutrition,"Which of the following is true about the diagnosis of ""osteopenia"" or ""osteoporosis"" in North America and Western Europe
+",False,False
+18,mmlu_nutrition,"Which country has undergone the most rapid nutrition transition in the last two decades?
+",True,True
+19,mmlu_nutrition,"Acute binge drinking is associated with?
+",True,False
+20,mmlu_nutrition,"Why are some specific indices of iron status (such as serum ferritin or transferrin receptors) generally considered to be more reliable indices of iron status, than blood haemoglobin levels are?
+",False,False
+21,mmlu_nutrition,"What stable isotope is commonly given for the measurement of total body water?
+",True,True
+22,mmlu_nutrition,"What are focus areas of nutritional epidemiology?
+",True,True
+23,mmlu_nutrition,"Which of the following diet-derived compounds have epigenetic effects?
+",True,True
+24,mmlu_nutrition,"Which of the following does not occur with increasing age?
+",True,False
+25,mmlu_nutrition,"Which vitamin is required for synthesis of the blood clotting proteins?
+",True,True
+26,mmlu_nutrition,"What the largest endogenous substrate source in the body?
+",False,False
+27,mmlu_nutrition,"Which of the following statements concerning transamination is correct?
+",True,False
+28,mmlu_nutrition,"What is food security?
+",False,True
+29,mmlu_nutrition,"What is the likely reason that evidence to support the relationship between dietary cholesterol and plasma LDL cholesterol levels in humans is inconclusive?
+",True,True
+30,mmlu_nutrition,"Which of the following statements about amino acid scoring for predicting protein quality in human nutrition is correct?
+",True,True
+31,mmlu_nutrition,"A 20 year old student who has recently arrived in Britain from Sudan visits the university health centre to complain of abdominal cramps and diarrhoea after drinking milk. Which of the following is the most likely cause of his problem?
+",True,False
+32,mmlu_nutrition,"Which of the following is the main nitrogenous compound in urine?
+",True,True
+33,mmlu_nutrition,"It has been observed that a reduction in family size and improved sanitary condition have led to an increase in allergic conditions. The 'hygiene hypothesis' suggests that
+",True,True
+34,mmlu_nutrition,"Why might some biochemical (eg plasma or serum) indices of micronutrient status give misleading results in people with infections or inflammatory states?
+",True,True
+35,mmlu_nutrition,"What proportion of vegans is likely to be deficient in vitamin B12?
+",False,True
+36,mmlu_nutrition,"Which of these factors increases the risk for cancer of the oesophagus?
+",False,False
+37,mmlu_nutrition,"Which one of the following statements about protein nutrition is correct?
+",True,True
+38,mmlu_nutrition,"Higher dietary sodium (salt) intake is generally associated with:
+",True,True
+39,mmlu_nutrition,"Which of the following is a function of vitamin B6?
+",True,True
+40,mmlu_nutrition,"Which of the following statements is/are true?
+There is increasing concern about the importance of adequate nutrition in the pre-conception period to support a successful pregnancy. This is because:
+",True,True
+41,mmlu_nutrition,"Which of the following best explains the antioxidant action of vitamin E?
+",False,False
+42,mmlu_nutrition,"Which of these factors increases the risk for cancer of the stomach?
+",False,True
+43,mmlu_nutrition,"What are the main enzyme systems for catalysing ethanol to acetaldehyde?
+",False,True
+44,mmlu_nutrition,"In a healthy person maintaining energy balance in equilibrium (i.e. mathematical equality of energy intake and energy expenditure) is generally achieved on a:
+",False,False
+45,mmlu_nutrition,"Which of the following statements is incorrect regarding fatty acid ß-oxidation?
+",True,False
+46,mmlu_nutrition,"Intestinal lactase deficiency leads to lactose maldigestion which subsequently can lead to lactose intolerance, i.e. causing clinical symptoms. Infants and children normally express sufficient lactase levels as not to experience clinical symptoms. Overall, adults can be classified as lactase-persisters or lactase non-persisters. What is the approximate percentage of Lactase non-persisters worldwide?
+",True,True
+47,mmlu_nutrition,"Which of the following vitamins provides the coenzyme for carboxylation reactions?
+",True,True
+48,mmlu_nutrition,"According to trials on diabetes prevention, high-risk individuals can reduce their risk to develop diabetes by doing the following:
+",True,True
+49,mmlu_nutrition,"IBS
+",True,True
+50,mmlu_nutrition,"The gut microbes metabolize L-carnitine into which metabolite that has been shown increase cardiovascular disease?
+",True,False
+51,mmlu_nutrition,"Which of the following statements is correct?
+",True,False
+52,mmlu_nutrition,"Eosinophilic oesophagitis
+",False,True
+53,mmlu_nutrition,"Which of the following vitamins is required for fatty acid b-oxidation?
+",False,False
+54,mmlu_nutrition,"Children who are obese should:
+",True,True
+55,mmlu_nutrition,"Which of the treatments below has not demonstrated efficacy in BED
+",True,False
+56,mmlu_nutrition,"Which of the following is a function of biotin?
+",False,False
+57,mmlu_nutrition,"How is iron transported in the circulation from the intestine to the sites of metabolism in the body?
+",True,True
+58,mmlu_nutrition,"The safety of which of the following substances must be demonstrated prior to their introduction into food?
+",True,True
+59,mmlu_nutrition,"Select the single most accurate statement about the absorptive area of the human intestine?
+",False,False
+60,mmlu_nutrition,"Infants and children with a suspected food allergy e.g. cow's milk allergy/intolerance could display the following symptoms and signs:
+",True,True
+61,mmlu_nutrition,"High intake of which of these dietary components predisposes to accelerated cognitive decline
+",True,True
+62,mmlu_nutrition,"Which of the following statements is/are true?
+How can smoking affect breastfeeding?
+",True,True
+63,mmlu_nutrition,"Which of the following statements about the global ageing population is correct?
+",False,False
+64,mmlu_nutrition,"Which of the following changes in body composition are associated with ageing in older adults?
+",True,False
+65,mmlu_nutrition,"What is the main source of protein in the British diet?
+",True,False
+66,mmlu_nutrition,"What is leptin resistance?
+",True,False
+67,mmlu_nutrition,"The two most common causes of foodborne illness in the United States and Europe are:
+",True,True
+68,mmlu_nutrition,"Bariatric surgery is used for obesity treatment but how much is the incidence of type 2 diabetes reduced in obese individuals after surgery?
+",True,False
+69,mmlu_nutrition,"What are the disadvantages of identifying under-reporting of usual intake using the doubly labelled water technique?
+",False,True
+70,mmlu_nutrition,"Facial flushing is seen in approximately 50% of East Asians and is thought to be due to a deficiency of?
+",True,True
+71,mmlu_nutrition,"Which of the following foods do not contain free sugars
+",True,False
+72,mmlu_nutrition,"Which of the following inborn errors of metabolism gives rise to zinc deficiency?
+",False,True
+73,mmlu_nutrition,"Ulcerative Colitis
+",True,False
+74,mmlu_nutrition,"What characteristic is not representative of a type IIb muscle fibre?
+",False,False
+75,mmlu_nutrition,"Which of the following statements is not true?
+",True,True
+76,mmlu_nutrition,"Intestinal failiure:
+",False,False
+77,mmlu_nutrition,"Which of the following statements is correct?
+",True,False
+78,mmlu_nutrition,"Which of the following is true about dietary calcium:
+",True,False
+79,mmlu_nutrition,"Oral bacterial synthesise extracellular glucans (dextran and mutan) from which host dietary component?
+",True,False
+80,mmlu_nutrition,"What is the definition of overweight?
+",False,False
+81,mmlu_nutrition,"Pregnancy and lactation is known to:
+",False,True
+82,mmlu_nutrition,"Observational epidemiology studies have produced useful in identifying health effects of many food contaminants, but not for assessing risk, because:
+",False,True
+83,mmlu_nutrition,"It is correct to state that for the treatment of Bulimia Nervosa:
+",True,True
+84,mmlu_nutrition,"The respiration quotient (RQ):
+",False,False
+85,mmlu_nutrition,"Nitrites are added to processed meats mainly to prevent the growth of the following genus of microorganisms
+",False,False
+86,mmlu_nutrition,"At what stage(s) during pregnancy did in utero exposure to the Dutch Hunger Winter have the biggest effects on DNA methylation in blood cells from the adult offspring?
+",True,True
+87,mmlu_nutrition,"The body's adjustment of heat production to changes in the plane of nutrition (under- or over-nutrition) and to minimize energy imbalance is known as:
+",True,False
+88,mmlu_nutrition,"Which drug(s) is/are approved for the treatment of obesity in Europe?
+",True,True
+89,mmlu_nutrition,"In order to achieve optimal nutritional status it is recommended that older adults consume:
+",True,True
+90,mmlu_nutrition,"The measurement of a specific biochemical status index for a micronutrient such as vitamin C is most likely to be useful in practice to estimate:
+",False,True
+91,mmlu_nutrition,"Which statement about protein digestion and absorption is most correct?
+",True,True
+92,mmlu_nutrition,"What is the density of fat free mass?
+",False,False
+93,mmlu_nutrition,"In an epidemiological context, what is the population at risk?
+",True,True
+94,mmlu_nutrition,"How will climate change affect future food security?
+",True,True
+95,mmlu_nutrition,"What is a major limitation of using BMI (body mass index) as a method of body fat measurements?
+",True,False
+96,mmlu_nutrition,"Which of the following vitamins provides the cofactor for hydroxylation reactions in collagen synthesis?
+",True,False
+97,mmlu_nutrition,"Endurance type exercise training modulates fuel storage and substrate use. Adaptive responses include:
+",False,False
+98,mmlu_nutrition,"Which vitamins are most likely to be lacking in a vegan diet?
+",True,True
+99,mmlu_nutrition,"A blood sample is taken from a 45 year old man after he has broken his overnight fast by eating three slices of toast and a boiled egg. Which one of the following will be at a higher concentration than if the blood sample had been taken before breakfast?
+",False,False
+100,mmlu_nutrition,"In adolescence:
+",False,False
+101,mmlu_nutrition,"In which form is selenium found in the 25 human selenoproteins?
+",True,True
+102,mmlu_nutrition,"On a global scale, trends are suggesting that with rising incomes and urbanization we are seeing a rise in which food commodities?
+",False,False
+103,mmlu_nutrition,"Intestinal motility is a complex process, orchestrated by nerves, hormones and the presence of food in the stomach. Which statement about this process is correct?
+",True,False
+104,mmlu_nutrition,"It is possible to reduce (though not eliminate) information bias in assessment of dietary intake by
+",False,True
+105,mmlu_nutrition,"To characterize a binge eating episode one must investigate the presence of:
+",True,True
+106,mmlu_nutrition,"Which of the factors below is NOT considered a risk factor for Eating Disorders
+",True,False
+107,mmlu_nutrition,"Which statement about absorption from the gastro-intestinal (GI) tract is most correct?
+",True,False
+108,mmlu_nutrition,"Of the classes of dietary fatty acids which have the most beneficial effect on plasma LDL cholesterol levels?
+",True,True
+109,mmlu_nutrition,"Which of the following is not a function of vitamin D?
+",True,False
+110,mmlu_nutrition,"How many kcal are there in one gram of ethanol?
+",False,False
+111,mmlu_nutrition,"Colonic microbiome:
+",True,False
+112,mmlu_nutrition,"Which of the following amino acids cannot provide a substrate for gluconeogenesis?
+",True,False
+113,mmlu_nutrition,"What nutritional strategies will not improve performance during prolonged endurance type exercise?
+",False,True
+114,mmlu_nutrition,"Which body composition method would you use to measure body mineral content?
+",False,True
+115,mmlu_nutrition,"These factors increase risk of osteoporotic fracture:
+",False,True
+116,mmlu_nutrition,"Fruit and vegetable consumption
+",False,True
+117,mmlu_nutrition,"Which are the FIVE main series of apoproteins that have been identified?
+",False,True
+118,mmlu_nutrition,"Which of the following is the yield of ATP from complete oxidation of glucose to carbon dioxide and water?
+",True,False
+119,mmlu_nutrition,"Nutrients may pose health risks:
+",True,False
+120,mmlu_nutrition,"The Atherogenic Lipoprotein Phenotype (ALP) is a collection of which lipoprotein abnormalities?
+",True,True
+121,mmlu_nutrition,"The colonic microflora can be considered as ""an organ within an organ"". Which of the following statements best describes the functions of the microbiota?
+",True,True
+122,mmlu_nutrition,"Which of the following statements about glucose metabolism is correct?
+",True,False
+123,mmlu_nutrition,"What dietary component has been shown to improve hypertension in humans?
+",True,True
+124,mmlu_nutrition,"Fats normally contain triacylglycerols at concentrations of:
+",False,True
+125,mmlu_nutrition,"Which of the following statements about protein structure is correct?
+",False,False
+126,mmlu_nutrition,"Which of the following statements about exposures is true?
+",True,False
+127,mmlu_nutrition,"The test for checking mean plasma glucose concentration over the previous 8-10 weeks is:
+",True,False
+128,mmlu_nutrition,"Which one of these organs has the lowest energy expenditure per unit of body mass (kg)?
+",True,True
+129,mmlu_nutrition,"Are GM foods a valuable tool with which to address global food security and climate change?
+",False,True
+130,mmlu_nutrition,"What do flavonoids (polyphenols), including isoflavones (phytoestrogens), inositol phosphates (phytates), lignans (phytoestrogens), isothiocyanates, indoles, phenols and sulphides and thiols, have in common?
+",True,True
+131,mmlu_nutrition,"Which of the following will increase in vitamin D deficiency?
+",False,True
+132,mmlu_nutrition,"The 'mad cows disease' has had the greatest impact on food choice due to which of the following?
+",True,False
+133,mmlu_nutrition,"Which one of the following is a definition of glycaemic index?
+",True,False
+134,mmlu_nutrition,"Which of the following statements is true?
+Impaired foetal growth is described as intrauterine growth retardation (IUGR). IUGR has the same definition as:
+",True,True
+135,mmlu_nutrition,"Which statement about dietary fibre is most correct?
+",False,True
+136,mmlu_nutrition,"Which of the following is not a reason for increased risk of vitamin or mineral deficiencies among older people in high income countries?
+",False,False
+137,mmlu_nutrition,"What is the estimated global prevalence of untreated dental caries?
+",True,False
+138,mmlu_nutrition,"Bone mineral accretion
+",False,True
+139,mmlu_nutrition,"Which of the following is not considered a diagnostic feature of Anorexia Nervosa
+",True,False
+140,mmlu_nutrition,"Supplementation with long-chain fatty acids EPA and DHA during pregnancy and infancy will likely benefit the following:
+",True,False
+141,mmlu_nutrition,"Deficiency of thiamin in alcoholics leads to
+",True,True
+142,mmlu_nutrition,"In human DNA, which nucleotide base is methylated at the 5' position?
+",True,True
+143,mmlu_nutrition,"Which of the following statements is correct regarding intracellular fat metabolism?
+",True,True
+144,mmlu_nutrition,"Which of the following statements about the digestibility of dietary proteins is correct?
+",True,False
+145,mmlu_nutrition,"Basal Metabolic Rate (BMR):
+",False,True
+146,mmlu_nutrition,"What is the best method to estimate changes in body fat during weight loss?
+",False,True
+147,mmlu_nutrition,"Which of the following statements is correct?
+",False,True
+148,mmlu_nutrition,"Which of the following statements about the role of the intestine in development of obesity best describes the situation?
+",False,True
+149,mmlu_nutrition,"Which of these factors is associated with an increase in the risk for prostate cancer?
+",True,True
+150,mmlu_nutrition,"Which of the following is not a function of vitamin A
+",True,False
+151,mmlu_nutrition,"Which of the following confirmed values meet the diagnostic threshold for diabetes?
+",True,True
+152,mmlu_nutrition,"What is the basic functional unit of skeletal muscle tissue?
+",False,True
+153,mmlu_nutrition,"In the past two decades, interest in maternal nutrition has been heightened following the findings of epidemiological studies that show links between early experience and later health. Which of the following statements is true:
+",True,True
+154,mmlu_nutrition,"Was T.R. Malthus correct in concluding that population growth will outstrip food production growth?
+",True,True
+155,mmlu_nutrition,"What are histones?
+",True,True
+156,mmlu_nutrition,"Which of the following statements about methods of evaluating protein quality in human nutrition is correct?
+",True,False
+157,mmlu_nutrition,"Alcohol is a major risk factor for cancer development. Which alcohol metabolite plays a prominent role in cancer development?
+",True,True
+158,mmlu_nutrition,"The body mass index (BMI) of vegetarians differs on average from meat-eaters by how much?
+",False,False
+159,mmlu_nutrition,"Which of the following statements about the diets and nutritional status of older people is correct?
+",True,False
+160,mmlu_nutrition,"Cholesterol and fatty acids absorbed from the intestinal lumen are packaged into which types of lipoproteins and secreted from the enterocytes into the lymph?
+",True,False
+161,mmlu_nutrition,"Which of the following vitamins is involved in one-carbon metabolism?
+",True,True
+162,mmlu_nutrition,"Which of the following is not a beneficial effect of exercise in people with diabetes:
+",True,True
+163,mmlu_nutrition,"Which of the following cannot be a substrate for gluconeogenesis?
+",True,True
+164,mmlu_nutrition,"The intake of which minerals is not affected by high intakes of foods containing phytic acid?
+",False,False
+165,mmlu_nutrition,"The pathogenesis of hyperglycemia in type 2 diabetes includes all the following mechanisms except for:
+",True,True
+166,mmlu_nutrition,"Inviduals suffering from inhalant allergies may also react to cross- reacting food allergens. A person suffering from a natural latex allergy might not react to one of the following allergens
+",False,False
+167,mmlu_nutrition,"Which of the following methods is recommended to screen for malnutrition on admission to hospital?
+",True,True
+168,mmlu_nutrition,"Which of the following in not a zinc-dependent enzyme?
+",False,False
+169,mmlu_nutrition,"Which of the following statements about the protein requirement is correct
+",False,True
+170,mmlu_nutrition,"What dietary pattern shows most promise in preventing age related cognitive decline
+",True,False
+171,mmlu_nutrition,"What enzyme is responsible for copying methylation marks from the parental to the daughter strand of DNA during replication?
+",True,True
+172,mmlu_nutrition,"What is the worldwide prevalence of obesity?
+",False,False
+173,mmlu_nutrition,"Lactose
+",False,False
+174,mmlu_nutrition,"How many stages within the food supply chain can food availability and consumption be measured?
+",False,False
+175,mmlu_nutrition,"Which of the following is a function of folate?
+",False,False
+176,mmlu_nutrition,"The vitamins which are lost most readily during cooking are:
+",True,False
+177,mmlu_nutrition,"Doses of substances used in animal toxicity studies are usually many times greater than those experienced by people because:
+",False,False
+178,mmlu_nutrition,"Risk management for chemical contaminants of food generally relies on:
+",True,True
+179,mmlu_nutrition,"The effects of iron on certain aspects of socio-emotional development (shyness, orientation/engagement and response to unfamiliar pictures) is due to:
+",False,False
+180,mmlu_nutrition,"Insulin deficiency is associated with
+",False,True
+181,mmlu_nutrition,"Which of the following vitamins provides the coenzyme for reduction reactions in fatty acid synthesis?
+",False,True
+182,mmlu_nutrition,"On an average daily basis, the gross energy intake of a healthy woman is 9279 kJ, the energy content of her faeces and urine are 647 kJ and 318 kJ, respectively. Her average daily digestible energy intake and metabolisable energy intake would be, respectively,:
+",True,False
+183,mmlu_nutrition,"When epidemiologists judge the evidence to establish possible causes of a health outcome, they consider
+",True,True
+184,mmlu_nutrition,"Women who are planning a pregnancy are recommended to take a supplement of 400ìg folic acid/ day before and until the end of the first trimester of pregnancy. What effect does such supplementation have on methylation of the imprinted gene IGF2 in the resulting children?
+",False,True
+185,mmlu_nutrition,"Occasionally infants are born without a normally functioning immune system. What are the signs most suggestive of a severe combined immunodeficiency?
+",True,True
+186,mmlu_nutrition,"Fibre supplements
+",True,False
+187,mmlu_nutrition,"Which life-style factors do not confound the interpretation of the health of vegetarians compared with meat-eaters?
+",False,False
+188,mmlu_nutrition,"Which of the following has not at one point in the past few decades been considered as a cause of the oedema of kwashiorkor?
+",True,False
+189,mmlu_nutrition,"Which of the following is not a non-coding RNA?
+",True,False
+190,mmlu_nutrition,"More and more detrimental effects of malnutrition during childhood and adult life have been identified. The effects of over nutrition e.g. overweight and obesity are less well known. Overweight and obesity are associated with which of the following
+",True,True
+191,mmlu_nutrition,"After consumption of a mixed meal, a complex cascade of events takes place that integrates fat metabolism at the whole body level. Which of the following is correct?
+",False,True
+192,mmlu_nutrition,"What difference will urbanisation make for hunger and malnutrition?
+",False,True
+193,mmlu_nutrition,"Which membrane fatty acids are precursors for eicosanoids?
+",True,True
+194,mmlu_nutrition,"Under conditions of metabolic or other stress, which of the following amino acids generally regarded as being dispensable may be required in greater amount than can readily be synthesised in the body?
+",False,False
+195,mmlu_nutrition,"The most direct method for measuring body composition is:
+",True,False
+196,mmlu_nutrition,"What type of diet is recommended for weight maintenance?
+",True,True
+197,mmlu_nutrition,"The Worldwide HIV/AIDS campaigns have made significant progress over the last years. The HIV infection rates in Europe
+",False,False
+198,mmlu_nutrition,"For certain micronutrients, 'biochemical functional indices' have been developed, to assess the adequacy of one or more biochemical pathways that respond predictably to changes in status of that specific micronutrient. One example is serum methylmalonic acid as a biochemical functional index for vitamin B12 status. What is the primary aim of such biochemical functional index measurements?
+",True,True
+199,mmlu_nutrition,"In terms of price per calorie, which of the following foods is the cheapest and most nutritious?
+",False,False
+200,mmlu_nutrition,"All babies lose weight after birth, you should be concerned when:
+",True,True
+201,mmlu_nutrition,"Which of the following statements about glucose metabolism is correct?
+",True,False
+202,mmlu_nutrition,"Risk assessment is applied to data on toxicity and human exposure to:
+",False,False
+203,mmlu_nutrition,"What is the typical body composition of a normal weight young adult man?
+",True,False
+204,mmlu_nutrition,"The critical pH below which demineralisation of tooth enamel occurs is usually around:
+",True,False
+205,mmlu_nutrition,"The supplementation of diet with which fat soluble vitamins has been shown to reduce cardiovascular disease?
+",False,False
+206,mmlu_nutrition,"Vitamin D deficiency can often be found as a single nutrient deficiency, that is, in an otherwise well-nourished person. The main reason this can happen is because:
+",True,False
+207,mmlu_nutrition,"Water transport can occur from the lumen of the intestine to the blood stream, or from the blood stream to the intestinal lumen. Which single statement about this phenomenon, below, is actually correct?
+",False,False
+208,mmlu_nutrition,"Which of the following are the recommended blood pressure and lipid goals for the prevention of cardiovascular disease in adults with diabetes?
+",False,True
+209,mmlu_nutrition,"Current recommendations are that:
+",True,True
+210,mmlu_nutrition,"Food allergies:
+",False,False
+211,mmlu_nutrition,"The UNICEF model of the causes of malnutrition identifies several levels of causes: immediate, underlying and basic. Which of the following is not one of the underlying causes in the UNICEF model?
+",True,False
+212,mmlu_nutrition,"Which statement about intestinal ""brakes"" and ""accelerators"" is FALSE?
+",False,False
+213,mmlu_nutrition,"What is meant by the term 'functional isolation'?
+",False,False
+214,mmlu_nutrition,"Which of the following proteins is not involved in the absorption of cholesterol in the small intestine?
+",False,False
+215,mmlu_nutrition,"What is the prevalence of alcoholic myopathy in alcoholics
+",True,True
+216,mmlu_nutrition,"Molecules of natural polyunsaturated fatty acids in vegetable oils contain:
+",True,True
+217,mmlu_nutrition,"Which of the following statements is not true?
+",False,False
+218,mmlu_nutrition,"Which of the following statements about glycogen metabolism is correct?
+",True,False
+219,mmlu_nutrition,"The WHO made a strong recommendation that the maximum intake of free sugars by individuals within populations should be
+",False,True
+220,mmlu_nutrition,"Rickets of prematurity is associated with:
+",True,True
+221,mmlu_nutrition,"Which of the following diseases does obesity increase the risk of developing?
+",True,True
+222,mmlu_nutrition,"Which of the following statements about the protein:energy ratio of the requirement is correct?
+",False,False
+223,mmlu_nutrition,"Since the 1996 World Food Summit, how has the number of food insecure people in the world changed?
+",True,True
+224,mmlu_nutrition,"Which of the following statements is correct?
+",True,True
+225,mmlu_nutrition,"What caused the food-price spike of 2007-2008?
+",True,True
+226,mmlu_nutrition,"Toxicity and dose-response data from animal studies, together with data of which of the following types, are used to evaluate the safety of a food substance?
+",False,True
+227,mmlu_nutrition,"Epidemiological measures of effect assess the _______ between an exposure and an outcome.
+",True,True
+228,mmlu_nutrition,"The risk factors for type 2 diabetes mellitus include:
+",True,True
+229,mmlu_nutrition,"The World Health Organization recommends zinc supplements for which groups of people?
+",False,False
+230,mmlu_nutrition,"Which of the following statements is/are true? Epigenetic changes may be key to understanding the links between early experience and later health. They may:
+",True,True
+231,mmlu_nutrition,"Confounding is a particular challenge in nutritional epidemiology because
+",True,True
+232,mmlu_nutrition,"Infants born to mothers who are vegan may be at increased risk of deficiency of which nutrient?
+",True,True
+233,mmlu_nutrition,"Which of the following statements about proteolysis is correct?
+",False,False
+234,mmlu_nutrition,"Which of the following statements about plant sources of amino acids in human nutrition is correct?
+",False,True
+235,mmlu_nutrition,"Which of the following vitamins provides the coenzyme for oxidative decarboxylation of pyruvate?
+",True,False
+236,mmlu_nutrition,"Gluten
+",True,True
+237,mmlu_nutrition,"Adaptive thermogenesis refers to:
+",False,False
+238,mmlu_nutrition,"Which of the following rules regarding the interconversion of fuels are central to the integration of metabolic pathways?
+",False,False
+239,mmlu_nutrition,"Assessing growth in routine practice should be:
+",False,True
+240,mmlu_nutrition,"The daily amount of protein oxidized in the body of a person spending 24 hours in a respiratory chamber can be determined from his/her:
+",False,True
+241,mmlu_nutrition,"What is the primary lipoprotein secreted from the liver that is at least partially composed of dietary derived lipids?
+",True,False
+242,mmlu_nutrition,"Which of the following statements about the nutritional status of older people is correct?
+",True,True
+243,mmlu_nutrition,"Which of the following could lead to iodine deficiency?
+",True,True
+244,mmlu_nutrition,"In relation to Eating Disorders, it is correct that:
+",True,False
+245,mmlu_nutrition,"What are the limitations of food balance sheets? (select all that apply)?
+",False,True
+246,mmlu_nutrition,"The pancreas secretes a large amount of digestive enzymes after a meal. Which statement about this process is correct?
+",False,True
+247,mmlu_nutrition,"A deficiency of which vitamin has been associated with enamel defects and increased risk of dental caries?
+",False,False
+248,mmlu_nutrition,"Which of these factors reduces the risk for cancer of the colorectum?
+",True,True
+249,mmlu_nutrition,"Deficiencies of which of the following nutrients can lead to anaemia?
+",True,True
+250,mmlu_nutrition,"Which of two hormones act on the hypothalamus to increase satiety and hunger, respectively?
+",True,True
+251,mmlu_nutrition,"What is the phenotype of a congenital disorder impairing the secretion of leptin?
+",True,False
+252,mmlu_nutrition,"What are the effects of globalisation on food security?
+",True,True
+253,mmlu_nutrition,"Which of the following statements is correct?
+",False,True
+254,mmlu_nutrition,"Which statement about Engel's law on food economics is correct?
+",True,False
+255,mmlu_nutrition,"The stomach lining contains several types of cells. Which statement about them is correct?
+",True,False
+256,mmlu_nutrition,"Which of these factors increases the risk for lung cancer?
+",False,False
+257,mmlu_nutrition,"According to the recommendations for the nutritional management of patients with diabetes, the consumption of saturated fat should be:
+",True,False
+258,mmlu_nutrition,"When using bioelectrical impedance for measuring body composition, why does an electrical current travel faster through muscle than it does through fat?
+",False,True
+259,mmlu_nutrition,"Maternal weight gain is usually monitored in pregnancy. Which of the following statements is/are true:
+",True,True
+260,mmlu_nutrition,"Which of the following will provide the main fuel for muscle contraction during short-term intense activity such as sprinting?
+",True,False
+261,mmlu_nutrition,"How many calories should a woman eat each day during pregnancy?
+",False,False
+262,mmlu_nutrition,"Which of the following will be increased in vitamin K deficiency
+",True,False
+263,mmlu_nutrition,"Which of the following contributes to reduced energy expenditure in older adults?
+",True,True
+264,mmlu_nutrition,"Which one of following statements about nitrogen balance is correct?
+",True,False
+265,mmlu_nutrition,"Deficiency of vitamin A in children causes:
+",False,False
+266,mmlu_nutrition,"Which of these factors increases the risk for postmenopausal breast cancer?
+",False,True
+267,mmlu_nutrition,"Which of the following foods might be considered a ""goitrogen""?
+",True,True
+268,mmlu_nutrition,"Which statement best describes the differences between the characteristics of type 1 and type 2 diabetes:
+",True,False
+269,mmlu_nutrition,"Which of the following nutritional interventions has been shown to improve child development?
+",False,True
+270,mmlu_nutrition,"Food supplements, including trace minerals and vitamins are frequently advertised with promising health benefits. Which of the following substance could be consumed in excess, i.e. well above the recommended daily requirement?
+",False,True
+271,mmlu_nutrition,"The thermic effect of food
+",False,False
+272,mmlu_nutrition,"What is the primary method of dietary assessment used in epidemiological studies?
+",True,False
+273,mmlu_nutrition,"Calculate the body mass index (BMI) for a patient whose height is 1.75 m and whose weight is 99 kg.
+",False,True
+274,mmlu_nutrition,"Diagnosis of iron deficiency can be complicated by concurrent infection since many markers of iron status are altered by infection. Which of the following combinations of iron status markers is likely to be found in a person with both iron deficiency and a severe infection?
+",True,False
+275,mmlu_nutrition,"How much dietary protein should athletes consume daily?
+",True,False
+276,mmlu_nutrition,"Which vitamins are important in lowering circulating homocysteine levels
+",True,True
+277,mmlu_nutrition,"The function of the gastrointestinal tract can be classified in several ways. Which of the following functions is most important for survival immediately after a meal?
+",True,False
+278,mmlu_nutrition,"Which single statement below, about the stomach, is actually correct?
+",True,True
+279,mmlu_nutrition,"The best evidence exists for which nutrients in the prevention of age related cognitive decline?
+",True,True
+280,mmlu_nutrition,"Which diseases are not less frequent among vegetarians?
+",True,False
+281,mmlu_nutrition,"For Binge Eating Disorder it is incorrect that:
+",True,False
+282,mmlu_nutrition,"Although theoretically any food protein could act as a food allergen, there are eight major food allergens in Europe and North America which account for most of the allergic triggers observed in childhood. Which of the allergens pairings contains an allergen, which is not part of the group of eight major allergens?
+",True,False
+283,mmlu_nutrition,"Prenatal programming:
+",False,True
+284,mmlu_nutrition,"The best available evidence for an association between amount of sugars and risk of dental caries comes from which type of study design?
+",False,False
+285,mmlu_nutrition,"Which of the following statements about nutritional status and health outcomes is correct?
+",True,False
+286,mmlu_nutrition,"Which of the following statements about the consequence of an adaptive metabolic demand for the determination of the minimum protein requirement is correct.
+",True,True
+287,mmlu_nutrition,"De novo fatty acid synthesis usually signifies which of the following?
+",False,True
+288,mmlu_nutrition,"Which of the following lipoproteins is produced via the exogenous lipoprotein pathway?
+",True,True
+289,mmlu_nutrition,"The following types of research findings provide strong evidence for an association between diet and skeletal health:
+",True,True
+290,mmlu_nutrition,"Which vitamin is required for vision in dim light?
+",True,True
+291,mmlu_nutrition,"The amount and composition of dietary fat are important factors for influencing blood lipid metabolism. Which of the following statements is correct?
+",False,False
+292,mmlu_nutrition,"Additional dietary protein may:
+",False,True
+293,mmlu_nutrition,"Greater milk consumption
+",True,True
+294,mmlu_nutrition,"It is correct to state about the epidemiology of Anorexia Nervosa that:
+",False,False
+295,mmlu_nutrition,"What should elite athletes ideally consume during prolonged high intensity exercise (>2.5 hours)?
+",True,True
+296,mmlu_nutrition,"What endogenous substrate source provides the most energy during moderate to high intensity exercise?
+",True,True
+297,mmlu_nutrition,"How does agricultural research help reduce hunger and poverty?
+",True,True
+298,mmlu_nutrition,"Severe acute malnutrition in young children is defined as:
+",False,True
+299,mmlu_nutrition,"What are the main metabolites of alcohol metabolism?
+",True,False
+300,mmlu_nutrition,"Energy that is expended for standing at an office desk, walking to a file cabinet, and other office job-related activities is referred to the following energy expenditure component:
+",True,False
+301,mmlu_nutrition,"Are most developing-country farmers engaged in subsistence or commercial production?
+",False,True
+302,mmlu_nutrition,"Which of the following statements about protein synthesis is correct?
+",False,True
+303,mmlu_nutrition,"Which of the following is closest to the amount of retinol formed from ß-carotene?
+",True,True
+304,mmlu_nutrition,"From the list of oral microorganisms, which is primarily responsible for the initiation of dental caries?
+",True,True
+305,mmlu_nutrition,"Which statement about the oral phase of digestion is INCORRECT?
+",False,False

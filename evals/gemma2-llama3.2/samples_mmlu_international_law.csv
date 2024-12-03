@@ -1,0 +1,122 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_international_law,Which State ordinarily exercises jurisdiction in respect of crimes committed on board vessels?,True,False
+1,mmlu_international_law,What is the meaning of justiciability?,True,False
+2,mmlu_international_law,In what way is Responsibility to Protect (R2P) different from humanitarian intervention?,True,True
+3,mmlu_international_law,What is the 'Lotus principle'?,True,True
+4,mmlu_international_law,Which of these statements best describes the UK Constitution?,True,True
+5,mmlu_international_law,What is the obligation of the peaceful settlement of disputes?,False,True
+6,mmlu_international_law,Which one of the following statements is false?,True,True
+7,mmlu_international_law,Which is a 'rock' under the UN Convention of the Law of the Sea (UNCLOS)?,True,True
+8,mmlu_international_law,What is the meaning of international legal personality?,True,True
+9,mmlu_international_law,Which of the following is a treaty-based human rights mechanism?,True,True
+10,mmlu_international_law,The UN Vienna Declaration 1993 declared that,True,True
+11,mmlu_international_law,What is the principal source of immunity in respect of international organisations (IOs)?,False,True
+12,mmlu_international_law,Is there any hierarchy or priority among States under international law?,True,True
+13,mmlu_international_law,What is the declaratory theory of recognition?,True,True
+14,mmlu_international_law,"What is the function of ""standard-setting in human rights diplomacy?",False,False
+15,mmlu_international_law,What dimension did the Kadi judgment introduce with respect to the incorporation of UN Security Council resolutions?,True,False
+16,mmlu_international_law,Magna Carta was,True,True
+17,mmlu_international_law,Do individuals (physical) persons enjoy international legal personality in the same manner as States and international organisations?,True,True
+18,mmlu_international_law,Is there any hierarchy or priority among the various methods of peaceful settlement of disputes?,False,False
+19,mmlu_international_law,Which of the following statements is false?,False,False
+20,mmlu_international_law,What is the meaning of proportionality in relation to the options available to the victim State?,True,True
+21,mmlu_international_law,What is the ordinary geographical scope of jurisdiction?,True,True
+22,mmlu_international_law,Which are the formal sources of international law?,True,False
+23,mmlu_international_law,What is the purpose of baselines under the law of the sea?,True,True
+24,mmlu_international_law,What is the difference between conciliation and mediation?,True,True
+25,mmlu_international_law,"In Osman v UK (1998), the European Court laid down a test, which can be used to apply a general positive obligation on a state. Which of the following statements is not part of the Osman test?",True,True
+26,mmlu_international_law,Who is entitled to request an advisory opinion of the ICJ?,True,True
+27,mmlu_international_law,What is the purpose of universal jurisdiction?,False,False
+28,mmlu_international_law,Are all acts of State organs attributed to the State under the law international responsibility?,True,True
+29,mmlu_international_law,What is a 'treaty' according to the Vienna Convention on the Law of Treaties (VCLT)?,True,False
+30,mmlu_international_law,Is the unlawful homicide committed by Minister of country X abroad an act jure imperii or jure gestionis?,False,False
+31,mmlu_international_law,What was the outcome before the European Court of Human Rights in the Al-Adsani case?,False,False
+32,mmlu_international_law,What other criteria were imposed by the Badinter Commission on the former Yugoslav republics?,False,True
+33,mmlu_international_law,How treaties are to be interpreted?,True,True
+34,mmlu_international_law,When coastal States do enforce their criminal jurisdiction over foreign vessels in their ports?,True,False
+35,mmlu_international_law,What is the value of the Resolutions of the UN General Assembly in terms as a 'source' of international law?,True,True
+36,mmlu_international_law,"Do treaties bind third States, ie non-State parties?",False,False
+37,mmlu_international_law,Which of the following articles are not qualified rights?,False,False
+38,mmlu_international_law,What is dualism?,True,False
+39,mmlu_international_law,What is an act jure imperii?,True,False
+40,mmlu_international_law,What is the relationship between the formal sources of international law?,True,False
+41,mmlu_international_law,What was the particular advantage of UNSC Resolution 678 over a collective defensive action under Article 51 UN Charter during the Gulf War?,False,True
+42,mmlu_international_law,How can customary law be related to treaty provisions?,True,True
+43,mmlu_international_law,What does it mean for a State to be sovereign?,True,True
+44,mmlu_international_law,What is the meaning of functional recognition?,False,False
+45,mmlu_international_law,"What is the meaning of ""act of State"" doctrine?",False,False
+46,mmlu_international_law,How can the structure of the international society be displayed?,False,True
+47,mmlu_international_law,Are there any limitations to the incorporation of customary crimes under English law?,False,True
+48,mmlu_international_law,What is the function of the contiguous zone?,False,True
+49,mmlu_international_law,Which of the examples below has not been developed by the European Court of Human Rights as a situation where the state has a positive obligation to protect?,True,False
+50,mmlu_international_law,Which case was the first to define the meaning of the doctrine of 'margin of appreciation' as applied by the European Court of Human Rights?,False,False
+51,mmlu_international_law,How are the members of the arbitral tribunal appointed?,True,False
+52,mmlu_international_law,Are the peremptory norms of international law the only norms that set out obligations erga omnes?,True,True
+53,mmlu_international_law,What is the constitutive theory of recognition?,True,False
+54,mmlu_international_law,The enforcement mechanism of the International Covenant on Civil and Political Rights (and Protocol) consists of,True,True
+55,mmlu_international_law,Is piracy under international (jure gentium) law subject to universal jurisdiction?,True,True
+56,mmlu_international_law,What are self-executing treaties?,True,True
+57,mmlu_international_law,"Is the ICJ hostile to the idea that an armed attack may arise through a series of lower intensity, yet cumulative, instances of armed force?",True,True
+58,mmlu_international_law,Is there any priority among international courts and tribunals?,True,True
+59,mmlu_international_law,Do third States enjoy any fishing rights within the Exclusive Economic Zone of another State?,True,False
+60,mmlu_international_law,What is the purpose of sovereign immunity?,False,False
+61,mmlu_international_law,What is passive personality jurisdiction?,False,False
+62,mmlu_international_law,Which of the following types of rights have been described as first generation rights?,True,True
+63,mmlu_international_law,What is the problem of 'fragmentation' of international law?,False,True
+64,mmlu_international_law,What is functional (ratione materiae) immunity?,False,True
+65,mmlu_international_law,What is the meaning of implied authorisation?,True,True
+66,mmlu_international_law,Which philosopher called the idea of natural rights 'nonsense on stilts'?,True,False
+67,mmlu_international_law,Who has the authority to conclude a treaty on the part of States?,True,False
+68,mmlu_international_law,Who is a 'persistent objector'?,False,True
+69,mmlu_international_law,What is the meaning of collective security?,True,False
+70,mmlu_international_law,The European Convention on Human Rights is predominantly concerned with which of the following?,True,True
+71,mmlu_international_law,Is the jurisdiction of international tribunals regulated by the same principles applicable to national courts?,False,False
+72,mmlu_international_law,What is the meaning of collective rights?,False,False
+73,mmlu_international_law,Are States under any obligation when they conduct negotiations?,True,True
+74,mmlu_international_law,What is the major difference between naturalism and positivism?,True,False
+75,mmlu_international_law,What is an 'internationally wrongful conduct'?,True,True
+76,mmlu_international_law,What is the effects doctrine?,False,True
+77,mmlu_international_law,Which persons are considered as 'de facto' organs of the State under the law of international responsibility?,False,True
+78,mmlu_international_law,What is the fundamental prerequisite for the incorporation of custom under English law?,True,False
+79,mmlu_international_law,Was the use of armed force permitted prior to the United Nations Charter?,False,False
+80,mmlu_international_law,What is the protective principle of jurisdiction?,True,False
+81,mmlu_international_law,Which one of the following statements is correct?,True,True
+82,mmlu_international_law,What is the 'equitable result' in the law and practice of maritime delimitation?,False,False
+83,mmlu_international_law,What is a derogation?,False,True
+84,mmlu_international_law,What is an act jure gestionis?,True,True
+85,mmlu_international_law,What is the meaning of cultural relativism?,False,False
+86,mmlu_international_law,Is recognition of governments prevalent in contemporary international practice?,False,False
+87,mmlu_international_law,What is the legal nature of the Universal Declaration of Human Rights (UDHR)?,False,False
+88,mmlu_international_law,Under what circumstances do human rights violations taking place outside the territory of ECHR member States fall within the remit of the ECHR?,True,True
+89,mmlu_international_law,What does the principle 'pacta sunt servanda' mean?,True,True
+90,mmlu_international_law,What was the consequence from the absence of implementing legislation in the Tin Council case?,True,True
+91,mmlu_international_law,Which of the following statements is true?,True,True
+92,mmlu_international_law,What forms may the obligation of reparation take?,True,True
+93,mmlu_international_law,What is jus cogens?,True,True
+94,mmlu_international_law,What is 'unilateral acts'?,False,True
+95,mmlu_international_law,Is extra-territorial abduction a ground for refusal of otherwise lawful jurisdiction by English courts?,True,False
+96,mmlu_international_law,What is the meaning of 'secondary rules' in the law of international responsibility?,True,True
+97,mmlu_international_law,What does the doctrine of incorporation suggest in respect of treaties?,True,True
+98,mmlu_international_law,Are the provisional measures issued by the ICJ binding upon the parties?,False,True
+99,mmlu_international_law,When are countermeasures illegal?,True,False
+100,mmlu_international_law,What is the difference between political and legal means of dispute settlement?,True,False
+101,mmlu_international_law,What is the rationale for the exhaustion of local remedies in international human rights?,False,True
+102,mmlu_international_law,Which of the following cases best illustrates the 'living instrument principle' used by the European Court of Human Rights?,True,False
+103,mmlu_international_law,Is the recognition of foreign judgments subject to the same rules as those applicable to the incorporation and transformation of treaties?,True,True
+104,mmlu_international_law,What was the most important finding by the House of Lords in the Pinochet case?,True,True
+105,mmlu_international_law,Which one of the statements below is false?,True,False
+106,mmlu_international_law,Which State exercises jurisdiction over vessels on the high seas?,True,False
+107,mmlu_international_law,Should treaties assume a particular form?,True,False
+108,mmlu_international_law,What is the fundamental premise of monist theory?,True,True
+109,mmlu_international_law,Where do we find the 'general principles of law recognized by civilized nations' (article 38 ICJ Statute)?,True,False
+110,mmlu_international_law,When does an illegal act of violence on the high seas fall short of qualifying as piracy?,False,True
+111,mmlu_international_law,"What is the meaning of ""armed attack"" in Article 51 UN Charter?",True,True
+112,mmlu_international_law,Who is an 'injured State' in the law of international responsibility?,True,True
+113,mmlu_international_law,What is personal (ratione personae) immunity?,False,False
+114,mmlu_international_law,Which of the following statements best describes the UN Human Rights Council?,True,True
+115,mmlu_international_law,When a reservation is considered as invalid under the law of treaties?,True,True
+116,mmlu_international_law,What kind of rights do coastal States enjoy over their continental shelf?,True,True
+117,mmlu_international_law,Are there any limits to the application of article 103 of the UN Charter?,False,True
+118,mmlu_international_law,Can countries rely on their domestic law as an excuse to violate their obligations under international law?,True,True
+119,mmlu_international_law,What is meant by an international organisation's implied powers?,True,False
+120,mmlu_international_law,What are the criteria for statehood under the 1933 Montevideo Convention?,True,True

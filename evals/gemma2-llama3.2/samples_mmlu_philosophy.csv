@@ -1,0 +1,312 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_philosophy,Aesthetics deals with objects that are_____.,True,False
+1,mmlu_philosophy,"For Socrates, an unexamined life is a tragedy because it results in grievous harm to _____.",True,False
+2,mmlu_philosophy,"According to Kant, nothing can be called “good” without qualification except _____.",True,True
+3,mmlu_philosophy,Plato's view is that true beauty is _____.,False,False
+4,mmlu_philosophy,"In Aristotle’s terminology, incontinence is when:",False,True
+5,mmlu_philosophy,Nagel claims that most skeptical arguments:,False,True
+6,mmlu_philosophy,Rawls conceives of the original contract as one to:,True,True
+7,mmlu_philosophy,"According to Singer, compliance with his principle requires:",False,False
+8,mmlu_philosophy,"For Socrates, the soul is harmed by lack of _____.",True,True
+9,mmlu_philosophy,"According to Kant, morality requires us to:",True,True
+10,mmlu_philosophy,"According to Gauthier, the basis of morality is:",True,True
+11,mmlu_philosophy,Anscombe claims that it is not profitable to do moral philosophy until we have an adequate philosophy of:,False,False
+12,mmlu_philosophy,Mill claims that one of the strongest objections to utilitarianism is drawn from the idea of:,False,False
+13,mmlu_philosophy,Berkeley asserts that existing and perceiving are _____.,True,True
+14,mmlu_philosophy,"According to Rawls, the term “justice as fairness” conveys the idea that the principles of justice are agreed to in an initial position that is _____.",False,False
+15,mmlu_philosophy,Berkeley believes that sensible things cannot exist except in _____.,True,False
+16,mmlu_philosophy,Singer claims that his argument upsets the traditional distinction between:,True,False
+17,mmlu_philosophy," In his discussion of the Divided Line, Plato says that, in contrast to mere belief or opinion, knowledge is a belief for which we give reasons or justifications by appealing:",True,True
+18,mmlu_philosophy,What was Clarence Darrow's belief about life's meaning?,False,False
+19,mmlu_philosophy,Stevenson’s primary aim in this paper is to:,False,True
+20,mmlu_philosophy,"According to Moore, we are thinking about good whenever we think about:",False,True
+21,mmlu_philosophy,Baier argues that genuine moral rules:,False,False
+22,mmlu_philosophy,"Nussbaum claims that to many current ethical theorists, turning to an ethical approach based on the virtues is connected with a turn toward:",False,False
+23,mmlu_philosophy,Philosophy is concerned primarily with identifying beliefs about human existence and evaluating arguments that support those beliefs.  These activities can be summarized in two questions that drive philosophical investigations:,False,False
+24,mmlu_philosophy,Epictetus claims that things within our power are __________ and things not in our power are __________.,True,False
+25,mmlu_philosophy,Hume divides our perceptions into two categories:,True,True
+26,mmlu_philosophy,"Aristotle says  that what makes things be what they are--their essence--does not exist apart from individ-uals that exist in the world.  So if all the members of a species were destroyed, then their essence or form:",True,False
+27,mmlu_philosophy,"According to Socrates, an unexamined life is not worth living; and it certainly could not be a virtuous life.  Why not?",True,True
+28,mmlu_philosophy,"""There is no rationale for myth because it is through myth that reason itself is defined.""  This means that:",False,True
+29,mmlu_philosophy,"According to Epicurus, a law is unjust when:",False,True
+30,mmlu_philosophy,Leo Tolstoy says that art is _____.,True,True
+31,mmlu_philosophy,Aquinas holds that the last end of man is:,True,True
+32,mmlu_philosophy,"According to Kant, the supreme principle of morality is:",True,False
+33,mmlu_philosophy,Epicurus claims that all other virtues spring from:,True,False
+34,mmlu_philosophy,"According to Butler, it is impossible to:",False,False
+35,mmlu_philosophy,"The systematic use of critical reasoning to try to find answers to fundamental questions about reality, morality, and knowledge is called _____.",True,True
+36,mmlu_philosophy,"According to Mill, to determine whether one pleasure is more valuable than another, we must _____.",True,False
+37,mmlu_philosophy,"According to Hobbes, the definition of injustice is _____.",False,False
+38,mmlu_philosophy,Kant claims that the natural purpose of reason is to:,False,False
+39,mmlu_philosophy,Hare claims that the two essential features of the logic of moral judgments are:,False,True
+40,mmlu_philosophy,Mill defines “utility” as:,False,False
+41,mmlu_philosophy,"To Kant, making a lying promise would be wrong because _____.",True,True
+42,mmlu_philosophy,How does Stevenson respond to the objection that his theory does not account for the kind of goodness that is objective and is known a priori?,False,False
+43,mmlu_philosophy,Wolf claims that interpreting Kant’s ethics so that it consists of a finite set of constraints:,False,False
+44,mmlu_philosophy,The famous statement “An unexamined life is not worth living” is attributed to _____.,True,True
+45,mmlu_philosophy,Paley maintains that the key difference between the “contrivance” of a watch and that of nature is that the latter is _____.,True,False
+46,mmlu_philosophy,"Concerning the relationship between morality and theology, Bentham claims that:",True,False
+47,mmlu_philosophy,"For the soft determinist, to say that you could have done otherwise is to say that you would have done otherwise if _____.",True,True
+48,mmlu_philosophy,"According to Ross, our prima facie duties:",True,False
+49,mmlu_philosophy,"According to Rawls, behind the veil of ignorance, the principles of justice are _____.",True,True
+50,mmlu_philosophy,"In Aquinas’s view, man’s ultimate happiness consists in:",False,False
+51,mmlu_philosophy,Taurek claims that if faced with the choice between saving the life of X or the arm of Y:,False,False
+52,mmlu_philosophy,Wolf argues that the unattractiveness of the moral saint:,False,False
+53,mmlu_philosophy,"Plato's suggestion that knowledge is innate or remembered as a result of being triggered by experience is in response to a paradox he sets up for himself.  The paradox, now referred to as Meno's Paradox, has to do with the question of:",True,False
+54,mmlu_philosophy,Gauthier claims that there is nothing for practical rationality to be besides:,False,False
+55,mmlu_philosophy,"Socrates' claim that ""the unexamined life is not worth living"" is often cited as a central theme in the activities of people.  By it, Socrates is typically understood to mean that:",True,False
+56,mmlu_philosophy,Nagel claims that the problem of moral luck is closely connected to the problem of:,True,True
+57,mmlu_philosophy,"""Is there anything you would be willing to die for?"" is a philosophical question insofar as:",False,True
+58,mmlu_philosophy,Hume defines virtue as:,True,True
+59,mmlu_philosophy,Parfit claims that:,True,False
+60,mmlu_philosophy,"According to Baier’s theory, the second step in assessing whether an action is morally permissible is to find out:",False,True
+61,mmlu_philosophy,"According to Hume, morality is ultimately based on:",True,False
+62,mmlu_philosophy,"According to Kant, moral laws are:",True,True
+63,mmlu_philosophy,"Wolf claims that ultimately, normative questions must be assessed from:",False,True
+64,mmlu_philosophy,"Baier claims that for a rule to belong the morality of a group, the rule must be:",True,True
+65,mmlu_philosophy,"According to Sartre, if God does not exist, _____.",True,True
+66,mmlu_philosophy,Baggini accuses pessimists of mixing up the two senses of _____.,False,True
+67,mmlu_philosophy,Which of the following is an example of deception in business research?,True,False
+68,mmlu_philosophy,Feinberg claims that most arguments for psychological egoism:,True,True
+69,mmlu_philosophy,Descartes had been disillusioned by his discovery that many of the alleged truths learned in his youth were _____.,True,False
+70,mmlu_philosophy,Critics of the divine command theory have argued that the theory implies that God's commands are _____.,True,True
+71,mmlu_philosophy,Aquinas argues that the end of every action is:,True,True
+72,mmlu_philosophy,Epicurus holds that philosophy is:,False,True
+73,mmlu_philosophy,"According to Parfit, both Taurek and Lewis assume that for there to be a “sum of pain,” it must be:",False,False
+74,mmlu_philosophy,Mill claims that in deciding how to act:,False,False
+75,mmlu_philosophy,An important formal characteristic of art is_____.,False,False
+76,mmlu_philosophy,"According to Hobbes, in the condition of man in which there is a state of war of everyone against everyone, every man has a right to _____.",False,False
+77,mmlu_philosophy,"In the case of the debtors, the moral argument against imprisoning A relies on:",False,False
+78,mmlu_philosophy,"According to Hume, justice:",False,False
+79,mmlu_philosophy,"Why is it important that personal data about research participants are kept within secure, confidential records?",True,True
+80,mmlu_philosophy,Berkeley insists that heat and cold are _____.,False,False
+81,mmlu_philosophy,"According to Moore, the most fundamental question in all of ethics is:",False,False
+82,mmlu_philosophy,Bentham claims that actions are right or wrong in virtue of:,False,False
+83,mmlu_philosophy,"Which of the following concepts can be defined, according to Moore?",False,False
+84,mmlu_philosophy,Cicero argues that we will never go morally astray if we:,False,True
+85,mmlu_philosophy,"According to Kant, the moral worth of an action depends on:",True,False
+86,mmlu_philosophy,Epictetus recommends that we refrain from:,True,True
+87,mmlu_philosophy,Nussbaum claims that our modern debates about homosexuality:,False,False
+88,mmlu_philosophy,"To say that ""philosophy"" (like ""love"" or ""art"") is not a closed concept means that we cannot state the necessary and sufficient conditions by which it is defined.  Rather, philosophic issues are identifiable as having ""family resemblances"" with one another.  In other words:",True,True
+89,mmlu_philosophy,"According to Ross, we should construct a moral theory by:",False,True
+90,mmlu_philosophy,A prima facie duty is a characteristic of an act in virtue of which the act:,False,True
+91,mmlu_philosophy," According to Socrates, the task of the wise and virtuous person is not simply to learn various examples of just or virtuous actions but to learn the essence of justice or virtue, because:",True,True
+92,mmlu_philosophy,Baier claims that ethical skepticism is often due to:,False,True
+93,mmlu_philosophy,Aquinas claim that all human operations appear to serve:,True,True
+94,mmlu_philosophy,"According to Stevenson, moral disagreements involve:",True,False
+95,mmlu_philosophy,"According to Hobbes, whenever and wherever men live without a common power to keep them all in awe, there is _____.",True,True
+96,mmlu_philosophy,Hare claims that all moral arguments are:,False,False
+97,mmlu_philosophy,"Apart from the fact that it is ""not a nice thing to do"", what is an important ethical disadvantage of deceiving participants?",True,True
+98,mmlu_philosophy,Stevenson claims that the primary use of ethical judgments is to:,False,False
+99,mmlu_philosophy,"Butler claims that, strictly speaking, the only thing that anyone has a right to is:",False,False
+100,mmlu_philosophy,Augustine holds that we can never err:,False,False
+101,mmlu_philosophy,"According to Brandt’s theory, an ideal moral rule is one that would:",True,True
+102,mmlu_philosophy,Hare asserts that ethics and science are similar in that:,False,False
+103,mmlu_philosophy,Hume argues that the criteria for judging aesthetic value are _____.,True,False
+104,mmlu_philosophy,How many categories of ethical principles do Diener and Crandell refer to?,False,True
+105,mmlu_philosophy,In response to the claim that deliberative justification is incomplete:,False,False
+106,mmlu_philosophy,Aquinas claims that the ultimate perfection of operation is:,False,False
+107,mmlu_philosophy,Rawls argues that parties in the original position would not accept utilitarianism because:,False,False
+108,mmlu_philosophy,What does the notion of “meaning in life” refer to?,False,True
+109,mmlu_philosophy,Stevenson identifies the meaning of a term with:,False,True
+110,mmlu_philosophy,Hume thinks that each mind perceives _____.,False,True
+111,mmlu_philosophy,Descartes says that the chief characteristic of physical things is that _____.,False,True
+112,mmlu_philosophy,"In Book II of the Republic, Glaucon claims that justice originates from:",True,True
+113,mmlu_philosophy,Augustine identifies evil with:,True,False
+114,mmlu_philosophy,"According to Paley, we must conclude that a watch had an intelligent designer if the watch _____.",True,True
+115,mmlu_philosophy,"According to Bentham, a moral sanction is:",False,False
+116,mmlu_philosophy,Augustine claims that Academic skepticism:,True,False
+117,mmlu_philosophy,"If you assume that a set of statements is true, and yet you can deduce a false or absurd statement from it, then the original set of statements as a whole must be false. This kind of argument is known as _____.",True,True
+118,mmlu_philosophy,Aristotle ends the Ethics with a segue to a discussion of:,False,False
+119,mmlu_philosophy,Kant claims that the moral law is given to each person by:,False,True
+120,mmlu_philosophy,Aesthetics addresses questions that interest _____.,True,True
+121,mmlu_philosophy,The control condition claims:,False,True
+122,mmlu_philosophy,"According to Feinberg, the claim that we always feel pleasure when we get what we want:",True,False
+123,mmlu_philosophy,"Plato distinguishes knowledge from mere belief or opinion by saying that knowledge must be a true belief for which one can give a justification, a rationale, or ""logos.""  In terms of his image of the Divided Line, for Plato, knowledge is attained only when our sensible experience is:",True,True
+124,mmlu_philosophy,What are the two principal answers to whether life has any meaning for us?,False,True
+125,mmlu_philosophy,Bentham defines the fecundity of a pleasure or pain as:,False,True
+126,mmlu_philosophy,Disagreements about the aesthetic value or social relevance of a piece of art are _____.,True,True
+127,mmlu_philosophy,Aristotle states that if we ask what the highest good of human action is:,True,False
+128,mmlu_philosophy,"When faced with the complaint that utilitarianism is a doctrine worthy of swine, Mill responds that pleasures differ in:",True,True
+129,mmlu_philosophy,"According to Aquinas, an infinite regress of causes is _____.",False,True
+130,mmlu_philosophy,"Epictetus claims that if the wife and children of a virtuous man were to die, he should feel:",False,True
+131,mmlu_philosophy,"Like most rationalists, Plato defines knowledge as justified true belief.  In terms of this definition, we might be able to claim to know something as true which might actually be false, but it is impossible for us really to know something that is false.  Why?",True,False
+132,mmlu_philosophy,"By “animal motion,” Hobbes means:",False,True
+133,mmlu_philosophy,Taurek claims that:,False,False
+134,mmlu_philosophy,Which of the following ideas is not associated with the stance of situation ethics?,True,False
+135,mmlu_philosophy,"For Plato, ordinary sensible objects exist and are knowable as examples or instances of Ideas or ""Forms"" that do not exist in our ordinary sensible world.  Forms do not exist in the sensible world because:",True,True
+136,mmlu_philosophy,Descartes declares that he is _____.,True,True
+137,mmlu_philosophy,Aquinas says that the first efficient cause of everything is _____.,True,True
+138,mmlu_philosophy,Hume claims that a person who is unaffected by images of human happiness or misery will also be indifferent to:,False,False
+139,mmlu_philosophy,When using visual methods in a research project what should you take into consideration alongside the legal guidelines?,True,True
+140,mmlu_philosophy,"According to Epicurus, the wise man:",True,False
+141,mmlu_philosophy,"To illustrate the attempt to do injustice with impunity, Cicero considers the story of:",True,True
+142,mmlu_philosophy,"Epicurus states that of all the things required for a complete life, the greatest is:",True,True
+143,mmlu_philosophy,Parfit claims that the magnitude of pains:,True,True
+144,mmlu_philosophy,"Nagel claims that prior to reflection, it is plausible that people cannot be morally assessed for:",False,True
+145,mmlu_philosophy,"According to Anscombe, “moral obligation” currently signifies:",True,True
+146,mmlu_philosophy,Hume says that beauty is _____.,True,True
+147,mmlu_philosophy,"According to Plato, we can attain knowledge only by seeing beyond this world of particular, changing objects to the true essences or Forms in terms of which things in this world are intelligible.  For example, we know what triangularity is not from comparing sensible triangles but by thinking of the ideal of triangularity in terms of which these sensible figures are recognized as triangles.  From this Plato concludes that all knowledge (as opposed to opinion) is innate, because:",True,True
+148,mmlu_philosophy,"According to Stevenson, empirical methods:",True,True
+149,mmlu_philosophy,"Before his conversion, what was Tolstoy surrounded by?",True,False
+150,mmlu_philosophy,"According to Sartre, what existentialists have in common is that they think that _____.",True,True
+151,mmlu_philosophy,Feinberg takes his remarks about the two different senses of pleasure to refute:,True,True
+152,mmlu_philosophy,Rawls claims that a conception of justice should be justified by:,True,True
+153,mmlu_philosophy,Epictetus claims that the only thing one can call one’s own is:,True,True
+154,mmlu_philosophy,"In Hobbes’s view, to say something is good is to say that:",True,False
+155,mmlu_philosophy,"Moore claims that there is no meaning in saying that pleasure is good, unless:",False,True
+156,mmlu_philosophy,"Baier asserts that when we ask for moral advice, we are asking for others to:",True,True
+157,mmlu_philosophy,Moral theories that say that the rightness of actions depends solely on their consequences are _____.,True,True
+158,mmlu_philosophy,Socrates tells Crito that he should attempt to break out of prison if and only if doing so would be:,False,False
+159,mmlu_philosophy,"According to the Ideal Moral Code theory, one is obligated to do what the ideal moral rules would require:",False,False
+160,mmlu_philosophy,"According to Cicero, the most practical branch of philosophy deals with:",True,False
+161,mmlu_philosophy,"According to Socrates, the value or quality of one's life depends on understanding the principles of, or basic rationale for human existence.  Without such knowledge (he suggests) life lacks virtue, because:",True,False
+162,mmlu_philosophy,Rawls claims that students with fewer native assets (such as intelligence) should be given:,True,True
+163,mmlu_philosophy,Nussbaum claims that the specification of particular virtues:,True,False
+164,mmlu_philosophy,"According to Rawls, we can enter the original position:",False,True
+165,mmlu_philosophy,Mill argues that virtue:,True,True
+166,mmlu_philosophy,Bentham claims that utilitarian calculations:,False,True
+167,mmlu_philosophy,Nussbaum claims that for Aristotle the reference of each virtue term is fixed by:,False,False
+168,mmlu_philosophy,"According to Gauthier, deliberative justification:",False,False
+169,mmlu_philosophy,Nussbaum claims that recent anthropological work has shown that fear is:,True,False
+170,mmlu_philosophy,"Of the ways of escaping moral arguments that he discusses, Hare claims:",True,True
+171,mmlu_philosophy,Most of those who take the externalist approach to meaning view the matter from a _____ standpoint.,False,False
+172,mmlu_philosophy,"According to Hume, reason:",True,False
+173,mmlu_philosophy,"In response to the argument that famine relief is counterproductive because it leads to overpopulation, Singer claims that:",False,False
+174,mmlu_philosophy,Of the two versions of the principle that Singer considers:,True,True
+175,mmlu_philosophy,"According to the scripture that Butler discusses in Sermon One, human beings are:",True,False
+176,mmlu_philosophy,At first Descartes supposes that everything he sees is _____.,False,False
+177,mmlu_philosophy,"According to Socrates, just as there is a difference between what an ironic statement says and its true meaning, so also appearances differ from reality.  Even though societies or individuals appear to differ about what is required for the good life, that in no way contradicts the fact that:",True,False
+178,mmlu_philosophy,An example of a morally impossible rule would be:,False,False
+179,mmlu_philosophy,"According to Locke, every man, by consenting with others to make one body politic under one government, puts himself under an obligation to everyone of that society to submit to the determination of_____.",True,True
+180,mmlu_philosophy,Bentham claims that nature has placed mankind under two sovereign masters:,True,True
+181,mmlu_philosophy,The biblical account of the soul is at odds with _____.,False,True
+182,mmlu_philosophy,"According to Aristotle, happiness is:",True,True
+183,mmlu_philosophy,Mill says that the ultimate end of utilitarianism is an existence as free of pain as possible and as rich as possible in _____.,False,True
+184,mmlu_philosophy,What was Schopenhauer's attitude toward life?,True,True
+185,mmlu_philosophy,"When it comes to defining good, Moore claims that many past philosophers are guilty of:",False,False
+186,mmlu_philosophy,"According to Aristotle, we should begin ethical inquiry by specifying:",False,False
+187,mmlu_philosophy,"According to Epicurus, the wealth required for a good life is:",False,True
+188,mmlu_philosophy,Feinberg claims that the story about Abraham Lincoln:,False,True
+189,mmlu_philosophy,"According to d'Holbach, all the mental and moral attributes that people think are evidence for an immaterial soul are in fact _____.",True,False
+190,mmlu_philosophy,Hare claims that a person who refuses to make any positive moral judgments:,True,True
+191,mmlu_philosophy,Hobbes claims that all of the laws of nature can be summarized in the precept:,False,True
+192,mmlu_philosophy,"In Aristotle’s view, the virtues are:",True,True
+193,mmlu_philosophy,Mill claims that the distinction between justice and other moral obligations corresponds perfectly to the distinction between:,True,False
+194,mmlu_philosophy,Descartes declares that an evil demon _____.,False,False
+195,mmlu_philosophy,"During his trial, Socrates argues that he would never intentionally corrupt others because:",False,True
+196,mmlu_philosophy,"According to Kant, laws of nature are laws according to which __________, and laws of freedom are laws according to which __________.",False,False
+197,mmlu_philosophy,"Augustine claims that to be happy, one must know:",False,False
+198,mmlu_philosophy,"According to Wolf, a moral saint:",False,False
+199,mmlu_philosophy,"According to Socrates, justice is when a soul is ruled by its:",True,True
+200,mmlu_philosophy,Singer claims that his conclusions are similar to those of:,False,False
+201,mmlu_philosophy,"In Cicero’s view, each person is invested by Nature with two characters:",True,False
+202,mmlu_philosophy,Aristotle saw his theory of the virtues as:,True,True
+203,mmlu_philosophy,"Nussbaum claims that in cross-cultural communication, inhabitants of different conceptual schemes tend to view their interaction:",False,False
+204,mmlu_philosophy,Cicero claims that there could be “no more pernicious doctrine” than the idea that:,False,False
+205,mmlu_philosophy,An important moral criterion of adequacy is known as _____.,True,True
+206,mmlu_philosophy,Gauthier claims that moral agreements that are equally favorable to all parties are desirable because they:,True,False
+207,mmlu_philosophy,Baier argues that moral rules:,True,True
+208,mmlu_philosophy,Anscombe claims that an adequate moral psychology would include:,False,False
+209,mmlu_philosophy,"According to Parfit, the obligation to give priority to the welfare of one’s children is:",True,False
+210,mmlu_philosophy,Epictetus recommends that we act:,True,False
+211,mmlu_philosophy,"Descartes says that, for all he knows, he may be _____.",True,True
+212,mmlu_philosophy,"When Euthyphro attempts to define the holy as prosecuting wrongdoers, Socrates objects that:",False,False
+213,mmlu_philosophy,Wolf claims that morality:,False,False
+214,mmlu_philosophy,"According to Bentham, considerations of pain and pleasure determine:",True,False
+215,mmlu_philosophy,Augustine claims that all created things are:,False,False
+216,mmlu_philosophy,"In Augustine’s view, lying is:",True,False
+217,mmlu_philosophy,"Whereas the social sciences (e.g., psychology, sociology, economics) ask questions about how people think and act, philosophy is the study of:",True,True
+218,mmlu_philosophy," Plato indicates that the knowledge of pure reason is preferable to conceptual understanding, because knowing that something is a certain kind of thing is not as good as knowing:",True,True
+219,mmlu_philosophy,"According to Socrates, a clear sign that a person has _____ is her exclusive pursuit of social status, wealth, power, and pleasure.",False,False
+220,mmlu_philosophy,Philo says the analogy that Cleanthes uses to make his case is _____.,False,False
+221,mmlu_philosophy,How did Tolstoy's life change after his crisis of meaning?,False,False
+222,mmlu_philosophy,Which of the following is not one of Ross’s prima facie duties?,True,True
+223,mmlu_philosophy,Cicero claims that it is sometimes permissible to:,False,False
+224,mmlu_philosophy,"According to Hobbes, without a common power to keep them in awe humans would exist in a state of:",True,True
+225,mmlu_philosophy,Traditionally art has been defined as _____.,True,True
+226,mmlu_philosophy,One objection to Singer’s theory that he considers is that it:,False,True
+227,mmlu_philosophy,Anselm assumes that a being that exists in reality is greater than a being that _____.,True,True
+228,mmlu_philosophy,"According to Baier, a rule can be said to be for the good of human beings only if:",True,True
+229,mmlu_philosophy,A prominent view is that an object has aesthetic value if it _____.,False,True
+230,mmlu_philosophy,Hobbes describes felicity as:,True,True
+231,mmlu_philosophy,"According to Sartre, there is at least one being in whom existence precedes essence, and this being is _____.",True,True
+232,mmlu_philosophy,"In Butler’s view, acting virtuously consists of acting in accordance with:",True,True
+233,mmlu_philosophy,Anscombe criticizes Sidgwick on the grounds that:,False,False
+234,mmlu_philosophy,"Why is it ""easier said than done"" to ensure that the principle of informed consent is adhered to?",True,True
+235,mmlu_philosophy,"In Hobbes’s view, a law of nature is:",True,True
+236,mmlu_philosophy,A Loving Saint is someone:,True,True
+237,mmlu_philosophy,Moore defines good as:,False,False
+238,mmlu_philosophy,"Feinberg claims that when people are hungry, they typically desire:",False,False
+239,mmlu_philosophy,"According to Hobbes, the right of nature is:",False,False
+240,mmlu_philosophy,"According to Socrates, it is important that we discover what makes a particular action (e.g., a merciful or just act) the kind of action that it is, because without such knowledge:",False,False
+241,mmlu_philosophy,Feinberg claims that the best way to pursue happiness is to:,False,False
+242,mmlu_philosophy,Hobbes defines injustice as:,False,False
+243,mmlu_philosophy,"In Butler’s view, injustice is caused by:",True,False
+244,mmlu_philosophy,"According to Rawls, the two parts of his theory:",False,True
+245,mmlu_philosophy,Aristotle divides the virtues into:,False,False
+246,mmlu_philosophy,The idea that mental states are dispositions to behave in particular ways in certain circumstances is known as _____.,True,False
+247,mmlu_philosophy,The view that art is defined by its form is known as _____.,True,True
+248,mmlu_philosophy,"If the world that we individually perceive is limited to an internal perspective, then there is no way that we could determine whether our own perspective is useful, true, or valuable because:",False,False
+249,mmlu_philosophy,"Anscombe claims that on Sidgwick’s view, the badness of an action must be estimated in light of:",False,True
+250,mmlu_philosophy,Which method is most commonly associated with a lack of informed consent?,True,False
+251,mmlu_philosophy,"Epictetus claims that when someone strikes you, what really angers you is:",False,True
+252,mmlu_philosophy,"Craig argues that the series of events in time cannot be actually infinite, so we know that _____.",True,False
+253,mmlu_philosophy,Aquinas claims that:,False,False
+254,mmlu_philosophy,Anscombe claims that the notion of moral obligation is derived from the concept of:,True,False
+255,mmlu_philosophy,"In Brandt’s terminology, a moral code has currency in a society only if:",True,False
+256,mmlu_philosophy,The morality that Gauthier describes as facing a foundational crisis essentially involves:,False,True
+257,mmlu_philosophy,"In spite of the fact that Socrates claims to be ignorant of the essence or nature of certain things like justice, he is wise insofar as he recognizes that without such knowledge actions are rationally unjustified.  That is, his wisdom consists in his recognition not only that he is ignorant of such essences but also that:",False,True
+258,mmlu_philosophy,Hare refers to people who endorse ideals without regard for whether people’s interests are pursued by them as:,True,False
+259,mmlu_philosophy,"In Aquinas’s view, acts of prudence are solely about matters of:",False,True
+260,mmlu_philosophy,"According to Locke, a man in the state of nature will relinquish his absolute freedom to the state because _____.",True,True
+261,mmlu_philosophy,Augustine claims that there can be no evil where there is no:,False,False
+262,mmlu_philosophy,"According to Ross, justice is:",True,True
+263,mmlu_philosophy,Logical behaviorism is at odds with our commonsense intuition that mental states _____.,True,False
+264,mmlu_philosophy,Ross claims that we learn of our prima facie duties:,True,False
+265,mmlu_philosophy,Anscombe criticizes as absurd Kant’s idea of:,False,False
+266,mmlu_philosophy,"In the Inquiry, Hume claims that our final verdicts on moral matters are derived from:",False,True
+267,mmlu_philosophy,"According to Nagel, the problem of moral luck arises because:",False,True
+268,mmlu_philosophy,A moral theory explains _____.,True,True
+269,mmlu_philosophy,Anscombe criticizes Butler on the grounds that:,True,False
+270,mmlu_philosophy,Mill claims that a happy life is one of:,True,True
+271,mmlu_philosophy,"According to Moore, “pleasure is good” means the same thing as:",True,False
+272,mmlu_philosophy,"To argue that he is obliged to obey the laws of Athens, Socrates compares the city to:",True,False
+273,mmlu_philosophy,Soft determinism entails that _____.,True,False
+274,mmlu_philosophy,"In the moral life, feelings are _____.",True,True
+275,mmlu_philosophy,"According to Cicero, it is expedient to be:",True,True
+276,mmlu_philosophy,Brandt claims that whether a moral code is ideal depends in part on:,True,True
+277,mmlu_philosophy,The view that we consist of two distinct substances (body and mind) and that these two interact is known as _____.,True,True
+278,mmlu_philosophy,"According to Stevenson, the word “good” has a pleasing emotive meaning that fits it for:",True,False
+279,mmlu_philosophy,"According to Locke, the chief end of men's uniting into a commonwealth is _____.",True,False
+280,mmlu_philosophy,Hare claims that once two people agree on the meaning of the term “ought”:,False,False
+281,mmlu_philosophy,"To explain the notion of a prima facie duty, Ross draws an analogy with:",False,False
+282,mmlu_philosophy,"In the Republic, Thrasymachus claims that justice is:",True,True
+283,mmlu_philosophy,Epictetus claims that the desire for one’s loved ones to live forever is:,False,False
+284,mmlu_philosophy,"According to Sartre, the first principle of existentialism is that _____.",True,True
+285,mmlu_philosophy,Aristotle claims that:,True,False
+286,mmlu_philosophy,Hume describes reason as:,True,False
+287,mmlu_philosophy,"According to Brandt, John Stuart Mill’s view most closely resembles:",False,False
+288,mmlu_philosophy,The version of utilitarianism that Brandt defends makes rightness a function of:,False,False
+289,mmlu_philosophy,"""When a person starts on the discovery of the absolute by the light of reason only, and without any assistance of sense, and perseveres until by pure intelligence he arrives at the perception of the absolute good, he at last finds himself at the end of the intellectual world. . . . Dialectic, and dialectic alone, goes directly to the first principle and is the only science which does away with hypotheses in order to make her ground secure.""  Here Plato indicates how hypothetical knowledge cannot provide the foundation of dialectical knowledge, insofar as hypotheses simply:",True,False
+290,mmlu_philosophy,What are some of the frequent frustrations in writing or reading about research ethics?,True,True
+291,mmlu_philosophy,"According to Cicero, immorality is __________, and expediency is __________.",False,False
+292,mmlu_philosophy,Epicurus conceives of death as:,True,False
+293,mmlu_philosophy,"Nussbaum claims that at the first stage of ethical inquiry, terms for the virtues should be:",False,True
+294,mmlu_philosophy,"The four main divisions of philosophy are metaphysics, epistemology, axiology, and _____.",False,False
+295,mmlu_philosophy,Da Vinci's Mona Lisa is_____.,True,True
+296,mmlu_philosophy,"According to Butler, the degree to which one acts compassionately depends on:",True,False
+297,mmlu_philosophy,One example of bad constitutive moral luck would be:,False,False
+298,mmlu_philosophy,Moore defines the naturalistic fallacy as the view that:,False,False
+299,mmlu_philosophy,Mill claims that the principle of utility:,False,False
+300,mmlu_philosophy,The theory that says mental states are nothing but brain states is known as _____.,True,False
+301,mmlu_philosophy,"Butler claims that in the strictest and most proper sense, tofollow nature is to:",False,False
+302,mmlu_philosophy,"According to Craig, the kalam cosmological argument establishes that _____.",False,True
+303,mmlu_philosophy,Singer claims that famine relief organizations direct our aid to distant refugees:,False,False
+304,mmlu_philosophy,"Kant says that when trying to decide whether an action is morally permissible, we must ask if we can consistently will that the maxim of our action should become _____.",True,True
+305,mmlu_philosophy,Aesthetic values have to do with _______,True,True
+306,mmlu_philosophy,"According to Feinberg, a good moral education:",True,False
+307,mmlu_philosophy," For Socrates, the belief that ""virtue is knowledge"" is related to his claim that ""the unexamined life is not worth living,"" because he believes that:",False,False
+308,mmlu_philosophy,Craig says an actually infinite number of things _____.,False,True
+309,mmlu_philosophy,Descartes believed that interaction between body and mind took place in _____.,True,False
+310,mmlu_philosophy,Which of the following is a form of harm that might be suffered by research participants?,True,True

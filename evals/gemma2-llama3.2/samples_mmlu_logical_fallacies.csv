@@ -1,0 +1,168 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_logical_fallacies,A valid disjunctive syllogism has a major premise that:,True,False
+1,mmlu_logical_fallacies,Which of the following best describes the fallacy of style over substance?,True,False
+2,mmlu_logical_fallacies,"Which of the following fallacies is a way of suppressing evidence that eliminates a source of evidence from consideration by claiming the source is flawed, when there is no true relationship between the alleged flaw and the reliability of the source?",True,True
+3,mmlu_logical_fallacies,The false analogy fallacy is,True,True
+4,mmlu_logical_fallacies,The _ad nauseam_ fallacy is,True,False
+5,mmlu_logical_fallacies,Arguing that what is true of an entire object is also true of each part of that object is the fallacy of,True,False
+6,mmlu_logical_fallacies,Which of the following describes the horse laugh fallacy?,True,False
+7,mmlu_logical_fallacies,Arguing that a lack of evidence proves something is the fallacy of...,True,True
+8,mmlu_logical_fallacies,The argument against the person consists of,True,False
+9,mmlu_logical_fallacies,Which of the following fallacies happens when someone concludes that someone must be honest because the people he hangs around with are honest?,True,True
+10,mmlu_logical_fallacies,Asking a question that includes an unproven assumption may lead to which of the following fallacies?,False,False
+11,mmlu_logical_fallacies,"Polonius in William Shakespeare's Hamlet: ""Your noble son is mad: Mad call I it, for to define true madness, What is't but to be nothing else but mad?""",False,False
+12,mmlu_logical_fallacies,Notice from the Hyatt Regency Hotel in New Orleans: We are pleased to confirm your reservation. It will be held on a space-available basis.,False,False
+13,mmlu_logical_fallacies,The natural law fallacy is,True,False
+14,mmlu_logical_fallacies,"If someone uses an emotionally charged restatement of a claim in place of support for the claim, that person may have committed which of the following fallacies?",False,True
+15,mmlu_logical_fallacies,Arguing that a claim must be true merely because a substantial number of people believe it is called the fallacy of...,True,False
+16,mmlu_logical_fallacies,_Ad populum_. is another name for which fallacy?,True,True
+17,mmlu_logical_fallacies,In a valid disjunctive syllogism the minor premise must,True,False
+18,mmlu_logical_fallacies,Which of the following describes the fallacy of appeal to spite?,False,False
+19,mmlu_logical_fallacies,_Ad hominem_ is another name for the fallacy of,True,True
+20,mmlu_logical_fallacies,The fallacy of appeal to the person is rejecting a claim by...,True,True
+21,mmlu_logical_fallacies,Another name for hasty conclusion is,False,True
+22,mmlu_logical_fallacies,"John S. Knight, Detroit Free Press (3 July 1970): ...Capitalism is the economic system in which the means of production and distribution are privately owned and operated for profit. The alternative system is called socialism, the theory of the ownership and operation of the means of production by society, with all members sharing in the work and the products.",True,False
+23,mmlu_logical_fallacies,The fallacy of composition is,True,False
+24,mmlu_logical_fallacies,""" _Ad crumenam_ "" is a specific kind of",True,False
+25,mmlu_logical_fallacies,Which of the following fallacies happens when someone draws a conclusion that is simply a restatement of one of the premises?,True,False
+26,mmlu_logical_fallacies,"I don't know what the answer is to number 8. But Heather hasn't made the third option into the correct answer for a while, and even then only once, so I'm guessing that this is the fallacy of Composition!",False,False
+27,mmlu_logical_fallacies,"When someone argues that making a change will have no significant effect, but there is no evidence that the effect will not be significant, that person has committed which of the following fallacies?",True,False
+28,mmlu_logical_fallacies,Which of the following best describes the fallacy of question begging epithets?,True,True
+29,mmlu_logical_fallacies,Which of the following describes he fallacy of appeal to pride?,True,True
+30,mmlu_logical_fallacies,A syllogism that is formally invalid,True,False
+31,mmlu_logical_fallacies,Another name for the fallacy of false dilemma is,True,True
+32,mmlu_logical_fallacies,"When someone responds to your argument with a sarcastic statement such as, ""Yeah, right. Like that's ever going to happen,"" that person may have committed which fallacy?",False,False
+33,mmlu_logical_fallacies,The _post hoc_ fallacy is,True,False
+34,mmlu_logical_fallacies,The fallacy of reprehensible personality is a specific type of,True,False
+35,mmlu_logical_fallacies,_A priori_ is a fallacy that involves,False,True
+36,mmlu_logical_fallacies,"If you say an opposing arguer has taken a position that you can easily defeat, when he or she has not taken that position, then you go on to defeat that position and claim to have done significant damage to that arguer's overall argument, you are probably guilty of which of the following fallacies?",True,True
+37,mmlu_logical_fallacies,"""The minor premise must affirm the antecedent or deny the consequent"" is a way to determine the validity of which type of argument?",False,False
+38,mmlu_logical_fallacies,Arguing that someone couldn't have done something good because he is incapable of doing good commits the fallacy of,False,False
+39,mmlu_logical_fallacies,The complex proposition fallacy involves,True,True
+40,mmlu_logical_fallacies,Anecdotal evidence is a specific kind of,True,True
+41,mmlu_logical_fallacies,Fallacies can be psychologically persuasive even though they are...,False,True
+42,mmlu_logical_fallacies,Referring to an act committed by an opponent in negative terms while referring to the same act committed by the arguer or supporters in favorable terms describes which of the following fallacies?,True,True
+43,mmlu_logical_fallacies,Which of the following explanations best fits the fallacy of ignorance of refutation?,False,True
+44,mmlu_logical_fallacies,Another name for the fallacy of reducing to an absurdity is,True,True
+45,mmlu_logical_fallacies,Another name for the fallacy of complex question is,True,False
+46,mmlu_logical_fallacies,The appeal to joy fallacy involves,True,True
+47,mmlu_logical_fallacies,Another name for the fallacy of accident is,False,False
+48,mmlu_logical_fallacies,Which of the following describes the fallacy of evading the issue?,True,True
+49,mmlu_logical_fallacies,Including more than one claim in a proposition may lead to which of the following fallacies?,True,False
+50,mmlu_logical_fallacies,Which of the following fallacies happens when someone concludes that someone couldn't have done something bad because he or she has good qualities?,True,False
+51,mmlu_logical_fallacies,Which of the following describes the fallacy of appeal to popularity?,True,True
+52,mmlu_logical_fallacies,Which fallacy happens because of a failure to recognize the alternatives presented are not mutually exclusive?,True,True
+53,mmlu_logical_fallacies,"In a conditional syllogism, when the minor premise denies the antecedent",True,False
+54,mmlu_logical_fallacies,"The Dean was showing a visitor around the campus. The visitor asked, ""About how many students do you have here?"" After a moment of reflection the Dean replied, ""Oh, I'd guess about one in a hundred.""",False,False
+55,mmlu_logical_fallacies,The appeal to anonymous authority fallacy consists of,True,True
+56,mmlu_logical_fallacies,A hasty generalization is a fallacy of...,True,True
+57,mmlu_logical_fallacies,Which of the following best describes the fallacy of figure of speech?,False,False
+58,mmlu_logical_fallacies,The fallacy of extension consists of,True,False
+59,mmlu_logical_fallacies,Arguing that a claim must be true because there is no evidence that it is false is which of the following fallacies?,True,True
+60,mmlu_logical_fallacies,Which of the following describes the fallacy of appeal to common practice?,True,False
+61,mmlu_logical_fallacies,Which of the following is another name for evading the issue?,True,False
+62,mmlu_logical_fallacies,"I don't understand why everyone thinks they belong in college. After all, everyone knows that when you are intelligent you'll succeed. But so many people that elect to attend college don't have even the most basic intelligence. How do they expect to get anywhere here?",True,False
+63,mmlu_logical_fallacies,When someone treats an imaginary concept as if it was something tangible that person might commit the fallacy of,True,False
+64,mmlu_logical_fallacies,Another name for hasty generalization is,True,False
+65,mmlu_logical_fallacies,An arguer who threatens another to gain agreement commits the fallacy of,True,False
+66,mmlu_logical_fallacies,"Which type of syllogism's major premise takes the form, ""All A's are B""?",True,True
+67,mmlu_logical_fallacies,"Which of the following fallacies happens when someone argues that a choice must be made among a certain set of alternatives, when there are really other alternatives to choose from?",True,True
+68,mmlu_logical_fallacies,"If you think that someone's argument is strong based on their compelling use of language and confident delivery, you've probably committed which fallacy?",True,True
+69,mmlu_logical_fallacies,Which of the following describes the fallacy of appeal to indignation?,True,False
+70,mmlu_logical_fallacies,Evading burden of proof is another name for the fallacy of,False,False
+71,mmlu_logical_fallacies,"In a hypothetical syllogism, when the minor premise affirms the antecedent",False,False
+72,mmlu_logical_fallacies,"Moses Maimonides, ""The Guide of the Perplexed"": God, may He be exalted ... existed alone, and nothing else. ...Afterwards, through His will and His volition, He brought into existence out of nothing all the beings as they are, time itself being one of the created things. For time is consequent upon motion, and motion is an accident of what is moved. Furthermore, what is moved...is itself created in time ....",False,False
+73,mmlu_logical_fallacies,"John Stuart Mill: Each person's happiness is a good to that person, and the general happiness, therefore, a good to the aggregate of all persons.",True,True
+74,mmlu_logical_fallacies,_Circulus in probando_ is another name for,True,False
+75,mmlu_logical_fallacies,Arguing that an idea should be accepted or rejected only because of the source of the idea commits which of the following fallacies?,True,True
+76,mmlu_logical_fallacies,"At the end of the course, Professor Jones told us that we were the best class he had ever had. That's why I'm sure that the 0.0 the appeared on my grade report is a mistake. Surely, if we were as good a class as Professor Jones said we were, none of us deserved to fail.",False,False
+77,mmlu_logical_fallacies,Which of the following best describes the fallacy of equivocation?,True,False
+78,mmlu_logical_fallacies,The fallacy of appeal to emotions consists of,True,True
+79,mmlu_logical_fallacies,"""To be valid, the minor premise must either agree with the antecedent, or disagree with the consequent"" is a requirement for",True,False
+80,mmlu_logical_fallacies,Which of the following fallacies happens when someone concludes that someone couldn't have done something good because he or she has negative qualities?,False,True
+81,mmlu_logical_fallacies,Another name for the bandwagon appeal is,True,False
+82,mmlu_logical_fallacies,A valid disjunctive syllogism has which of the following characteristics?,False,False
+83,mmlu_logical_fallacies,Appeal to beliefs is another name for which of the following fallacies?,False,False
+84,mmlu_logical_fallacies,When a claim is supported only by asserting that unidentified experts accept the claim the arguer has committed which of the following fallacies?,True,True
+85,mmlu_logical_fallacies,The black-or-white fallacy is another name for,True,True
+86,mmlu_logical_fallacies,The false sign fallacy is,False,True
+87,mmlu_logical_fallacies,""" _Ad novitatem_ "" is",False,False
+88,mmlu_logical_fallacies,"When someone tries to support a proposition with information that really has nothing to do with the claim being made, that person has probably committed which of the following fallacies?",True,True
+89,mmlu_logical_fallacies,Applying irrelevant standards to the subject of the argument is the fallacy of,False,True
+90,mmlu_logical_fallacies,"If you argued something is flawed because it fails to do something, when it was never intended to do that, you may have committed which of the following fallacies?",True,False
+91,mmlu_logical_fallacies,""" _Ad antiquitatem_ "" is",True,False
+92,mmlu_logical_fallacies,""" _Ad crumenam_ "" is",False,False
+93,mmlu_logical_fallacies,The fallacy of laudatory personality is a specific type of,True,False
+94,mmlu_logical_fallacies,Appeal to ignorance is a fallacy that involves,True,False
+95,mmlu_logical_fallacies,Which of the following statements is **not** true?,True,False
+96,mmlu_logical_fallacies,"""The minor premise must affirm the antecedent or deny the consequent"" is a validity requirement of which type of argument?",True,False
+97,mmlu_logical_fallacies,Which of the following describes the fallacy of appeal to loyalty?,True,False
+98,mmlu_logical_fallacies,Arguing in favor of a claim based only on the evidence that some regular people believe the claim is one way to commit which of the following fallacies?,True,True
+99,mmlu_logical_fallacies,The appeal to fear involves,True,True
+100,mmlu_logical_fallacies,"It's silly to pass laws against discrimination, since it is obvious that we can't live without it. We discriminate between pleasant and unpleasant tastes in selecting our food, between pleasant and unpleasant sounds in selecting our music, between harmonious and unharmonious colors in decorating our homes, between interesting and uninteresting people in choosing our friends, and so on. We can't live without discriminating.",False,False
+101,mmlu_logical_fallacies,The fallacy of guilt by association is a specific type of,True,False
+102,mmlu_logical_fallacies,Appeal to compassion is,False,False
+103,mmlu_logical_fallacies,"When someone uses highly emotionally charged terms during an argument, without giving any reasons why those terms fit the subject, that person may have committed which of the following fallacies?",True,False
+104,mmlu_logical_fallacies,Arguing that someone couldn't have done something good because she holds a particular position commits the fallacy of,False,False
+105,mmlu_logical_fallacies,""" _Ad antiquitatem_ "" is a specific kind of",True,False
+106,mmlu_logical_fallacies,The hasty conclusion fallacy is,False,False
+107,mmlu_logical_fallacies,""" _Ad lazarum_ "" is",True,False
+108,mmlu_logical_fallacies,"All things that are spoiled are inedible. Timothy is spoiled. So, Timothy is inedible.",False,True
+109,mmlu_logical_fallacies,"Which of the statements below is correct about the following argument?
+
+""If the sky is blue there won't be rain. The sky is blue today. Therefore, there won't be rain.""",False,False
+110,mmlu_logical_fallacies,Which of the following best describes the snob appeal fallacy?,True,True
+111,mmlu_logical_fallacies,"""Each term must be used twice, no more and no less,"" is a test of validity for which type of syllogism?",True,False
+112,mmlu_logical_fallacies,"The universe, like a watch, must have a maker.",False,True
+113,mmlu_logical_fallacies,The natural law fallacy is a specific type of,False,False
+114,mmlu_logical_fallacies,"Given the following major premise, which of the following minor premises could lead to a valid conclusion?
+
+""Either I'm going to do well on this test or I'm going to be mad.""",False,False
+115,mmlu_logical_fallacies,Men are better drivers than women are. The proof of this is that men are more capable than women of managing cars on the road.,True,True
+116,mmlu_logical_fallacies,"In a faulty analogy, the things being compared are...",True,False
+117,mmlu_logical_fallacies,Which of the following describes the _tu quoque_ fallacy?,True,False
+118,mmlu_logical_fallacies,Responding to charges of wrongdoing by saying the accuser or others do the same thing describes which of the following fallacies?,True,True
+119,mmlu_logical_fallacies,"The fallacy that involves reasoning that determines the conclusion one wants first, then accepts only evidence supporting that conclusion, or interprets all evidence as support for that conclusion is known as",True,False
+120,mmlu_logical_fallacies,The genetic fallacy consists of,False,False
+121,mmlu_logical_fallacies,Another name for the fallacy of begging the question is,False,True
+122,mmlu_logical_fallacies,The fallacy of _ignoratio elenchi_ is also known as,True,True
+123,mmlu_logical_fallacies,"William Safire in American Heritage Magazine (December 1987): ...The greatness of Lincoln was his purposefulness. He saw something that few others saw: that the democratic experiment centered on the Union and that majority rule was everything. The minute you allowed secession, you made democracy an absurdity---because what would happen would be continued subdivision.",True,True
+124,mmlu_logical_fallacies,"So, how long have you been beating your wife?",False,False
+125,mmlu_logical_fallacies,"""Misuse of statistics,"" ""questionable statistics,"" and ""questionable use of statistics"" are all other names for the fallacy of",False,False
+126,mmlu_logical_fallacies,"E.F. Schumacher, famous economist, in an article in the Atlantic (April 1979): Fifteen months [after I had advised that rural India should have a technology intermediate between the hoe and the tractor,] an all-India conference on intermediate technology was arranged. (They still didn't like the term [intermediate], so they called it appropriate technology. That's all right: when I come to India and somebody says, ""Oh, Mr. Schumacher, I don't believe in appropriate technology"", I just look him straight in the face and say, ""Oh, that's splendid. Do you believe in inappropriate technology?"")",False,False
+127,mmlu_logical_fallacies,"We must assume that he is a Communist, because he says that he is not, and we know that Communists are taught always to deny party membership.",False,False
+128,mmlu_logical_fallacies,"If someone argues that something should be done in a certain way because that's the way it's always been done, that person has committed which of the following fallacies?",True,True
+129,mmlu_logical_fallacies,False analogy is another name for which fallacy?,True,True
+130,mmlu_logical_fallacies,"Which of the following fallacies happen if someone argues that you are a reasonable and intelligent person, so of course you understand his claim is true?",False,True
+131,mmlu_logical_fallacies,"Which fallacy happens when someone argues in favor of a two part proposition, only supports one part of the proposition, then asserts that the entire proposition has been supported.",False,False
+132,mmlu_logical_fallacies,Which of the following is a test of the validity of a conditional syllogism?,True,True
+133,mmlu_logical_fallacies,Which of the following fallacies happens when someone attributes the cause of an event to a simple cause when the cause is actually more complicated?,False,False
+134,mmlu_logical_fallacies,Which of the following is another name for the fallacy of amphiboly?,True,True
+135,mmlu_logical_fallacies,"Tan ah Tiat, forty-nine years old, a native of Kuala Lumpar, Malaysia, was charged with possession of opium. Arguing for acquittal, he told the judge that his opium habit did no harm, as he was too old to work anyway. Asked how he lived, he replied that he lived on the earnings of his grandmother.",False,False
+136,mmlu_logical_fallacies,Which of the following best describes the fallacy of self-evident truths?,True,True
+137,mmlu_logical_fallacies,""" _Ad lazarum_ "" is a specific kind of",False,False
+138,mmlu_logical_fallacies,"We're perfectly entitled to believe there is a God. After all, every effort by atheists to prove otherwise has failed.",True,False
+139,mmlu_logical_fallacies,"When someone makes an argument, and the only evidence he or she uses to support the claim is the testimony that an authority figure believes the claim, the arguer has committed which fallacy?",True,True
+140,mmlu_logical_fallacies,When someone changes the meaning of a word or phrase from one part of the argument to another that person may have committed which of the following fallacies?,True,True
+141,mmlu_logical_fallacies,Another name for the fallacy of accident is,False,False
+142,mmlu_logical_fallacies,"""Each term must be used twice, no more and no less"" is a requirement for",True,True
+143,mmlu_logical_fallacies,The false cause fallacy is,True,True
+144,mmlu_logical_fallacies,Arguing that someone should do something because other people are doing it is a description of which of the following fallacies?,True,True
+145,mmlu_logical_fallacies,Which of the following describes the fallacy of false consolation?,True,True
+146,mmlu_logical_fallacies,Which of the following fallacies happens when someone concludes that a legitimate generalization necessarily applies to a particular case?,True,False
+147,mmlu_logical_fallacies,Which of the following best describes the fallacy of poisoning the well?,True,True
+148,mmlu_logical_fallacies,Which of the following describes the straw person fallacy?,True,True
+149,mmlu_logical_fallacies,Which of the following is another name for appeal to the people?,True,True
+150,mmlu_logical_fallacies,Which of the following describes the fallacy of appeal to tradition?,True,True
+151,mmlu_logical_fallacies,Which of the following is the best explanation of the fallacy of loaded language?,True,True
+152,mmlu_logical_fallacies,Automatically rejecting a claim just because it's traditional is...,True,False
+153,mmlu_logical_fallacies,A slippery-slope pattern of argument is fallacious when...,True,True
+154,mmlu_logical_fallacies,Which of the following best describes the fallacy of special pleading?,True,True
+155,mmlu_logical_fallacies,Whether someone is hypocritical regarding her claims is...,False,True
+156,mmlu_logical_fallacies,"If someone says if you do something it will lead to extreme consequences, but doesn't provide you with any evidence of a cause and effect relationship between your act and those consequences, that person has probably committed which of the following fallacies?",True,True
+157,mmlu_logical_fallacies,The concomitant variation fallacy is,False,False
+158,mmlu_logical_fallacies,""" _Ad novitatem_ "" is a specific kind of fallacy of",False,False
+159,mmlu_logical_fallacies,Rejecting a claim by criticizing the person who makes it rather than the claim itself is known as the fallacy of...,True,False
+160,mmlu_logical_fallacies,Which of the following best describes the fallacy of amphiboly?,True,False
+161,mmlu_logical_fallacies,"When someone uses grammar or punctuation in a way that makes a statement have more than one possible interpretation, that person may have committed which of the following fallacies?",True,False
+162,mmlu_logical_fallacies,Telling people that they haven't been harmed because there is something they should be thankful for commits which of the following fallacies?,True,True

@@ -1,0 +1,148 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_college_biology,"Based on the characteristic population curves that result from plotting population growth of a species, the most effective means of controlling the mosquito population is to",False,True
+1,mmlu_college_biology,A frameshift mutation is created when,True,False
+2,mmlu_college_biology,"To prevent desiccation and injury, the embryos of terrestrial vertebrates are encased within a fluid secreted by the",True,False
+3,mmlu_college_biology,Which of the following is a second messenger that stimulates release of calcium ions into the cytoplasm?,True,True
+4,mmlu_college_biology,Synthesis of an RNA/DNA hybrid from a single-stranded RNA template requires,True,True
+5,mmlu_college_biology,"In order for the Hardy-Weinberg law to operate with respect to a population of organisms, each of the following conditions must be met EXCEPT:",True,True
+6,mmlu_college_biology,The Barr body found within female mammalian cells' nuclei is an example of,True,True
+7,mmlu_college_biology,Which of the following is NOT a source of atmospheric carbon?,True,False
+8,mmlu_college_biology,The concept of punctuated equilibrium refers to,True,True
+9,mmlu_college_biology,"When an influenza virus enters a cell, it immediately starts to do which of the following?",True,True
+10,mmlu_college_biology,Cleavage symmetry arising from early cell divisions that occur at an oblique angle to the polar axis is known as,True,True
+11,mmlu_college_biology,Targeting of a newly synthesized protein is most likely to require two different signal peptides for which of the following destinations?,False,False
+12,mmlu_college_biology,"In Sweden, the red fox (Vulpes vulpes) severely limits populations of its prey, including hares. However, red fox populations are sometimes attacked by a fatal parasite, the mange mite. As mite population sizes increase at a given site, how are hare and fox populations most likely to respond at the same site? (Assume that hares have no major predators at this site other than foxes.)",True,False
+13,mmlu_college_biology,"A cell nucleus contains which of the following?
+I. DNA
+II. Protein
+III. RNA",False,True
+14,mmlu_college_biology,"In one taxonomic classification, Archaea, Eukarya, and Bacteria represent the three major domains of life. Eukarya utilize the general transcription factors TBP (TATA-binding protein) and TFIIB in transcription, whereas Bacteria do not. At least one member of Archaea has a protein similar to TBP and a protein similar to TFIIB. Based on this observation, which of the following scenarios is most likely?",True,False
+15,mmlu_college_biology,A rise in intracellular free calcium in the sea urchin oocyte causes the release of proteolytic enzymes which act to prevent polyspermy. The events just described entail the,True,False
+16,mmlu_college_biology,Which of the following is a benefit that mycorrhizal fungi confer to many plants?,True,True
+17,mmlu_college_biology,"Experiments on song development in birds have shown that when a young male reared in isolation hears only the song of a different bird species, he will develop an adult song repertoire that lacks certain characteristics typical of his own species. This result shows that the song of his species is most likely",False,True
+18,mmlu_college_biology,Which of the following most accurately describes a retrotransposon?,True,True
+19,mmlu_college_biology,The soils of which of the following biomes has the highest rate of leaching and cycling of nutrients?,True,True
+20,mmlu_college_biology,Which of the following best explains why enzymes are effective in facilitating chemical reactions?,True,True
+21,mmlu_college_biology,"In the growth of a population, the point at which natality and mortality rates are equal to one another is referred to as",True,True
+22,mmlu_college_biology,The wings of a bat and the wings of a butterfly are,True,True
+23,mmlu_college_biology,The cell type comprising the pith tissue centered within a dicot stem is the,True,False
+24,mmlu_college_biology,Mobile regions of DNA capable of inserting themselves into an existing genome are,True,True
+25,mmlu_college_biology,"The process in which pioneer species colonize a bare substrate such as rock, sand, or glacial till is known as",True,True
+26,mmlu_college_biology,Brood parasites such as the cuckoo successfully trick other species of birds into rearing their young by exploiting the host birds' instinctive response to the loud begging cues of a fledgling in their nest. The genes that allow the host bird species to be duped into rearing the cuckoo fledglings to the detriment of their own offspring most likely remain in the gene pool of the population because,True,False
+27,mmlu_college_biology,"Cell motility, as viewed in a cultured fibroblast, encompasses all of the following EXCEPT",True,False
+28,mmlu_college_biology,"According to Hamilton’s rule, an altruistic trait can evolve if c < br, where c is the fitness cost of the altruistic behavior to the donor, b is the fitness benefit to the recipient, and r is the",True,False
+29,mmlu_college_biology,Adaptations of plants to minimize water loss in environments with high temperatures include which of the following?,True,False
+30,mmlu_college_biology,All of the following might be found in connective tissue EXCEPT,True,False
+31,mmlu_college_biology,Which of the following is typically NOT found in normal somatic cells of a human male?,True,True
+32,mmlu_college_biology,"The members of a bird species capable of nesting in treetops or on the ledges of nearby cliffs make their homes only in the treetops due to the established presence of a more aggressive bird species on the cliff ledges. With respect to habitat, the treetop-nesting birds are utilizing",True,False
+33,mmlu_college_biology,All of the following characteristics are typical of r-selected species EXCEPT,True,False
+34,mmlu_college_biology,A DNA strand with the sequence 5′ CGA TTG 3′ would be complementary to the sequence,False,False
+35,mmlu_college_biology,Ferns undergo alternation of generations in which a,True,True
+36,mmlu_college_biology,Which of the following statements concerning a sarcomere of a striated muscle (such as skeletal muscle) is correct?,True,True
+37,mmlu_college_biology,Aggressive ants live in the swollen thorns of a small tropical tree and feed on oil-rich bodies that the tree produces at the tips of its leaflets. Which of the following experiments best tests the hypothesis that ants defend the plant by either killing or chasing away leaf-feeding insects?,True,False
+38,mmlu_college_biology,"The sight organs of crustaceans and insects contain ommatidia, which make up the individual visual units of the",True,True
+39,mmlu_college_biology,An embryologist studying the development of a vertebrate organism from the zygote stage to fetus would be justified in drawing which of the following conclusions?,False,False
+40,mmlu_college_biology,"A stem-boring beetle has laid its eggs in the center of a 5-year-old wood twig, and the eggs have matured into larvae. In proper order (inside to outside), what tissues and tissue regions would the larvae encounter as they eat their way toward the outside of the twig? (For simplicity, assume that the epidermis has already fallen off completely.)",False,False
+41,mmlu_college_biology,The following pairs were placed in solution together. Which two could be separated by performing low-speed centrifugation?,False,False
+42,mmlu_college_biology,Which of the following would increase the rate at which a gas diffuses between the alveoli of the lung and the blood within a pulmonary capillary?,True,True
+43,mmlu_college_biology,The structures that act as sites of gas exchange in a woody stem are the,True,True
+44,mmlu_college_biology,Natural enemies have been implicated as a strong selective force for all of the following EXCEPT,True,False
+45,mmlu_college_biology,Which of the following is NOT a characteristic of introns?,False,False
+46,mmlu_college_biology,A healthy person sitting at rest consciously begins to breathe too fast. Which of the following describes the change in the person’s blood caused by this hyperventilation?,True,False
+47,mmlu_college_biology,Which of the following is the correct anatomical order of structures in the mammalian female reproductive tract?,True,True
+48,mmlu_college_biology,A marine ecosystem region characterized by penetrance of solar radiation and upwelling of nutrients is the,True,False
+49,mmlu_college_biology,"In humans, a hereditary disorder called xeroderma pigmentosum (XP) can result in the inability to repair ultraviolet damage to DNA. Which of the following molecular lesions is most likely to accrue in individuals with XP?",True,False
+50,mmlu_college_biology,Chemosynthetic bacteria can produce their own food despite their lack of photonabsorbing pigments because the chemosynthetic bacteria derive energy by,True,False
+51,mmlu_college_biology,All of the following may serve as intracellular messengers EXCEPT,True,True
+52,mmlu_college_biology,All of the following statements about plant embryogenesis are correct EXCEPT:,False,True
+53,mmlu_college_biology,Mouse sperm contain receptor proteins that bind to a glycoprotein (ZP3) in the zona pellucida of mouse eggs. Binding of ZP3 receptors to ZP3 initiates the sperm’s acrosomal reaction. All of the following experimental observations would be expected EXCEPT:,False,False
+54,mmlu_college_biology,Which of the following factors does NOT promote linkage disequilibrium?,True,True
+55,mmlu_college_biology,"In an experiment, the first cleavage plane of an amphibian zygote was manipulated so that the gray crescent was contained in only one of the two blastomeres that result from the first cleavage. The two blastomeres were then separated. What is the expected fate of the blastomeres?",True,True
+56,mmlu_college_biology,"Nerve outgrowth from a developing neuron begins at the growth cone, located at the tip of the axon. Microspikes of the growth cone extend and retract in order to move the growth cone forward. Exposure of the neuron to cytochasalin B at this stage of development causes",False,False
+57,mmlu_college_biology,Monoclonal antisera are distinguished from polyclonal antisera in which of the following ways?,True,True
+58,mmlu_college_biology,The first groups of animals to develop lung tissue adequate to support their respiratory requirements without the use of supplementary gas exchange organs were the,False,False
+59,mmlu_college_biology,Which of the following is a biological attribute that would most likely allow a species to become cosmopolitan in distribution?,True,True
+60,mmlu_college_biology,"In the formation of the earliest cells, which of the following components most likely arose first?",True,True
+61,mmlu_college_biology,"Which of the following facts was established prior to 1859, the year in which Charles Darwin published On the Origin of Species?",True,False
+62,mmlu_college_biology,Fungi participate in each of the following EXCEPT,True,False
+63,mmlu_college_biology,"In chloroplasts, a certain protein is found in the lumen of the thylakoid (thylakoid space). It is transcribed in the nucleus and synthesized on cytoplasmic ribosomes. How many membrane bilayers must this protein cross to reach its final location?",True,False
+64,mmlu_college_biology,"During the mammalian cardiac cycle, a volume of blood equivalent to ventricular stroke volume is transferred from the more compliant venous side to the less compliant arterial side of the circulation. In terms of pressures within the venous and arterial compartments, this transfer results in",False,False
+65,mmlu_college_biology,Which of the following statements concerning the Golgi apparatus of a eukaryote is correct?,True,False
+66,mmlu_college_biology,The first point of entry of water at the roots of a monocot plant is through the cytoplasm of cells of the,False,False
+67,mmlu_college_biology,Which of the following plant cells undergoes programmed cell death to become functional?,True,False
+68,mmlu_college_biology,Which of the following characteristics distinguishes angiosperms from gymnosperms?,True,True
+69,mmlu_college_biology,"A species of goose nests on both cliffs and beaches near the ocean. Soon after hatching, all chicks must make their way to the ocean. Chicks from cliff nests must tumble down the cliff to get to the ocean, and many are killed by the fall. Which of the following is most consistent with the hypothesis that cliff nesting is adaptive in this goose species?",True,False
+70,mmlu_college_biology,Immunoglobulins having epsilon heavy chains and located on the plasma membranes of mast cells and basophilic leukocytes belong to the class of antibodies called,True,True
+71,mmlu_college_biology,"A fluorescent molecule of 1,000 daltons injected into one cell is observed to enter an adjacent cell by passing through a",True,True
+72,mmlu_college_biology,Annelids and arthropods are similar to each other in that members of both phyla,True,True
+73,mmlu_college_biology,Approximately what fraction of the human genome encodes proteins?,True,True
+74,mmlu_college_biology,Which of the following statements is true of air as compared to water?,False,False
+75,mmlu_college_biology,Which of the following is true of organisms belonging to the kingdom Protista?,True,True
+76,mmlu_college_biology,The section of chromosome that serves as the site of attachment by the mitotic spindle during cell division is the,True,True
+77,mmlu_college_biology,A plant that grows along a trellis exhibits,True,True
+78,mmlu_college_biology,"If the activity of an enzyme is constant over a broad range of pH values, it is likely that",False,False
+79,mmlu_college_biology,"In garden peas, the allele for tall plants (D) is completely dominant to the allele for dwarf plants (d) and the allele for violet flower color (W) is completely dominant to the allele for white flower color (w). In a cross between a tall violet plant, with the genotype DDWw, and a dwarf white plant, what phenotypic ratio of the progeny would be expected from this cross?",False,False
+80,mmlu_college_biology,Cancer cells grown in culture are similar to normal cells grown in culture in that they,False,False
+81,mmlu_college_biology,Which of the following techniques could be used to demonstrate protein binding to specific DNA sequences?,True,False
+82,mmlu_college_biology,Adequate serum levels of calcium are maintained in humans by the secretion of,True,True
+83,mmlu_college_biology,The amino acid ornithine is regenerated during each turn of the urea cycle in a similar manner to which of the following participants in the citric acid cycle?,False,False
+84,mmlu_college_biology,Which is a characteristic unique to angiosperms?,True,False
+85,mmlu_college_biology,Mammals are homeostatic for all of the following EXCEPT,True,True
+86,mmlu_college_biology,The crouching of very young birds in response to a predator’s shape overhead is an example of,True,False
+87,mmlu_college_biology,"Among primates, a high degree of sexual dimorphism in a species usually indicates intense competition between",True,False
+88,mmlu_college_biology,Which of the following tissues in an actively photosynthesizing plant would have the highest rate of oxygen production?,True,True
+89,mmlu_college_biology,"A recent theory concerning an unusual rise in asthma attacks following a thunderstorm proposes that while pollen grains at 5 microns are too large to enter the airways, their exposure to water precipitates the release of starch granules as a result of osmotic shock. The starch granules are small enough to enter the lower airways and trigger an asthmatic attack. If this theory is true, which of the following is a correct statement?",True,True
+90,mmlu_college_biology,Hybrids between some related species of plants are sterile because the parent plants had different chromosome numbers. Occasionally the chromosome number of such a hybrid plant doubles spontaneously. Which of the following best describes the descendants of those plants with the double chromosome number?,True,False
+91,mmlu_college_biology,Phalloidin is a toxin made by the death cap mushroom. The toxin binds to actin subunits and disrupts actin function. Which of the following structures would be most directly affected by phalloidin?,True,True
+92,mmlu_college_biology,Hardy-Weinberg equilibrium generally assumes all of the following EXCEPT,True,True
+93,mmlu_college_biology,Which of the following statements about fungi is NOT true?,True,False
+94,mmlu_college_biology,Which of the following is encoded by the src oncogene and catalyzes the specific addition of phosphate groups to cellular proteins?,True,True
+95,mmlu_college_biology,Both C4 and CAM plants employ physiological and biochemical strategies to reduce photorespiration. Which of the following is an accurate comparison of the two strategies?,True,False
+96,mmlu_college_biology,"Which of the following depicts the correct sequence of membranes of the chloroplast, beginning with the innermost membrane and ending with the outermost membrane?",True,False
+97,mmlu_college_biology,Antibiotics that affect bacterial cells interfere with all of the following EXCEPT,True,False
+98,mmlu_college_biology,The polytene chromosomes seen in Drosophila silvarentis with the aid of a light microscope are,True,False
+99,mmlu_college_biology,Which of the following agents will induce polyploidy in a dividing eukaryote?,True,True
+100,mmlu_college_biology,Which of the following statements about mitochondria and chloroplasts is generally true?,True,True
+101,mmlu_college_biology,How do cyanobacteria differ from green unicellular algae?,False,False
+102,mmlu_college_biology,Stabilization of the unique coiled structure of an alpha helix in a protein is primarily attributed to (A) hydrogen bonding between the peptide backbone atoms,True,True
+103,mmlu_college_biology,The target of digestion of a nucleosome dimer to nucleosome monomers by DNase is,True,False
+104,mmlu_college_biology,A prokaryote that is thermophilic and methanogenic and has isoprenylglycerol ethers in its membrane instead of phospholipids is most likely,True,True
+105,mmlu_college_biology,All of the following environmental conditions increase the rate of transpiration from plants EXCEPT,True,False
+106,mmlu_college_biology,Which of the following statements about embryonic cleavage is NOT true?,True,True
+107,mmlu_college_biology,"In eukaryotic photosynthetic cells, which of the following occurs when electrons flow cyclically through the electron transport chain associated with photosystem I?",True,False
+108,mmlu_college_biology,Many marine birds drink seawater yet maintain their internal osmolarity at a constant level that is hypoosmotic to seawater. Which of the following physiological strategies best explains how the birds maintain their tissue osmolarity?,False,False
+109,mmlu_college_biology,"A species of small rodent eats seeds from only one species of pine. In normal years, a pair of these rodents will have a litter of two or three. It is unusual for small rodents to have such small litter sizes. The rodents are most likely to exhibit which other characteristic?",True,False
+110,mmlu_college_biology,Which of the following sources makes the greatest contribution to the dry mass of organic matter that comprises an oak tree?,False,False
+111,mmlu_college_biology,Which of the following must be true in order for evolution to have occurred?,True,False
+112,mmlu_college_biology,"From an evolutionary perspective, the optimality theory as applied to a given trait is best represented by the idea that",False,True
+113,mmlu_college_biology,"In the presence of alcohol dehydrogenase, the rate of reduction of acetaldehyde to ethanol increases as the concentration of acetaldehyde is increased. Eventually, the rate of the reaction reaches a maximum, after which point further increases in the concentration of acetaldehyde have no effect. Which of the following is true at the maximal rate of reaction?",True,True
+114,mmlu_college_biology,Which of the following best explains how mutations in DNA can result in the expression of a new phenotype?,True,True
+115,mmlu_college_biology,A competitive inhibitor of an enzyme exerts its effect by,False,False
+116,mmlu_college_biology,The ability of the brain to detect differences in stimulus intensity is best explained by the fact that which of the following varies with the stimulus intensity?,True,False
+117,mmlu_college_biology,Which of the following is the best explanation for why net primary productivity in terrestrial ecosystems tends to increase toward the tropics?,True,True
+118,mmlu_college_biology,Proteins were shown to move about in a plane of the plasma membrane when mouse cellsurface proteins and human cell-surface proteins were observed to integrate along a fused mouse-human cell plasma membrane. Which of the following cell culture techniques was most likely employed in order to yield these results?,True,False
+119,mmlu_college_biology,Gene flow between populations results in,True,True
+120,mmlu_college_biology,A subunit of DNA and protein consisting of 134-base-pair long stretches of DNA surrounding a protein octomer is called (a),False,True
+121,mmlu_college_biology,Which of the following would be the most dependable environmental signal that a plant in a temperate ecosystem could use to initiate flowering at the correct time of the year?,True,True
+122,mmlu_college_biology,Mitochondria isolated and placed in a buffered solution with a low pH begin to manufacture ATP. Which of the following is the best explanation for the effect of low external pH?,False,False
+123,mmlu_college_biology,An organism belonging to the nekton is which one of the following?,True,True
+124,mmlu_college_biology,A behavioral response called a fixed action pattern shown by animals,False,False
+125,mmlu_college_biology,Which of the following adaptations would limit pollination by bees and promote hummingbird pollination?,True,False
+126,mmlu_college_biology,"Double fertilization is a unique feature of flowering plants. In this process, one sperm unites with the egg to yield a zygote. The second sperm unites with the polar nuclei to initiate the formation of the",True,True
+127,mmlu_college_biology,Mutation of homeotic cluster genes often results in which of the following developmental defects in Drosophila?,False,True
+128,mmlu_college_biology,Root pressure created by a plant's roots causes water to enter the roots by,True,True
+129,mmlu_college_biology,Cellular uptake of cholesterol occurs through internalization of low density lipoproteincholesterol complexes. Cholesterol uptake involves all of the following EXCEPT,True,False
+130,mmlu_college_biology,Two xylem plant cell types that provide support and conduct water and minerals are the,True,False
+131,mmlu_college_biology,Which of the following statements about excretory organs is true?,True,True
+132,mmlu_college_biology,Mimicry is a strategy that has evolved through natural selection to increase the fitness of organisms to their environment. Which of the following represents a form of Batesian mimicry?,True,True
+133,mmlu_college_biology,Keystone species are thought to have profound effects on the structure and composition of ecological communities because they,True,True
+134,mmlu_college_biology,Which of the following is a reason that geneticists use mitochondrial DNA (mtDNA) to study the relatedness of animal populations?,True,True
+135,mmlu_college_biology,"A quote from a natural resources text states: ""Whenever the original ecosystem becomes restructured by man, it tends to become simplified, with a resultant disruption of the stabilizing influences of density-dependent regulatory factors."" This implies that in a disturbed ecosystem",True,False
+136,mmlu_college_biology,"A female fruit fly bearing linked genes that produce the phenotype gray body and normal wings mates with a male fruit fly of phenotype black body and vestigial wings. The presence of gray-bodied, vestigialwinged flies among the progeny is best explained by",True,False
+137,mmlu_college_biology,Which of the following active pools of carbon is the largest on Earth and contributes the most to carbon cycling?,True,True
+138,mmlu_college_biology,Charles Darwin's proposed conditions for natural selection encompass all of the following with regard to a given population EXCEPT,True,True
+139,mmlu_college_biology,Which of the following is a correct statement about the cohesion-tension theory for the ascent of water in the xylem?,True,False
+140,mmlu_college_biology,"In fungi, cell walls are reinforced by which of the following?",True,True
+141,mmlu_college_biology,"In plants, proton pumps are involved in the process of loading sugars into the phloem for transport. Which of the following is true about this process?",True,False
+142,mmlu_college_biology,Which of the following characteristics is predicted for an early-successional plant community?,True,True
+143,mmlu_college_biology,Which of the following is the symplastic pathway for the movement of sucrose from the site of photosynthesis in mesophyll cells into the phloem?,True,False

@@ -1,0 +1,199 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_high_school_geography,The main factor preventing subsistence economies from advancing economically is the lack of,False,False
+1,mmlu_high_school_geography,The tendency for a population to continue to grow long after replacement fertility has been achieved is called,True,True
+2,mmlu_high_school_geography,The tendency for migration to decrease with distance is called,True,False
+3,mmlu_high_school_geography,"Which zone contains low-income slums, ethnic ghettos, and general deterioration in Burgess's concentric zone model of urban form?",True,False
+4,mmlu_high_school_geography,Which of the following statements is TRUE concerning women in the labor force?,False,False
+5,mmlu_high_school_geography,All the following factors can be considered pull factors of migration EXCEPT,True,True
+6,mmlu_high_school_geography,Which of the following countries does NOT have a well-known example of a relict boundary?,True,False
+7,mmlu_high_school_geography,Which form of migration below are farm workers from another country most likely to be practicing during the year?,True,False
+8,mmlu_high_school_geography,Which of the following is a centrifugal force in a country?,False,True
+9,mmlu_high_school_geography,Early settlements and high population density along coastlines and rivers are best attributed to which of the following?,True,True
+10,mmlu_high_school_geography,The first stage of the demographic transition exhibits,True,False
+11,mmlu_high_school_geography,What is the population statistic that tells us the level of fertility at which a population will have just enough births to replace parents and compensate for early deaths?,False,True
+12,mmlu_high_school_geography,What is the most rapidly growing religion in the United States today?,True,True
+13,mmlu_high_school_geography,The outlying area serviced by a urban center is referred to as a,False,True
+14,mmlu_high_school_geography,The best definition of an urban area is,False,True
+15,mmlu_high_school_geography,Which of the following religions developed first?,True,False
+16,mmlu_high_school_geography,Which one of the following is NOT a characteristic of world cities?,True,True
+17,mmlu_high_school_geography,Which type of transportation system created the star-shaped city pattern?,True,False
+18,mmlu_high_school_geography,In which urban US setting below would you expect to find planned communities?,True,True
+19,mmlu_high_school_geography,The latitude and longitude coordinates of a place are an example of,True,False
+20,mmlu_high_school_geography,The voluntary association of three or more countries willing to give up some measure of sovereignty is called,True,True
+21,mmlu_high_school_geography,The key factor Thomas Malthus failed to recognize in his population theory was,False,False
+22,mmlu_high_school_geography,Which pair of religions are both universalizing religions?,False,True
+23,mmlu_high_school_geography,Which urban model theorizes that high-rent residential areas grow outward from the center of the city along major highways with lower-rent inhabitants taking over sequentially?,True,False
+24,mmlu_high_school_geography,"When a country combines its religion with its government, it is called a",True,True
+25,mmlu_high_school_geography,What is the chief religion practiced in Europe?,True,True
+26,mmlu_high_school_geography,Which group enacted the first effective settlement in the eastern United States?,True,True
+27,mmlu_high_school_geography,"A population pyramid, or age-sex structure, displays all the following information about a country's population EXCEPT",False,True
+28,mmlu_high_school_geography,The Rhine River is an example of which type of boundary?,True,True
+29,mmlu_high_school_geography,Which type of economic activity is most closely tied to the physical environment?,True,False
+30,mmlu_high_school_geography,The majority of workers in periphery countries are probably employed in which type of activities?,True,False
+31,mmlu_high_school_geography,All of the following are non-basic jobs in the city EXCEPT,False,False
+32,mmlu_high_school_geography,Transnational corporations distribute their operations,False,True
+33,mmlu_high_school_geography,Which of the following is LEAST associated with the development of alluvial landscapes?,True,False
+34,mmlu_high_school_geography,Which of the following is LEAST self-sufficient in the natural resources needed for modern industry?,True,False
+35,mmlu_high_school_geography,One of the effects of the east–west orientation of the Alpine mountain system and the northern plains of western and central Europe is that it,False,True
+36,mmlu_high_school_geography,The largest Hindu temple complex ever constructed is found in,True,False
+37,mmlu_high_school_geography,Which term describes the forces that unify and strengthen a country?,True,True
+38,mmlu_high_school_geography,Which one of the following statements best describes an application of the S-curve?,False,True
+39,mmlu_high_school_geography,Which of the following items is NOT a challenge to the state?,True,True
+40,mmlu_high_school_geography,"National sports teams, flags, national anthems, and national holidays all promote",True,True
+41,mmlu_high_school_geography,"The process whereby immigrants learn the values, language, and customs of their new country is called",False,True
+42,mmlu_high_school_geography,"On which of the following can one most accurately depict true geographical distance, true direction, true size, and true shape?",True,False
+43,mmlu_high_school_geography,Which of the following could be considered a higher-order central place function?,True,True
+44,mmlu_high_school_geography,Which geographer viewed the US urban community of the 1920s as a set of concentric rings radiating outward from a central core?,True,True
+45,mmlu_high_school_geography,"To get to school in the morning, we ALL use this as our guide:",False,False
+46,mmlu_high_school_geography,"Of these, the map using the smallest map scale would be the map of",True,True
+47,mmlu_high_school_geography,An earlier boundary formed before meticulous geographic knowledge and mapping was available is known as,True,True
+48,mmlu_high_school_geography,Which of the following jobs is in the non-basic employment sector?,True,False
+49,mmlu_high_school_geography,In which of the following regions is subsistence agriculture being replaced by large-scale commercial development?,True,True
+50,mmlu_high_school_geography,A strong movement away from all religions is called,True,True
+51,mmlu_high_school_geography,Regions share all of these characteristics EXCEPT,False,True
+52,mmlu_high_school_geography,Which of the following U.S. main immigration flow associations is NOT correct?,True,True
+53,mmlu_high_school_geography,Which one of the statements below is characteristic of most African cities?,False,False
+54,mmlu_high_school_geography,Which country faces a serious trade disadvantage due to its location?,False,False
+55,mmlu_high_school_geography,"In which zone of Burgess's concentric zone model would one find better houses, single-family homes, and higher-rent apartments?",False,False
+56,mmlu_high_school_geography,The theory that every society develops economically according to a five-stage pattern of growth is attributed to,True,True
+57,mmlu_high_school_geography,Which of the following would NOT be considered a barrier to diffusion of a cultural trait?,True,True
+58,mmlu_high_school_geography,The process of invasion and succession is a process involving migration and is best described as when,False,True
+59,mmlu_high_school_geography,Which of the following best illustrates the definition of a functional region?,True,True
+60,mmlu_high_school_geography,New stores opening around a large shopping mall reflect which concept?,False,False
+61,mmlu_high_school_geography,The birth of an urban industrial workforce in Europe contributed to the start of the,True,True
+62,mmlu_high_school_geography,Which of the following statements about East Asia's industrial regions is true?,True,True
+63,mmlu_high_school_geography,Which of the following statements best describes the United Nations?,True,False
+64,mmlu_high_school_geography,Which of the following is a formal region?,False,False
+65,mmlu_high_school_geography,The concentration of production activities and people spatially to benefit everyone is called,True,True
+66,mmlu_high_school_geography,"Which language family contains Italian, Spanish, Portuguese, and Romanian?",True,True
+67,mmlu_high_school_geography,"Ankara, Turkey and Islamabad, Pakistan are both examples of",True,True
+68,mmlu_high_school_geography,Which of the following is NOT an example of syncretism?,True,False
+69,mmlu_high_school_geography,The theory that whoever controlled the landmass of Europe would rule the world is called the,False,True
+70,mmlu_high_school_geography,Which group represents the Persian (Iranian) variation of Islam and believes in the infallibility and divine right to authority of the Imams descended from Ali?,True,True
+71,mmlu_high_school_geography,The multiplier effect is,True,True
+72,mmlu_high_school_geography,The sacred book of the Hindu is called the,True,True
+73,mmlu_high_school_geography,Which of the following is a distinct characteristic of an East European city?,True,True
+74,mmlu_high_school_geography,Which of the following countries is actively trying to preserve the purity of their native language from contamination by English or other languages?,True,False
+75,mmlu_high_school_geography,Which of the following is an example of a bulk-gaining industry?,True,True
+76,mmlu_high_school_geography,Which of the following is NOT a feature of an export processing zone (EPZ)?,True,True
+77,mmlu_high_school_geography,Which of the following characteristics is NOT true of a state?,True,True
+78,mmlu_high_school_geography,"You are planning to move from your hometown to Pittsburgh. Along the way, you stop in Columbus, Ohio to visit a relative and fall in love with the city! You decide to stay and make Columbus your new home. This is an example of",True,False
+79,mmlu_high_school_geography,A large node of office and commercial land use outside the central city with more jobs than residents is a(n),False,False
+80,mmlu_high_school_geography,Which crop began the Third Agricultural Revolution?,False,False
+81,mmlu_high_school_geography,Which factor in the last quarter century greatly destabilized Eastern Europe and led to ethnic conflict?,True,True
+82,mmlu_high_school_geography,"If I wanted to ship a small piece of very valuable jewelry to my aunt who lives in Poughkeepsie, which mode of transportation makes the most sense?",True,False
+83,mmlu_high_school_geography,Which of the following is a functional region?,True,True
+84,mmlu_high_school_geography,Which type of city model contains a distinct residential spine proceeding outward from center city along the main boulevard?,False,False
+85,mmlu_high_school_geography,What family do most European languages belong to?,True,True
+86,mmlu_high_school_geography,"What do the terms apartheid, ethnic cleansing, and integration all have in common?",False,False
+87,mmlu_high_school_geography,Which one of the statements below correctly describes immigrants living in Europe?,True,False
+88,mmlu_high_school_geography,Which of the following activities are NOT secondary economic activities?,True,False
+89,mmlu_high_school_geography,Johnny and Susie are moving to Scotland to renovate and live in the family castle. What makes their move a migration?,False,False
+90,mmlu_high_school_geography,Which of the following entities is a state?,False,False
+91,mmlu_high_school_geography,What is the most abundant fossil fuel?,True,False
+92,mmlu_high_school_geography,A rejection of or indifference to religion in a country is called,True,True
+93,mmlu_high_school_geography,"In a postindustrial economy, which of the following resources is considered most important to increase productivity?",True,False
+94,mmlu_high_school_geography,A city that is more than twice as large as the next largest city in a country is called a,True,False
+95,mmlu_high_school_geography,Every country with a seacoast has an exclusive economic zone (EEZ) under the UN Convention on the Law of the Sea. Which one of the following statements regarding the Law of the Sea and the EEZ is NOT correct?,True,True
+96,mmlu_high_school_geography,Which of the following is MOST likely to experience population pressure?,True,False
+97,mmlu_high_school_geography,"Part of the boundary between the United States and Mexico is the Rio Grande, an example of",False,False
+98,mmlu_high_school_geography,"When we talk about diffusion of a cultural trait, what do we mean by ""hearth""?",True,False
+99,mmlu_high_school_geography,The distance north and south of the equator is the,True,True
+100,mmlu_high_school_geography,Why are perceptual or vernacular regions so difficult to identify?,True,True
+101,mmlu_high_school_geography,Which structure(s) traditionally occupies the center of a historic Asian city?,False,False
+102,mmlu_high_school_geography,Which description best describes the urban hierarchy model in which the population of a city is inversely proportional to its rank in the hierarchy?,True,True
+103,mmlu_high_school_geography,Which of the following is a major concern in countries with a large and rapidly aging population?,True,True
+104,mmlu_high_school_geography,Which of the following capital cities is located OUTSIDE the central core area of the country?,True,False
+105,mmlu_high_school_geography,"Spanish colonial architecture, uneven economic development, and rural-to-urban migration flows are most commonly found in which of the following?",True,True
+106,mmlu_high_school_geography,The purpose for the creation of NATO was to,True,True
+107,mmlu_high_school_geography,Which of the following is NOT a key milestone reached by the EU?,True,False
+108,mmlu_high_school_geography,The use and spread of English in nineteenth-century India is an example of what type of diffusion?,True,False
+109,mmlu_high_school_geography,The theory that most migration occurs over a short distance and in steps is attributed to,True,True
+110,mmlu_high_school_geography,"The way of life based on breeding and herding of animals that are used as a source of food, shelter, and clothing is called",True,True
+111,mmlu_high_school_geography,The European Union (EU) replaced which of the following organizations?,True,True
+112,mmlu_high_school_geography,"The attempt by core countries to stimulate increased agricultural production in the periphery through use of technology, hybrid seed, and fertilizers is called the",True,True
+113,mmlu_high_school_geography,Shifting cultivation is most often practiced in,True,True
+114,mmlu_high_school_geography,The migration streams into the United States between 1980 and the present have been primarily composed of emigrants from which of the following regions?,False,False
+115,mmlu_high_school_geography,Which one of the following North American associations is NOT correct?,True,True
+116,mmlu_high_school_geography,Which of the following countries is NOT a federal state?,True,False
+117,mmlu_high_school_geography,Which of the following world regions is NOT considered one of the world's most densely populated regions?,True,False
+118,mmlu_high_school_geography,"Olives, grapes, and chickpeas are staple crops of which type of farming?",True,True
+119,mmlu_high_school_geography,A person who practices the Hindu religion would be most likely to,False,True
+120,mmlu_high_school_geography,"The language with the largest number of ""speakers"" is",True,False
+121,mmlu_high_school_geography,Which one of the following statements does NOT correctly describe the Green Revolution?,True,False
+122,mmlu_high_school_geography,"Historically, the world's major languages have spread by all of the following methods EXCEPT",True,True
+123,mmlu_high_school_geography,A primate city is,False,True
+124,mmlu_high_school_geography,"Which of the following factors would be considered a ""pull"" factor for Riva when considering a move from India to the United States?",True,True
+125,mmlu_high_school_geography,All of the following are reasons major cities attract young people in Latin America EXCEPT,True,True
+126,mmlu_high_school_geography,"Which language family is most widely spoken in North America and Europe and includes Baltic, Celtic, Germanic, and Greek?",True,True
+127,mmlu_high_school_geography,Which theorist(s) tried to explain the prices of farm products as they relate to patterns of land use?,True,True
+128,mmlu_high_school_geography,Which of the following is NOT a spread effect in the core-periphery model of development?,True,False
+129,mmlu_high_school_geography,Which of the following is NOT an important environmental factor influencing a country's agriculture?,True,False
+130,mmlu_high_school_geography,Which of the following countries is situated in the region of tectonic activity known as the Pacific Ring of Fire?,True,True
+131,mmlu_high_school_geography,"Which one of the following statements is NOT true of the ""core"" countries?",True,True
+132,mmlu_high_school_geography,"If you wanted to find the global distribution of coal, you would use a",True,True
+133,mmlu_high_school_geography,Which one of the following is NOT a centripetal force in a state?,False,True
+134,mmlu_high_school_geography,The cities of Varanasi (Benares) in India and Mecca in Saudi Arabia are alike because both are,True,True
+135,mmlu_high_school_geography,China and Vietnam's dispute over the Spratley Islands is,False,False
+136,mmlu_high_school_geography,Which of the following is NOT used by geographers to determine absolute location?,False,True
+137,mmlu_high_school_geography,Which of the following is a characteristic of a developed country?,True,False
+138,mmlu_high_school_geography,"Mary lives in a neighborhood with stores, offices, and restaurants so close that she does not need to own a car; however, she feels she has very little privacy. This is an example of a(n)",True,True
+139,mmlu_high_school_geography,Which of the following items below is an absolute location?,True,True
+140,mmlu_high_school_geography,Which one of the following groups is excluded from the caste system of Hinduism?,True,True
+141,mmlu_high_school_geography,Which of the following is a push factor?,True,False
+142,mmlu_high_school_geography,"The Basques, Bretons, Kashmiris, and Tamils are all examples of",True,True
+143,mmlu_high_school_geography,Which of the following factors does NOT play a role in gender relationships in a culture or society?,False,True
+144,mmlu_high_school_geography,The intensive agricultural practice of planting and harvesting the same crop more than once a year is called,True,True
+145,mmlu_high_school_geography,"When a new fashion design is introduced globally, the information initially travels through a process known as",False,False
+146,mmlu_high_school_geography,Opponents of genetically modified organisms (GMOs) in food are afraid that the GMOs,True,True
+147,mmlu_high_school_geography,Which one of the following is NOT an advantage of urban agriculture?,True,False
+148,mmlu_high_school_geography,Which of the following is NOT a problem Europe currently faces today?,True,True
+149,mmlu_high_school_geography,The world systems theory divides the world into,True,True
+150,mmlu_high_school_geography,The majority of Kurds are found in which country?,False,False
+151,mmlu_high_school_geography,In what country are the most Basque speakers found?,True,False
+152,mmlu_high_school_geography,The most rapidly urbanizing area of the world is:,False,True
+153,mmlu_high_school_geography,The influence of neo-Malthusianism can be seen in,True,False
+154,mmlu_high_school_geography,The process of devolution involves,True,True
+155,mmlu_high_school_geography,The theory that cities grow outward from a core utilizing several nodes of growth was proposed by,True,False
+156,mmlu_high_school_geography,The theory that the main purpose of a settlement or market town is to furnish goods and services to the surrounding market area is called the,True,True
+157,mmlu_high_school_geography,Which one of the following statements does NOT correctly describe transnational companies (TNCs)?,True,True
+158,mmlu_high_school_geography,"The ""melting pot"" theory of combining several immigrant groups into one mainstream culture is called",True,False
+159,mmlu_high_school_geography,Which theory below was used as justification for US involvement in Vietnam in the 1960s and 1970s?,True,True
+160,mmlu_high_school_geography,Urban agriculture can benefit urban society in all of the following ways EXCEPT,True,True
+161,mmlu_high_school_geography,Which one of the following organizations is NOT a supranational organization?,True,True
+162,mmlu_high_school_geography,Which one of the following demographic factors characterizes stages 4 and 5 in the demographic transition model?,True,False
+163,mmlu_high_school_geography,Which of the following statements does NOT describe a factor that contributed to suburbanization in the United States?,False,False
+164,mmlu_high_school_geography,An isobar map shows lines connecting all points of equal,True,True
+165,mmlu_high_school_geography,Ralph purchases garden fertilizer at the nearby garden shop rather than drive 50 miles to the neighboring town for the same product. This reflects which type of spatial interaction?,True,False
+166,mmlu_high_school_geography,What type of countries generally possesses a greater variety of climates and resources than other countries?,False,False
+167,mmlu_high_school_geography,Which of the following factors has little or no impact on mortality rates in the developing countries?,False,False
+168,mmlu_high_school_geography,"The idea that you identify with, and give allegiance, to a nation-state is",True,True
+169,mmlu_high_school_geography,What condition occurs when the people of one state want to annex a territory whose population is ethnically related to that state's population but now under the rule of another state?,True,True
+170,mmlu_high_school_geography,"Variations in vocabulary, pronunciation, and rhythm in a spoken language are called",False,True
+171,mmlu_high_school_geography,Boundary problems along the United States–Mexico border are caused by which type of issue below?,False,True
+172,mmlu_high_school_geography,In which country does language pose a centrifugal force?,True,False
+173,mmlu_high_school_geography,Quebec is a strong example of which of the following situations?,False,False
+174,mmlu_high_school_geography,Which of the following items below is NOT considered a barrier to the diffusion of an innovation?,True,False
+175,mmlu_high_school_geography,Change in any culture is introduced through all the following processes EXCEPT,True,False
+176,mmlu_high_school_geography,Which of the following statements regarding historical North American migration streams is NOT correct?,True,False
+177,mmlu_high_school_geography,A chief factor that contributed to the Second Agricultural Revolution was,True,False
+178,mmlu_high_school_geography,Zero population growth (ZPG) is achieved when,False,False
+179,mmlu_high_school_geography,In which of the following Asian countries would one find special economic zones (SEZs)?,True,True
+180,mmlu_high_school_geography,Which of the following industries does NOT need to be close to its markets?,False,False
+181,mmlu_high_school_geography,Which of the following is NOT a characteristic of a city in the developing world?,True,False
+182,mmlu_high_school_geography,A map that presents a single class of statistics is called a,True,True
+183,mmlu_high_school_geography,The construction of freeways leads to all but which of the following results?,True,False
+184,mmlu_high_school_geography,Which continent has the highest total fertility rates?,True,False
+185,mmlu_high_school_geography,What monotheistic religion is based on the life and teachings of Jesus Christ of Nazareth?,True,True
+186,mmlu_high_school_geography,Which of the following statements is true concerning folklore?,True,True
+187,mmlu_high_school_geography,The irregularity of the wet monsoon in South Asia in recent years may have a significant negative effect on which of the following?,True,False
+188,mmlu_high_school_geography,"According to Alfred Weber's least-cost theory, which one of the following costs of production is the most important factor in locating an industry?",True,False
+189,mmlu_high_school_geography,The climate of Great Britain is milder than most other places along the same latitude for which of the following reasons?,True,True
+190,mmlu_high_school_geography,Which of the following supranational organizations is not an economic union?,True,False
+191,mmlu_high_school_geography,The global lingua franca is,True,True
+192,mmlu_high_school_geography,What are the two major branches of Islam?,True,True
+193,mmlu_high_school_geography,What was the primary reason the Green Revolution did NOT help Africa much?,True,False
+194,mmlu_high_school_geography,The largest exporter of agricultural goods in the world is,False,True
+195,mmlu_high_school_geography,Which of the following statements is NOT part of Gunnar Myrdal's theory of cumulative causation?,True,False
+196,mmlu_high_school_geography,Which pair of religions below share a long-held tradition of cremating their dead?,True,True
+197,mmlu_high_school_geography,"The official languages of Guyana, Suriname, and French Guiana are English, Dutch, and French, respectively. On what continent are those countries located?",True,True

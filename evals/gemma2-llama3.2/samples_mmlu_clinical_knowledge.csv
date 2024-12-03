@@ -1,0 +1,266 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_clinical_knowledge,What size of cannula would you use in a patient who needed a rapid blood transfusion (as of 2020 medical knowledge)?,True,False
+1,mmlu_clinical_knowledge,The key attribute in successful marathon running is:,False,True
+2,mmlu_clinical_knowledge,Which of the following is the commonest cause of dementia in the UK?,True,False
+3,mmlu_clinical_knowledge,Which of the following is NOT a symptom of anaphylaxis?,True,True
+4,mmlu_clinical_knowledge,In what situation are closed pouches applied?,False,True
+5,mmlu_clinical_knowledge,With an increasing number of sprints the:,False,True
+6,mmlu_clinical_knowledge,Which of the following is true in diplopia?,False,True
+7,mmlu_clinical_knowledge,Sodium bicarbonate ingestion improves middle distance running performance by:,True,False
+8,mmlu_clinical_knowledge,Codons are composed of:,True,False
+9,mmlu_clinical_knowledge,Fatty acids are transported into the mitochondria bound to:,False,False
+10,mmlu_clinical_knowledge,Which of the answers below best indicates the compatible blood types that can be given to a person with a blood group B (rhesus negative)?,True,True
+11,mmlu_clinical_knowledge,Which of the following is true of a lower motor neurone lesion in the arm?,False,False
+12,mmlu_clinical_knowledge,Which of the following statements is false?,False,True
+13,mmlu_clinical_knowledge,Glycogen breakdown in muscle initially results in the formation of:,True,False
+14,mmlu_clinical_knowledge,The two principal contractile proteins found in skeletal muscle are:,True,True
+15,mmlu_clinical_knowledge,Which one of the following represents a IIIrd cranial nerve palsy and is a neurosurgical emergency?,True,False
+16,mmlu_clinical_knowledge,Which of the following is true about a thyroid swelling?,False,False
+17,mmlu_clinical_knowledge,Which of the following is true of hepatomegaly?,True,False
+18,mmlu_clinical_knowledge,Which of the following is true regarding reflexes?,True,False
+19,mmlu_clinical_knowledge,Which of the following is true of facial nerve palsy?,True,False
+20,mmlu_clinical_knowledge,What is a colles fracture?,True,True
+21,mmlu_clinical_knowledge,"If a transfusion reaction is suspected, you should:",True,True
+22,mmlu_clinical_knowledge,"Once a prescribed unit of blood product has been obtained from the blood bank and is out of refrigeration, the transfusion should commence within what period of time before it starts to deteriorate (as of 2020 medical knowledge)?",True,False
+23,mmlu_clinical_knowledge,Which of the following statements is true about informal carers (as of 2020)?,True,True
+24,mmlu_clinical_knowledge,Which of the following processes is not used to modify protein structure after translation has occurred?,True,False
+25,mmlu_clinical_knowledge,Why would you need to carry out a bladder washout for a patient at home?,False,False
+26,mmlu_clinical_knowledge,A 14-16 gauge needle is most likely to be used for:,True,True
+27,mmlu_clinical_knowledge,Which of these features suggest that a crackling sound is more likely due to a pleural friction rub than crackles?,True,False
+28,mmlu_clinical_knowledge,In games like soccer the blood lactate concentration:,False,False
+29,mmlu_clinical_knowledge,Lactate and hydrogen ions leave the muscle:,False,False
+30,mmlu_clinical_knowledge,Which of the following is true of the spine?,True,True
+31,mmlu_clinical_knowledge,Which of the following is true of psoriatic arthropathy?,True,False
+32,mmlu_clinical_knowledge,Which of the following is true of Graves Disease of the thyroid?,True,False
+33,mmlu_clinical_knowledge,Which of the following is true of calcium metabolism?,False,False
+34,mmlu_clinical_knowledge,Kinase reactions:,False,True
+35,mmlu_clinical_knowledge,The normal respiratory rate for an adult male is:,False,False
+36,mmlu_clinical_knowledge,Collagen fibres:,True,False
+37,mmlu_clinical_knowledge,Which of the following releases most energy when completely oxidised in the body?,True,False
+38,mmlu_clinical_knowledge,Embedded in the inner membrane of the mitochondrion are:,False,True
+39,mmlu_clinical_knowledge,"If the mean rate of oxygen consumption of a male athlete during a training session is 2 l/min, then his rate of energy expenditure is approximately:",False,False
+40,mmlu_clinical_knowledge,A normal heart rate for an adult at rest is:,True,True
+41,mmlu_clinical_knowledge,Which of the following statements is false?,False,False
+42,mmlu_clinical_knowledge,Which of the following is true in ulna nerve palsy?,True,True
+43,mmlu_clinical_knowledge,How much toothpaste is recommended for cleaning teeth?,False,True
+44,mmlu_clinical_knowledge,Which of the following is true about Cushing's Syndrome?,True,True
+45,mmlu_clinical_knowledge,The main factors determining success in sport are:,False,True
+46,mmlu_clinical_knowledge,"In a double stranded molecule of DNA, the ratio of purines : pyrimidines is:",True,False
+47,mmlu_clinical_knowledge,Performance enhancing synthetic steroids are based on the structure of the hormone:,True,True
+48,mmlu_clinical_knowledge,Glycogen breakdown in exercising muscle is activated by:,False,False
+49,mmlu_clinical_knowledge,Most of the free fatty acids are transported in the blood:,True,False
+50,mmlu_clinical_knowledge,How often should a cannula be flushed?,False,True
+51,mmlu_clinical_knowledge,The activity of creatine kinase is:,False,True
+52,mmlu_clinical_knowledge,The smallest increments on a mercury and aneroid sphygmomanometer measure are:,True,False
+53,mmlu_clinical_knowledge,Which of the following is not an abnormal breathing pattern seen in head injury and altered conscious level?,True,True
+54,mmlu_clinical_knowledge,During CPR chest compressions and ventilations should be delivered in a ratio of:,True,True
+55,mmlu_clinical_knowledge,A person weighs 62 kg. Their drug dose is 15 mg/kg. How many grams is their dose? Choose one answer from the following:,False,False
+56,mmlu_clinical_knowledge,An expected side effect of creatine supplementation is:,False,False
+57,mmlu_clinical_knowledge,The cardiac cycle consists of the phases:,False,False
+58,mmlu_clinical_knowledge,Which of the following factors does not influence success in sport?,True,False
+59,mmlu_clinical_knowledge,The chain of survival has four links. Put the following list in the correct order: 1. Early defibrillation; 2. Early CPR; 3. Recognition and call for help early; 4. Post-resuscitation care.,False,False
+60,mmlu_clinical_knowledge,A fundamental cause of fatigue in high intensity exercise is:,False,True
+61,mmlu_clinical_knowledge,Which of the following is true about possible rectal findings?,True,True
+62,mmlu_clinical_knowledge,What commonly causes skin excoriation?,True,True
+63,mmlu_clinical_knowledge,Which of the following is true of Systemic Sclerosis?,False,True
+64,mmlu_clinical_knowledge,A palpable left parasternal impulse suggests which abnormality?,True,False
+65,mmlu_clinical_knowledge,"In hypovolaemic shock, what percentage of blood can be lost before it is reflected in changes in heart rate and blood pressure?",False,False
+66,mmlu_clinical_knowledge,Which of the following best describes the effects of morphine?,True,True
+67,mmlu_clinical_knowledge,Which of the following is true of headache?,True,True
+68,mmlu_clinical_knowledge,Between contractions of the left ventricle the blood continues to flow through the vessels because:,False,True
+69,mmlu_clinical_knowledge,What might make the nurse think a patient could not use an inhaler?,True,True
+70,mmlu_clinical_knowledge,Removal of adhesive strips:,False,False
+71,mmlu_clinical_knowledge,"During CPR, chest compressions should be delivered at a rate of:",True,False
+72,mmlu_clinical_knowledge,Which of the following physiological characteristics is not important for success in endurance events such as the marathon race?,True,True
+73,mmlu_clinical_knowledge,"When using an inhaler, when should a patient be asked to rinse their mouth?",False,False
+74,mmlu_clinical_knowledge,Muscle lactate production increases when:,False,True
+75,mmlu_clinical_knowledge,What is the minimum time a stretch should be held for?,True,True
+76,mmlu_clinical_knowledge,What three factors regulate stroke volume?,True,True
+77,mmlu_clinical_knowledge,Name the bones of the middle finger in the correct order from the hand.,True,False
+78,mmlu_clinical_knowledge,Which of the following promotes glucose and amino acid uptake by muscle?,True,True
+79,mmlu_clinical_knowledge,An ileostomy opening should be:,False,False
+80,mmlu_clinical_knowledge,Which of the following would not be done before catheterizing?,True,False
+81,mmlu_clinical_knowledge,Hydrogen ions are formed when:,False,False
+82,mmlu_clinical_knowledge,Which one of the following manoeuvres is not a central painful stimulus?,False,False
+83,mmlu_clinical_knowledge,"Dopamine is prescribed at a rate of 4 micrograms/kg/min. For a 65 kg person, how many milligrams will they receive in an hour?",False,True
+84,mmlu_clinical_knowledge,Which of the following is true about the rectal examination?,True,True
+85,mmlu_clinical_knowledge,Why can't a patient talk if the cuff is inflated?,False,True
+86,mmlu_clinical_knowledge,Wound drainage should be assessed for volume and consistency:,True,True
+87,mmlu_clinical_knowledge,Creatine is synthesized from:,False,False
+88,mmlu_clinical_knowledge,"If a catheter resists all attempts to unblock it and you are unable to remove it, what should you do?",True,True
+89,mmlu_clinical_knowledge,Bladder washout solution should be:,False,True
+90,mmlu_clinical_knowledge,"When developing a plan of care relating to the management of a person's pain, attention should be given to the following needs:",True,True
+91,mmlu_clinical_knowledge,Patients with the apolipoprotein E gene are at risk of which disease?,True,True
+92,mmlu_clinical_knowledge,Which of the following groups of drugs may cause a dry mouth?,False,False
+93,mmlu_clinical_knowledge,Which of the following is not a true statement?,True,False
+94,mmlu_clinical_knowledge,"If a patient is cyanosed, what might their oxygen saturation level be?",True,True
+95,mmlu_clinical_knowledge,When assessing a patient's breathing:,True,True
+96,mmlu_clinical_knowledge,A person is prescribed Ropinirole 1.5 mg divided into three doses. How many micrograms is each dose? Choose one answer from the following:,False,False
+97,mmlu_clinical_knowledge,Which of the following is thought to be implicated in the development of peripheral muscle fatigue during multiple sprint activities?,True,False
+98,mmlu_clinical_knowledge,The ATP store in muscle can only supply energy in high intensity exercise for about:,False,True
+99,mmlu_clinical_knowledge,960 mg of the antibacterial drug Cotrimoxazole is prescribed every 12 hours. What is the daily dose in grams? Choose one answer from the following:,False,True
+100,mmlu_clinical_knowledge,Which of the following is true of hypothyroidism?,True,True
+101,mmlu_clinical_knowledge,What is hypochlorhydria?,True,True
+102,mmlu_clinical_knowledge,"A 67-year-old man, three hours post-transurethral resection of prostate with irrigation, has a blocked catheter. Which solution should be used to complete bladder washout?",True,False
+103,mmlu_clinical_knowledge,A keloid is:,True,True
+104,mmlu_clinical_knowledge,Which of the following is not an amino acid?,True,True
+105,mmlu_clinical_knowledge,Wound drainage is described as serous if:,True,True
+106,mmlu_clinical_knowledge,The sex of a child is dictated by the inheritance of:,True,False
+107,mmlu_clinical_knowledge,Which of the following is true in spastic paraplegia?,False,False
+108,mmlu_clinical_knowledge,"The synthesis of glucose from lactate, glycerol, or amino acids is called:",True,False
+109,mmlu_clinical_knowledge,"If a blood unit has been out of refrigeration for longer than the accepted time limit, you should:",True,False
+110,mmlu_clinical_knowledge,The auscultatory gap is:,True,False
+111,mmlu_clinical_knowledge,How many different types of microorganisms may colonize the mouth?,True,False
+112,mmlu_clinical_knowledge,Why should shampoo not be used for washing the skin when showering or bathing?,False,True
+113,mmlu_clinical_knowledge,Which of the following is the same strength as Adrenaline 1 in 1000? Choose one answer from the following:,False,False
+114,mmlu_clinical_knowledge,An allele that is masked is referred to as:,True,True
+115,mmlu_clinical_knowledge,Hypernatraemic dehydration is:,True,False
+116,mmlu_clinical_knowledge,Which of the following is not associated with an increase in the work of breathing?,True,False
+117,mmlu_clinical_knowledge,Which of the following can act as an intracellular buffer to limit pH changes when the rate of glycolysis is high?,False,False
+118,mmlu_clinical_knowledge,Which of the following is true about Addisons Disease?,True,False
+119,mmlu_clinical_knowledge,Which of the following are indicative signs and symptoms of circulatory overload?,True,True
+120,mmlu_clinical_knowledge,What is the most likely cause of acute urinary retention of urine?,True,True
+121,mmlu_clinical_knowledge,Which of the following tools is the first choice for cleaning the mouth?,True,True
+122,mmlu_clinical_knowledge,Which of the following drugs may be used to enhance gastric motility?,True,False
+123,mmlu_clinical_knowledge,The creatine kinase reaction is:,False,False
+124,mmlu_clinical_knowledge,Where should a stoma be sited?,False,False
+125,mmlu_clinical_knowledge,Women's world record performances have improved rapidly in recent years mainly because:,False,False
+126,mmlu_clinical_knowledge,Our genetic material is made up of:,True,True
+127,mmlu_clinical_knowledge,Insensible loss does not come from:,False,False
+128,mmlu_clinical_knowledge,"Exhaustion, confusion, and unresponsiveness can be indicators of:",True,False
+129,mmlu_clinical_knowledge,"Pairs of electrons carried in the form, FADH2 and NADH+H, collectively contain enough free energy to rephosphorylate:",False,False
+130,mmlu_clinical_knowledge,A muscle fibre relaxes when:,True,False
+131,mmlu_clinical_knowledge,Which of the following best describes the Golgi tendon organ?,True,True
+132,mmlu_clinical_knowledge,The pulse can be palpated:,True,False
+133,mmlu_clinical_knowledge,The pyruvate dehydrogenase complex:,True,True
+134,mmlu_clinical_knowledge,Which of the following is true about the knee joint?,True,False
+135,mmlu_clinical_knowledge,Who is the publication Your guide to the NHS written for?,True,True
+136,mmlu_clinical_knowledge,Which of the following is true about the assessment of arm reflexes?,True,False
+137,mmlu_clinical_knowledge,Which of these is most likely to cause deviation of the trachea?,True,False
+138,mmlu_clinical_knowledge,What is the risk if water is used for bladder washout in secondary care?,False,True
+139,mmlu_clinical_knowledge,What is the 'normal' range of flexion at the knee joint?,False,True
+140,mmlu_clinical_knowledge,Which of the following is not a controlled drug?,False,False
+141,mmlu_clinical_knowledge,After what period of time does maximal dynamic exercise become predominantly aerobic?,False,False
+142,mmlu_clinical_knowledge,The trigger to initiate the contractile process in skeletal muscle is:,True,False
+143,mmlu_clinical_knowledge,Which of the following is NOT a sign of phlebitis?,True,True
+144,mmlu_clinical_knowledge,The energy charge of the cell is:,True,False
+145,mmlu_clinical_knowledge,The sarcoplasmic reticulum in muscle cells acts as a:,True,True
+146,mmlu_clinical_knowledge,Which of the following parameters are seen on typical neurological observation charts?,True,True
+147,mmlu_clinical_knowledge,"In the discharge checklist recommended by the Department of Health (2004), who should be involved in completing the form?",False,False
+148,mmlu_clinical_knowledge,Which of the following is true regarding the complications of a large goitre?,False,False
+149,mmlu_clinical_knowledge,The heart has:,True,True
+150,mmlu_clinical_knowledge,Which one of the following groups of patients should be assessed using an Early Warning Score (EWS)?,True,True
+151,mmlu_clinical_knowledge,What is the purpose of the cuff on a tracheostomy tube?,True,True
+152,mmlu_clinical_knowledge,What type of covalent bonds link the amino acids in a protein?,True,True
+153,mmlu_clinical_knowledge,Which is the most reliable way to assess for clubbing?,False,False
+154,mmlu_clinical_knowledge,The term gene doping refers to:,False,True
+155,mmlu_clinical_knowledge,Name three of the five main uses of the hand.,False,False
+156,mmlu_clinical_knowledge,Which of the following is true about an abdominal mass?,False,False
+157,mmlu_clinical_knowledge,Which of the following is not a category used to classify patients according to the Glasgow Coma Scale?,True,True
+158,mmlu_clinical_knowledge,Which of these combinations of clinical features is most suggestive of mixed mitral valve disease with a predominance of mitral regurgitation?,True,False
+159,mmlu_clinical_knowledge,"Prior to undergoing a painful procedure, a patient should be informed about what to expect and how their pain will be controlled, as this is associated with:",True,True
+160,mmlu_clinical_knowledge,The conversion of one molecule of glucose to two molecules of pyruvate results in the net formation of:,True,True
+161,mmlu_clinical_knowledge,The net production of ATP via substrate-level phosphorylation in glycolysis is:,True,False
+162,mmlu_clinical_knowledge,Which of the following is true about rectal bleeding?,True,False
+163,mmlu_clinical_knowledge,Mutations are errors in DNA that:,True,False
+164,mmlu_clinical_knowledge,"When recording peak flow results, within how many litres/minute should the three readings be?",False,True
+165,mmlu_clinical_knowledge,Peak flow meters record:,False,True
+166,mmlu_clinical_knowledge,Which of the following should patients remember when taking paracetamol?,True,True
+167,mmlu_clinical_knowledge,Which of the following molecules does not form part of DNA?,True,True
+168,mmlu_clinical_knowledge,Which of the following is true about jaundice?,True,False
+169,mmlu_clinical_knowledge,Which of the following nucleotide bases is not found in RNA?,True,False
+170,mmlu_clinical_knowledge,Bronchial breathing is characterized by,False,True
+171,mmlu_clinical_knowledge,Which of the following drugs is most commonly responsible for patients who present with acute confusion?,True,False
+172,mmlu_clinical_knowledge,The frontal lobe of the brain's cortex is responsible for which of the following?,False,False
+173,mmlu_clinical_knowledge,The carpal bones are the small bones of the wrist - name them.,True,True
+174,mmlu_clinical_knowledge,The process of translation requires the presence of:,True,False
+175,mmlu_clinical_knowledge,What is 'coring'?,False,True
+176,mmlu_clinical_knowledge,What must you ensure before a speaking valve is used?,False,False
+177,mmlu_clinical_knowledge,Which one of the following statements is true with regard to intravenous drug administration?,True,True
+178,mmlu_clinical_knowledge,Which of the following factors can affect enzyme activity?,True,True
+179,mmlu_clinical_knowledge,"For very high force contractions lasting 1-2 seconds, the initial energy source is from:",False,False
+180,mmlu_clinical_knowledge,A change in blood pressure is detected by the:,True,True
+181,mmlu_clinical_knowledge,Blood clots are responsible for repeatedly blocking a catheter. What should you do?,False,False
+182,mmlu_clinical_knowledge,What is the pH of water?,True,False
+183,mmlu_clinical_knowledge,How long can a cannula remain in situ?,False,False
+184,mmlu_clinical_knowledge,Metabolism is determined by the:,True,False
+185,mmlu_clinical_knowledge,How many chromosomes do all human somatic cells contain?,True,False
+186,mmlu_clinical_knowledge,Under what circumstances would you use antibiotics prior to catheterization?,False,False
+187,mmlu_clinical_knowledge,Which of these features suggest that a pulsation in the neck is arterial?,True,False
+188,mmlu_clinical_knowledge,The rate limiting enzyme of glycolysis is:,True,True
+189,mmlu_clinical_knowledge,Which of the following is true about haemorrhoids?,True,True
+190,mmlu_clinical_knowledge,Selective Androgen Receptor Modulators (SARMs) are:,False,False
+191,mmlu_clinical_knowledge,"The β-oxidation of a molecule of palmitic acid, CH3(CH2)14CO2H:",True,True
+192,mmlu_clinical_knowledge,Which products of ADP degradation increase in concentration in the blood during multiple sprint sports?,True,False
+193,mmlu_clinical_knowledge,The optimum position for performing CPR is to position the patient:,False,True
+194,mmlu_clinical_knowledge,The complete resynthesis of phosphocreatine after very high intensity exercise normally takes:,True,False
+195,mmlu_clinical_knowledge,What type of joint is the elbow?,True,True
+196,mmlu_clinical_knowledge,A hypertonic solution is:,True,True
+197,mmlu_clinical_knowledge,Which of these is not necessary when examining the jugular venous pulse?,False,False
+198,mmlu_clinical_knowledge,The maximum sustainable power:,True,True
+199,mmlu_clinical_knowledge,Fast-twitch fibres contain:,True,False
+200,mmlu_clinical_knowledge,The rate of blood lactate accumulation is determined by:,False,True
+201,mmlu_clinical_knowledge,The enzymes of glycolysis are located in the:,True,True
+202,mmlu_clinical_knowledge,"The energy released from the breakdown of the high-energy phosphates, ATP and phosphocreatine, can sustain maximal exertion exercise for about:",False,False
+203,mmlu_clinical_knowledge,Prosthetic groups are:,False,False
+204,mmlu_clinical_knowledge,Which of the following is true in peripheral neuropathy?,True,True
+205,mmlu_clinical_knowledge,Which of the following is true about involuntary movements in the arm?,False,True
+206,mmlu_clinical_knowledge,Which of these options is not recognized as a cause of chronic cough?,False,False
+207,mmlu_clinical_knowledge,Which of the following is recommended for cleaning the mouth?,True,False
+208,mmlu_clinical_knowledge,As a general principle what is the best approach to the use of analgesic drugs following surgery?,True,True
+209,mmlu_clinical_knowledge,Which of the following best describes nociceptive pain?,True,True
+210,mmlu_clinical_knowledge,Complete the following: A variation of serial peak flow readings over a two week period are considered diagnostic in . . .,True,False
+211,mmlu_clinical_knowledge,Under which circumstances would you not use a catheter valve?,False,False
+212,mmlu_clinical_knowledge,Which of the following is true of Paget's Disease?,True,True
+213,mmlu_clinical_knowledge,Your first action following confirmation of cardiac arrest is to:,True,True
+214,mmlu_clinical_knowledge,What is an urgent reason for catheterizing a patient?,True,True
+215,mmlu_clinical_knowledge,Which of the following is true?,False,False
+216,mmlu_clinical_knowledge,"Who has legal responsibility for a patient's care during hospital admission, stay, and discharge?",True,True
+217,mmlu_clinical_knowledge,Endurance training increases the muscle's capacity to:,True,False
+218,mmlu_clinical_knowledge,An action potential arriving at the motor endplate causes release of:,True,False
+219,mmlu_clinical_knowledge,Your patient has diabetes. Why is this important?,True,True
+220,mmlu_clinical_knowledge,What is meant by the term 'passive movements'?,False,False
+221,mmlu_clinical_knowledge,What is a tracheostomy?,True,False
+222,mmlu_clinical_knowledge,Which of the following is true of haematemesis?,True,True
+223,mmlu_clinical_knowledge,Which of the following is true of rheumatoid arthritis?,True,False
+224,mmlu_clinical_knowledge,Why should careful consideration be given to providing people aged over 65 with information sources that are internet based?,True,True
+225,mmlu_clinical_knowledge,Which of the following is true about the carpal tunnel syndrome?,False,False
+226,mmlu_clinical_knowledge,How many CO2 and ATP molecules are formed during one complete turn of the tricarboxylic acid cycle (Krebs' cycle)?,False,False
+227,mmlu_clinical_knowledge,"Which potential complication of IV therapy is described thus: 'Leakage of vesicant (irritant) medication or fluid into surrounding tissues, causing tissue damage'?",True,True
+228,mmlu_clinical_knowledge,Which of the following is present in saliva and has an antibacterial action?,True,True
+229,mmlu_clinical_knowledge,The genome is:,True,True
+230,mmlu_clinical_knowledge,Alterations in which neurotransmitters in the brain by pharmacological agents has been shown to influence fatigue development?,False,False
+231,mmlu_clinical_knowledge,In all-out exercise such as sprinting the first fibre types to fatigue are the:,False,False
+232,mmlu_clinical_knowledge,The main fate of lactate that leaves muscle and enters the circulation is:,True,False
+233,mmlu_clinical_knowledge,The most rapid method to resynthesize ATP during exercise is through:,False,True
+234,mmlu_clinical_knowledge,Which of the following is true in a sensory assessment of the arm?,True,False
+235,mmlu_clinical_knowledge,The blood glucose concentration during 80-90 minutes of intermittent high intensity exercise:,True,False
+236,mmlu_clinical_knowledge,One of the most common reasons for stoma formation is:,True,False
+237,mmlu_clinical_knowledge,A surgical support can be used for:,False,False
+238,mmlu_clinical_knowledge,What size of catheter bag may be used at night?,False,False
+239,mmlu_clinical_knowledge,Anaerobic metabolism refers to the generation of ATP:,True,False
+240,mmlu_clinical_knowledge,Approximately how many kJ of energy are expended if an athlete's steady-rate oxygen uptake averages 3.0 l/min for 5 minutes of exercise?,True,True
+241,mmlu_clinical_knowledge,A patient has been on the operating table for four hours. How long may it take for any pressure damage to be visible?,True,False
+242,mmlu_clinical_knowledge,Eccrine and apocrine glands are both types of:,True,True
+243,mmlu_clinical_knowledge,Which of the following is true of the assessment of power in the arms?,False,False
+244,mmlu_clinical_knowledge,"Two of the following are evident - pain at IV site, erythema, and swelling. What stage on the phlebitis scale is this and what should you do?",False,True
+245,mmlu_clinical_knowledge,Which hormone is primarily responsible for fluid regulation?,True,True
+246,mmlu_clinical_knowledge,The low intake of carbohydrate in the diet:,False,False
+247,mmlu_clinical_knowledge,Phophocreatine resynthesis during recovery from exercise is inhibited by:,False,True
+248,mmlu_clinical_knowledge,The transcription of DNA to a molecule of messenger RNA occurs:,True,False
+249,mmlu_clinical_knowledge,Oedema is the presence of:,True,True
+250,mmlu_clinical_knowledge,Why should the short-acting bronchodilator be taken first?,True,True
+251,mmlu_clinical_knowledge,Which of the following is true about an intention tremor?,False,False
+252,mmlu_clinical_knowledge,Glucose is transported into the muscle cell:,True,True
+253,mmlu_clinical_knowledge,Oxygen is used:,False,True
+254,mmlu_clinical_knowledge,Measuring the blood pressure in an arm that is above the level of the heart will:,False,False
+255,mmlu_clinical_knowledge,When you are taking a musculoskeletal history which of the following is true?,True,False
+256,mmlu_clinical_knowledge,Why are male patients advised to take their own electric razor to hospital?,False,True
+257,mmlu_clinical_knowledge,Which organ secretes insulin?,True,True
+258,mmlu_clinical_knowledge,"When teaching a patient inhaler technique, how will you ensure that a large proportion of the drug reaches the lower airways?",False,False
+259,mmlu_clinical_knowledge,Why should a patient stand or sit as upright as possible when recording a peak flow rate?,True,True
+260,mmlu_clinical_knowledge,Why might a patient need a tracheostomy?,False,True
+261,mmlu_clinical_knowledge,"In general, the higher the intensity of exercise, the greater the proportional contribution of:",False,True
+262,mmlu_clinical_knowledge,What is the second commonest hospital acquired infection?,False,True
+263,mmlu_clinical_knowledge,Phosphocreatine in the muscle cell is found in:,False,False
+264,mmlu_clinical_knowledge,The patient's self-report of pain is important because health care staff:,True,False

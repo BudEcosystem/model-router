@@ -1,0 +1,111 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_public_relations,Which common public relations tactic involves sending journalists on visits to appropriate locations?,True,True
+1,mmlu_public_relations,"You are the vice president of public relations for a corporation that produces a well-known brand of food products. In the Albany, New York, market, one of your products has recently been found to have some contamination. While apparently not fatal, it has given a large number of consumers severe stomach cramps and other intestinal problems. The cause has been traced back to your product, which is sold throughout the nation. Your CEO wants to know what you would advise to keep the situation from becoming a public relations disaster. What should you recommend?",True,True
+2,mmlu_public_relations,"In public relations, ________ deals with an organization's ability to satisfy and create a positive experience for its consumers.",True,True
+3,mmlu_public_relations,In what year did the BBC start broadcasting radio?,False,True
+4,mmlu_public_relations,________ advertising campaigns are focused on gathering support for a particular message or cause.,True,False
+5,mmlu_public_relations,Why should a successful public relations counselor continually review present and future realities for an organization?,True,False
+6,mmlu_public_relations,Which of these definitions best describes the 'spiral of silence'?,False,False
+7,mmlu_public_relations,"What two elements do the planning models of Hendrix (2002), Kendall (1999), Merston (1963) and Parkinson and Ekachai (2006) have in common?",False,False
+8,mmlu_public_relations,At which stage in the planning process are the objectives decided on?,False,False
+9,mmlu_public_relations,Which of the following is NOT one of the four categories of persuasive crisis communication strategies identified by W. Timothy Coombs?,False,False
+10,mmlu_public_relations,How much has the number of practitioners working in consultancies in the UK grown since 25 years ago?,False,False
+11,mmlu_public_relations,Which statement is NOT true of both issues management and crisis management?,False,True
+12,mmlu_public_relations,In what year did the BBC start broadcasting radio?,False,True
+13,mmlu_public_relations,How many regional newspapers are there in the UK?,False,True
+14,mmlu_public_relations,"According to Esman (1972), which publics are related to the organisation through shared industrial interests?",False,False
+15,mmlu_public_relations,Early theories of mass communication suggested that audiences were passive recipients of media messages and thus vulnerable to manipulation. Which of the following best describes current thinking?,True,True
+16,mmlu_public_relations,Which of the following entities cannot sue for libel?,False,False
+17,mmlu_public_relations,Which author emphasised strategy as achieving competitive advantage for an organization?,False,False
+18,mmlu_public_relations,Which statement is true about focus group research?,True,False
+19,mmlu_public_relations,You are the community relations director for a public water utility that has been targeted by a group of activists opposed to adding fluoride to drinking water. The activists are waging an intense internet campaign against the practice. Your utility has overwhelming evidence of the health benefits to fluoridated water. The manager of the utility asks you to initiate a blog to get the health message out. What is the most appropriate course of action?,True,True
+20,mmlu_public_relations,Within which area of public relations is likely to involve lobbying?,True,True
+21,mmlu_public_relations,During which step of the Chase Jones model of issues management should the strengths and weaknesses of the organisation be reviewed?,True,False
+22,mmlu_public_relations,"As the single-person public relations staff of a public transit agency, you are tasked with increasing the number of people who ride your buses each month. Your target audiences are lower-income individuals, college students, people with basic educations and people for whom English is a Second Language. When preparing to craft a primary message, what should you do first?",False,False
+23,mmlu_public_relations,A book launch would be what kind of common tactic?,False,True
+24,mmlu_public_relations,Newsletters generally fall in to which writing category?,False,True
+25,mmlu_public_relations,The process of identifying publics who are involved and affected by a situation central to an organization is called a(n),True,True
+26,mmlu_public_relations,Which of the following Internet-related challenges is most significant in the public relations field?,False,True
+27,mmlu_public_relations,Which of these ways a business impacts on the world do stakeholders NOT normally look at?,False,True
+28,mmlu_public_relations,"The ________ part of a PR campaign includes proactively planning a response strategy, implementing that strategy in the event of a crisis, evaluating the crisis response, and revising the initial response strategy in an effort to improve for future crises.",False,True
+29,mmlu_public_relations,"In the Westley and MacLean model of communication, which role describes the way in which the public obtain or receive the message?",True,False
+30,mmlu_public_relations,Which guerrilla marketing technique involves the spreading of a message about a product issue or service through online peer-to peer communication?,True,True
+31,mmlu_public_relations,A ________ campaign occurs when people from two or more opposing sides of an argument have emotional convictions about a decision that has the power to impact their lives.,False,False
+32,mmlu_public_relations,The Web was effectively invented by Berners-Lee in which year?,False,False
+33,mmlu_public_relations,Internet traffic is expected to grow by 400% in the next few years. What is predicted to be the main driver of this?,False,False
+34,mmlu_public_relations,The goal of ________ advertising is to promote a specific product and service to a target audience.,True,True
+35,mmlu_public_relations,Which of these types of survey question seeks qualitative information?,True,True
+36,mmlu_public_relations,The American flag is an example of a,True,True
+37,mmlu_public_relations,Approximately half of all public relations practitioners work in,True,True
+38,mmlu_public_relations,"You seek the counsel of one of your peers who designed and implemented a communication program that resulted in the successful permitting of an automotive recycling center, despite strong opposition from community organizations. You have to design a program to win approval for a similar project proposed by your company. Your peer gives you a brief piece of advice that succinctly describes the foundation of his successful program. What is most likely your peer's advice for a successful communication program?",True,True
+39,mmlu_public_relations,Which of these publics does NOT feature in Grunig and Hunt's (1984) situational theory of publics?,True,True
+40,mmlu_public_relations,Which of these qualities is NOT listed as something to consider when choosing an opinion leader for a public relations campaigns?,True,False
+41,mmlu_public_relations,"According to Macnamara's (2005) pyramid of evaluation, at which stage is the situation analysis done and used to form objectives and implementation plans?",True,False
+42,mmlu_public_relations,Which factors are mentioned that influence media coverage of a story?,False,False
+43,mmlu_public_relations,"What is the primary reason that you, as a public relations manager, should insist on prioritizing and scheduling activities?",True,False
+44,mmlu_public_relations,"According to Macnamara's (2005) pyramid of evaluation, at which stage are opinion polls most useful?",False,False
+45,mmlu_public_relations,"Tyler and his wife have been won over by the advertising campaign supporting Stan Johnson, who is running for mayor, so they put a 'Vote for Stan Johnson in November' sign in their front yard. Tyler and his wife are engaging in ________, the third step of the advertising campaign.",True,False
+46,mmlu_public_relations,"No-Wait Weight Loss, a diet pill brand, promises its potential consumers that if they take one pill once a day they will lose weight without having to change their diet or start exercising. However, many people who have used the product have complained that they haven't lost weight, and some have even gained weight. No-Wait Weight Loss has been unsuccessful in the ________ stage of the advertising campaign.",False,False
+47,mmlu_public_relations,"What World War I-era organization introduced decentralized publicity ""drives"" as a strategy to mobilize U.S. public opinion to support the war?",True,False
+48,mmlu_public_relations,"When an attitude is communicated, what does it become?",False,False
+49,mmlu_public_relations,Which communication model describes the encoding and decoding of messages?,False,True
+50,mmlu_public_relations,Which definition best describes media convergence?,True,True
+51,mmlu_public_relations,________ is most common to political campaigns because it focuses on raising the public's awareness about a particular person in hopes they will either support or not support the person.,False,True
+52,mmlu_public_relations,Which phase of public relations audience research is associated with summative evaluation?,True,True
+53,mmlu_public_relations,Which of these adjectives does NOT describe business writing?,True,False
+54,mmlu_public_relations,Publishing and selling the creative work of others and protecting property rights of one's own creative work is regulated by,True,True
+55,mmlu_public_relations,Where was the first British newspaper printed?,False,False
+56,mmlu_public_relations,Which of the following information about publications does the Audit Bureau of Circulation NOT provide?,False,False
+57,mmlu_public_relations,The ________ phase of the PR process consists of making decisions about which strategies and tactics will be used to respond to the goals of the organization and executing those strategies and tactics.,True,False
+58,mmlu_public_relations,In recent years social media has had a major impact on the practice of public relations. In which of the following areas has the impact been greatest and experienced most immediately?,False,True
+59,mmlu_public_relations,Which traditional news criterion would you expect to be most important in public relations messages distributed through the mass media?,False,True
+60,mmlu_public_relations,Which area of public relations deals with emerging issues and their potential impact on an organization?,True,False
+61,mmlu_public_relations,"According to Macnamara's (2005) pyramid of evaluation, at which stage is media coverage most likely to be measured?",True,True
+62,mmlu_public_relations,You are director of communications for a local non-profit chapter organization that is an affiliate of a large national non-profit organization. You are frequently asked to secure media coverage using news releases provided by national headquarters located in another state. Which action would most improve your chances of success with these materials?,True,True
+63,mmlu_public_relations,What is the main purpose of licensing public relations practitioners?,False,True
+64,mmlu_public_relations,"According to Cutlip (2006), which stage of the communications plan should involve planning of what should be said and why?",True,False
+65,mmlu_public_relations,In which era did muckraking journalism led to the widespread introduction of public relations in business?,False,False
+66,mmlu_public_relations,"Leslie is a disgruntled employee who walks into her place of employment and shoots three people, killing two and critically injuring the other. What is Leslie's behavior an example of?",True,True
+67,mmlu_public_relations,Psychographics refers to,True,False
+68,mmlu_public_relations,"In the public relations field, what is the most common threat to a client-firm relationship?",False,False
+69,mmlu_public_relations,A 2008 survey showed that what percentage of the world's largest companies are reporting their corporate responsibility?,False,False
+70,mmlu_public_relations,"In recent research, the 14,000 stories that could be accessed on Google News' front page in a day pertained to how many actual news events?",False,False
+71,mmlu_public_relations,Who argued that if an organization did not affect a public then there was no need for a practitioner to consider that public in its communications?,False,True
+72,mmlu_public_relations,Which form of communication is most effective in forming or changing predispositions toward an issue?,False,True
+73,mmlu_public_relations,Which statement describes an idea from utilitarianism?,True,True
+74,mmlu_public_relations,Which type of measurement is the most effective choice for evaluating a campaign's impact on audience attitudes?,True,False
+75,mmlu_public_relations,There are three basic types of persuasive advertising campaigns. Which of the following is NOT one of them?,True,False
+76,mmlu_public_relations,Approximately what proportion of nonprofit sector practitioners conduct audience research?,False,True
+77,mmlu_public_relations,"When a campaign becomes noticed and unavoidable, it has achieved the ________ stage.",False,True
+78,mmlu_public_relations,"A(n) ________ campaign is a paid form of impersonal communication, concerned with selling specific products, services, brands, images, and lifestyles to the public.",True,False
+79,mmlu_public_relations,Which statement is true about an open systems model of public relations in an organization?,True,True
+80,mmlu_public_relations,Which law restricts corporate communications for publicly traded companies before and during the period that new securities are being registered?,True,True
+81,mmlu_public_relations,"Which of these phrases refers specifically to a crisis, rather than an issue?",False,False
+82,mmlu_public_relations,Watson and Noble (2005) lay out a five-step model for circular evaluation. At which step should pre-testing of strategy and tactics be carried out?,False,False
+83,mmlu_public_relations,Which of these sites offers 'microblogging?,True,True
+84,mmlu_public_relations,Within which area of public relations do tactics relate to promotion of the overall organisation?,True,True
+85,mmlu_public_relations,"Emma is browsing a popular website when she runs across the story of a well-known actor who was recently pulled over for speeding and driving down the wrong side of the street. It turns out he had been drinking, and the arresting police officer found drugs in the car. The actor's publicist issued a statement claiming the actor was just tired and that the drugs belonged to someone else. Emma can't help having the impression that all public relations are ________ and occur only after something negative has occurred.",True,True
+86,mmlu_public_relations,"Louis owns a chemical company that has been irresponsibly disposing of chemical waste and contaminating the community's water supply. Although he knew the company was cutting costs in its waste disposal, he publicly claims to have had no knowledge of the irresponsible practices, blames it on the company's general manager and fires him. What image restoration strategy is Louis using?",False,False
+87,mmlu_public_relations,"The ________ phase of the PR model consists of primary and secondary research about a client, identifying the target audiences for the campaign, proposing channels of communication and strategies to be used in the campaign, and constructing goals, objectives, messages, and themes.",True,True
+88,mmlu_public_relations,The 'internal factors' portion of a firm's public relations situation analysis often includes,True,False
+89,mmlu_public_relations,What is the major advantage of organizational publications?,True,True
+90,mmlu_public_relations,"Which outcome, from the evaluation phase of public relations planning, documents the impact a program had on its stakeholders?",True,True
+91,mmlu_public_relations,"The second stage of the advertising campaign is to establish ________, or to become known as trustworthy and believable.",True,False
+92,mmlu_public_relations,Which type of writing employs the pyramid structure?,True,True
+93,mmlu_public_relations,During which step of the Chase Jones model of issues management should the organization's ability to lead the issue be assessed?,False,False
+94,mmlu_public_relations,Which of these should an objective NOT be?,True,False
+95,mmlu_public_relations,Which statement describes an idea from Kantian ethics?,False,True
+96,mmlu_public_relations,Which of these organizations is most effective in engaging with customers online?,True,True
+97,mmlu_public_relations,"According to Russian philosopher Mikhail Bakhtin, in order to create ________, or a well-informed public, all communication about an issue must be ________, or take the form of a dialogue.",True,True
+98,mmlu_public_relations,Your client has asked you to develop a public relations campaign to promote a college tuition savings program using new technologies. What is the most appropriate first step?,True,True
+99,mmlu_public_relations,"According to ""working theory,"" what is the step that occurs between an individual gaining information and changing behavior?",False,True
+100,mmlu_public_relations,"Segmentation of the population into psychographics, demographics and geodemographics is especially important in which public relations specialisation?",True,False
+101,mmlu_public_relations,What are two examples of an evaluation of outcome? ,True,True
+102,mmlu_public_relations,Which fashion house sued for damages to its reputation after being accused of stealing a design?,False,False
+103,mmlu_public_relations,"What public relations pioneer is credited with being the first practitioner to insist on ""a place at the management table""?",False,False
+104,mmlu_public_relations,What are major reasons why organizations retain outside public relations counsel? ,True,False
+105,mmlu_public_relations,Which of these activities might secondary research involve?,False,False
+106,mmlu_public_relations,Which of the following information about publications does the Audit Bureau of Circulation NOT provide?,False,False
+107,mmlu_public_relations,Early email was developed in which decade?,True,True
+108,mmlu_public_relations,"According to Esman (1972), which publics help an organization to exist by lending authority or assistance?",True,True
+109,mmlu_public_relations,Which common public relations tactic can provide a 'halo effect'?,False,False

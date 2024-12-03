@@ -1,0 +1,132 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_human_sexuality,Which of the following methods of detecting breast cancer involves exposure to radiation?,True,True
+1,mmlu_human_sexuality,"The regions of the body that, when touched, are sexually exciting:",True,True
+2,mmlu_human_sexuality,Which of the following is/are true of gonorrhea?,True,False
+3,mmlu_human_sexuality,"You are a homosexual male: Last night, you were tempted by lusty, swarthy Jacques (the king of fraternity row) to join him at the local dairy bar for a tall cool glass of milk. You also briefly considered studying for this test, but Jacques won out. In Freudian terms, which of the following was dominant?",True,True
+4,mmlu_human_sexuality,Sociobiologists believe that there are more males than females with paraphilias because:,True,True
+5,mmlu_human_sexuality,"According to a study by Sprecher, Barbee, and Schwartz (1995), women were more likely than men to have ________ following their first act of intercourse.",False,False
+6,mmlu_human_sexuality,What is cocaine abuse during pregnancy related to?,True,True
+7,mmlu_human_sexuality,Joe wants desperately to get close to Helen. Helen appears to be put off by Joe's desperate advances. This is typical of Joe's relationships with women. According to attachment theory Joe would best be described as:,True,False
+8,mmlu_human_sexuality,Bruce is a homosexual man. His friend Chuck is a heterosexual man. If we could have observed Bruce and Chuck as children we might have expected which of the following?,True,False
+9,mmlu_human_sexuality,Judaism regards sexuality as,True,True
+10,mmlu_human_sexuality,Freud said that the penis first becomes the major focus of pleasure-seeking at:,False,False
+11,mmlu_human_sexuality,"What makes a relationships last, according to Sternberg?",False,True
+12,mmlu_human_sexuality,The position that abortion is murder is held by certain people in which religion?,True,True
+13,mmlu_human_sexuality,"Orders of monks and nuns found both in Eastern religions and in Christianity who affirm celibacy, virginity, and poverty follow the ethical system of:",True,True
+14,mmlu_human_sexuality,Ovaries and testes,True,True
+15,mmlu_human_sexuality,Simon LeVay studied the brains of heterosexuals and homosexuals. He found differences in:,True,False
+16,mmlu_human_sexuality,"Which of the following theories uses terms such as ""modelling"" and ""imitation"" to explain the effects of exposure to erotica on a person's behaviour?",True,True
+17,mmlu_human_sexuality,"________ men, on the average, begin engaging in sexual intercourse approximately two years later than ________ men do.",True,False
+18,mmlu_human_sexuality,"In the scientific community, women's capacity for multiple orgasms was originally discovered by:",False,False
+19,mmlu_human_sexuality,Which of the following characteristics are generally consistent with date rape?,False,True
+20,mmlu_human_sexuality,"According to John Money, __________ refers to a person's private internal sense of maleness or femaleness.",True,True
+21,mmlu_human_sexuality,The average male genital size is approximately,False,True
+22,mmlu_human_sexuality,People who cannot reach orgasm without touching a woman's shoe would certainly be considered sexually abnormal or deviant by which of the following definitions?,True,True
+23,mmlu_human_sexuality,"If a woman or man repeatedly experiences pain during intercourse, she will probably want to have intercourse infrequently or not all. In this situation, __________ would likely classify the pain as a punishment.",False,False
+24,mmlu_human_sexuality,"What seems to be the case when the folk saying ""opposites attract"" (i.e., dissimilar attitudes tend to cause liking) when it is considered in light of current research?",True,False
+25,mmlu_human_sexuality,The egg can be fertilized until about _______ after ovulation.,False,True
+26,mmlu_human_sexuality,"After releasing an egg, the follicle, under stimulation of luteinizing hormone, turns into a a glandular mass of cells called the __________",True,True
+27,mmlu_human_sexuality,How is endometriosis generally treated?,True,False
+28,mmlu_human_sexuality,"Before the Masters and Johnson research, it was thought that vaginal lubrication was due to secretions of",False,True
+29,mmlu_human_sexuality,Buffy and Willow were discussing their sexual fantasies. Buffy revealed that she sometimes fantasizes about sex with other women even though she normally finds herself attracted to men. She also fantasizes about group sex. Which of the following statements can be inferred from Buffy's fantasies?,True,False
+30,mmlu_human_sexuality,The environment for sperm passage is most hospitable just at,False,True
+31,mmlu_human_sexuality,Secretions of Cowper's gland fluid at the tip of the penis are first evident:,False,False
+32,mmlu_human_sexuality,Which of the following restrictions existed in at least one culture? No sex,True,True
+33,mmlu_human_sexuality,Which of the following teenagers have the highest pregnancy rates?,True,False
+34,mmlu_human_sexuality,The onset (the very beginning) of labor is first triggered by,False,False
+35,mmlu_human_sexuality,One of the first models of the physiology of the human sexual response was provided by,False,True
+36,mmlu_human_sexuality,"An adult feels himself becoming aroused when looking at a child and realizes that the response is totally inappropriate, as a result he feels anxiety rather than arousal. This is an example of __________ according to Walen and Roth's cognitive model of the sexual response.",False,False
+37,mmlu_human_sexuality,We are attracted to a person who is similar to us in attitudes because:,True,True
+38,mmlu_human_sexuality,"According to the Ethnocultural Communities Facing AIDS study, single _________ men are more likely than single _________ to report having had more than one sexual partner in the previous year.",False,False
+39,mmlu_human_sexuality,Penile or clitoral erection occurs because of activation of the _________ system.,True,True
+40,mmlu_human_sexuality,Which of the following is homologous to the glans of the penis?,False,True
+41,mmlu_human_sexuality,What day of a typical 28-day menstrual cycle is a woman likely to ovulate?,True,False
+42,mmlu_human_sexuality,The two principles that deal with questions of values are:,True,False
+43,mmlu_human_sexuality,Studies conducted by Bailey and Pillard (1991) have shown that:,True,True
+44,mmlu_human_sexuality,The capacity of a spinal-cord injured man to have erections depends on:,True,True
+45,mmlu_human_sexuality,Research on the effects of sexually explicit material using material that the viewer finds acceptable has shown that:,False,True
+46,mmlu_human_sexuality,Fetishism typically develops at the age of:,False,False
+47,mmlu_human_sexuality,Hillary just found out that she is pregnant but she suspects that her husband has been fooling around. It is important that she be tested for chlamydia because chlamydia can cause which of the following complications?,True,True
+48,mmlu_human_sexuality,Roman Catholicism takes the position that it is sinful to,False,True
+49,mmlu_human_sexuality,Which of the following is the most common method of birth control for married couples in the U.S..,True,False
+50,mmlu_human_sexuality,The theory of _______ is used by sociobiologists specifically to explain the evolution of gender differences.,True,True
+51,mmlu_human_sexuality,Experimental work on the introduction of the birth control pill was done with,True,False
+52,mmlu_human_sexuality,Which of the following have menstrual cycles?,True,True
+53,mmlu_human_sexuality,What sexual act is prohibited in most societies?,False,False
+54,mmlu_human_sexuality,Which of the following is removed when a male is circumcised?,True,False
+55,mmlu_human_sexuality,Staphylococcus aureus is...,True,True
+56,mmlu_human_sexuality,Jeffrey Dahmer's behaviour might best fit into the category of:,True,False
+57,mmlu_human_sexuality,An anatomical difference between males and females is:,False,False
+58,mmlu_human_sexuality,Kenny fell off a ladder while trying to change a lightbulb. He suffered an injury his upper back transecting his spinal cord and leaving him quadraplegic. Which of the following are probably impaired in Kenny?,True,True
+59,mmlu_human_sexuality,The feedback loop in men which regulates the production of sex hormones includes all but which of the following?,True,False
+60,mmlu_human_sexuality,The Old Testament presents the view that sexuality is,False,True
+61,mmlu_human_sexuality,Castration in adulthood,True,False
+62,mmlu_human_sexuality,Xena has been able to conceive but has repeatedly miscarried early in her pregnancies. Which of the following would be her best option for having a child?,True,False
+63,mmlu_human_sexuality,Which of the following is TRUE of the duration of the refractory period experienced by men?,True,True
+64,mmlu_human_sexuality,"At about _________ months after conception, the gender of the fetus is clear from the appearance of external genitals.",False,True
+65,mmlu_human_sexuality,__________ is a shedding of the inner lining of the uterus.,True,True
+66,mmlu_human_sexuality,"When a woman thinks that she probably is a lesbian, she is at the:",False,False
+67,mmlu_human_sexuality,Which of the following STDs can be passed from mother to child through the placenta?,True,True
+68,mmlu_human_sexuality,Persons with liberal attitudes about premarital sex are likely to:,True,False
+69,mmlu_human_sexuality,"Menstrual cramps may be caused, in part, by:",True,True
+70,mmlu_human_sexuality,Avalon had a wild time during spring break. Unfortunately the guy she hooked up with in Palm Beach had genital herpes. Which of the following is true about genital herpes?,True,True
+71,mmlu_human_sexuality,Stan is out having a few beers with some friends. Which of the following will be DECREASED if Stan only consumes 1 beer?,False,False
+72,mmlu_human_sexuality,Vasocongestion is a process of :,True,True
+73,mmlu_human_sexuality,Which of the following is/are secondary sex characteristics in males AND females?,True,True
+74,mmlu_human_sexuality,It's 3:00 A.M. You are male. You awaken to urinate. Standing at the commode you are in extreme agony. Your penis feels as if it is on fire. You notice a yellowish discharge coming out of your penis after you finish urinating. Your moans have awakened your significant other. She comes running into the bathroom and asks you what is wrong. You tell her you probably have:,True,False
+75,mmlu_human_sexuality,Which of these statements is accurate concerning the norms of swinging?,True,False
+76,mmlu_human_sexuality,Romulo is on a crowded bus and he sees a woman near the door. Feeling a little saucy Romulo proceeds to rub up against the woman and is immediately aroused. Romulo's inappropriate behavior would be characterized as:,True,True
+77,mmlu_human_sexuality,Mini-pills contain:,True,False
+78,mmlu_human_sexuality,"Heterosexual fantasies about sexual activity never involve someone _________, and gay and lesbian fantasies never involve persons of __________",True,True
+79,mmlu_human_sexuality,Which of the following is typically associated with having a vasectomy?,False,False
+80,mmlu_human_sexuality,Which of the following are reflexes?,True,True
+81,mmlu_human_sexuality,Which of the following sexual variations is probably the most dangerous?,False,False
+82,mmlu_human_sexuality,The follicular phase is to the __________ as the luteal phase is to the secretory phase.,True,False
+83,mmlu_human_sexuality,"For purposes of conception, the best position for intercourse is:",False,True
+84,mmlu_human_sexuality,"Danny and Sandy are coworkers. Sandy sees Danny in the break room and says ""Hey Stud! Nice buns! Wanna do it?"" This would be considered harrassment if:",True,True
+85,mmlu_human_sexuality,Erection in the male and vaginal lubrication in the female mark the __________ stage of sexual response.,True,False
+86,mmlu_human_sexuality,The placenta does all of the following except:,True,True
+87,mmlu_human_sexuality,Which of the following is the MOST COMMON menstrual problem?,True,True
+88,mmlu_human_sexuality,In all of her relationships Helen is typically uncomfortable feeling close to another person or having that person feel close to her. According to attachment theory Helen would best be described as:,True,False
+89,mmlu_human_sexuality,Approximately how many sperm are in the typical ejaculate?,True,True
+90,mmlu_human_sexuality,Bill is a successful ad executive for a computer company. He is 32 married and the father of two children. When Bill's wife is not home he puts on her satin stockings garter belt bra skirt blouse and red stilettos. While dressing he becomes sexually excited and proceeds to masturbate. Which of the following descriptions best fits Bill?,True,True
+91,mmlu_human_sexuality,Sociobiologists assume that the central function of sex is:,True,True
+92,mmlu_human_sexuality,Which of the following approaches to psychotherapy focuses only the problem behaviour and how to modify it?,True,True
+93,mmlu_human_sexuality,JD Unwin's book _Sex and Culture_ argues what two things are linked?,False,False
+94,mmlu_human_sexuality,The official condemnation by the Catholic Church of artificial birth control is set forth in _______ encyclical called Humanae Vitae.,True,False
+95,mmlu_human_sexuality,"According to Byrne's law of attraction and his formula, we are attracted to people who:",True,False
+96,mmlu_human_sexuality,"Benny is the head of a successful corporation. After a hard day at work during which he is under incredible pressure to perform well, he goes home to his wife who proceeds to spank him, tie him to their four poster bed, and tease him until he begs for intercourse. According to psychological theory, what is the most likely reason Benny finds this alluring?",True,True
+97,mmlu_human_sexuality,Darla and Janice are two moms raising a son Timmy. Which of the following most likely characterizes Timmy?,True,True
+98,mmlu_human_sexuality,What are the experiences when a sexual addict has completed the sexual act?,True,False
+99,mmlu_human_sexuality,Which of the following is/are likely to cause coital pain for BOTH men and women?,False,False
+100,mmlu_human_sexuality,The endometrium grows and thickens during:,False,False
+101,mmlu_human_sexuality,Which of the following events INITIATES puberty?,True,True
+102,mmlu_human_sexuality,Alexander the Great was probably,True,False
+103,mmlu_human_sexuality,Shaggy has a fantasy about digging up a recently buried woman and having sex with her. He told his friends this and they encouraged him to get therapy. As part of the treatment he masturbates to his fantasy and at the last moment before orgasm he switches to a fantasy about having sex with a living woman. This procedure is part of the process of:,True,True
+104,mmlu_human_sexuality,How do girls most frequently learn about masturbation?,True,True
+105,mmlu_human_sexuality,How many centimetres must the cervix dilute to before a baby can be born?,False,True
+106,mmlu_human_sexuality,"From 1988 to 1990 among heterosexuals in the US, the number of unmarried adults aged 20 to 45 who report having multiple partners has:",True,False
+107,mmlu_human_sexuality,Which is true with regard to voyeurs?,True,True
+108,mmlu_human_sexuality,What are the three dimensions of intimacy in romantic relationships that outline closeness and sharing?,True,True
+109,mmlu_human_sexuality,Mike and Carol have been married for 5 years. Recently Mike has found that although he wants to have sex with Carol he has trouble getting aroused. However he does not have trouble getting aroused when he sees his secretary at work. Which of the following describe(s) Mike's dysfunction?,False,False
+110,mmlu_human_sexuality,__________ occurs when the fertilized egg implants somewhere other than the uterus.,True,True
+111,mmlu_human_sexuality,A pimp can be best described as ,True,True
+112,mmlu_human_sexuality,Menstruation is triggered by...,False,False
+113,mmlu_human_sexuality,Which of the following concerning self-disclosure in relationships is supported by research?,True,True
+114,mmlu_human_sexuality,Attachment to a care-giver begins:,True,True
+115,mmlu_human_sexuality,Female sterilization inhibits _________ production.,True,False
+116,mmlu_human_sexuality,Another term for sexual self-stimulation is:,True,True
+117,mmlu_human_sexuality,You have been asked to write a response paper to LeVay's research on brain differences between heterosexuals and homosexuals. Which are plausible criticisms of LeVay's work?,True,True
+118,mmlu_human_sexuality,About ___ % of adolescent males have homosexual experiences during their teenage years.,False,True
+119,mmlu_human_sexuality,Hormones are secreted:,True,False
+120,mmlu_human_sexuality,"By 28 days after conception, the embryo is about __________ centimetres long.",True,False
+121,mmlu_human_sexuality,"""The state has no business in the bedrooms of the nation,"" is a famous quote by this former Canadian Prime Minister.",False,True
+122,mmlu_human_sexuality,Keith is really anxious about a big presentation he has to give at work tomorrow. As a result tonight he is having trouble getting an erection. Which of the following BEST explains why Keith might be having this problem?,True,False
+123,mmlu_human_sexuality,A person with a rating of 4 on the Kinsey scale would be classified as:,False,False
+124,mmlu_human_sexuality,The refractory period occurs in males during the ______ stage.,True,False
+125,mmlu_human_sexuality,The zona pellucida is...,True,True
+126,mmlu_human_sexuality,In men gonorrhea and chlamydia most often infect the:,False,True
+127,mmlu_human_sexuality,Which method of abortion is most costly and carries the greatest risk of complications?,True,True
+128,mmlu_human_sexuality,Miss Jones has been concerned about her health lately. She has noticed some itching and skin irritation around her genitals. Given her promiscuous sexual history she suspects that she has contracted:,False,False
+129,mmlu_human_sexuality,Which of the following is NOT part of the internal structure of a female's breast?,True,False
+130,mmlu_human_sexuality,"Over the past several decades, attitudes toward premarital sex have __________; attitudes toward extramarital sex have __________.",False,False

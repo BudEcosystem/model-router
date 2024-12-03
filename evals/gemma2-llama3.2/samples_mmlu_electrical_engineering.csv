@@ -1,0 +1,146 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_electrical_engineering,The Barkhausen criterion for an oscillator,True,True
+1,mmlu_electrical_engineering,Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because,False,False
+2,mmlu_electrical_engineering,Which of these sets of logic gates are designated as universal gates?,True,False
+3,mmlu_electrical_engineering,"A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source voltage. For a load counter emf of 200 V, the range of firing angle control is",True,False
+4,mmlu_electrical_engineering,A box which tells the effect of inputs on control sub system is known as,False,False
+5,mmlu_electrical_engineering,Two infinite parallel metal plates are charged with equal surface charge density of the same polarity. The electric field in the gap between the plates is,False,True
+6,mmlu_electrical_engineering,The resistance in the circuit of the moving coil of a dynamometer wattmeter should be,False,False
+7,mmlu_electrical_engineering,The following are the necessary requirements of an oscillator,True,True
+8,mmlu_electrical_engineering,The normal voltage used in directional heating is,True,False
+9,mmlu_electrical_engineering,LC oscillators are used for produce a waveform with frequency ranging from,True,False
+10,mmlu_electrical_engineering,A working diode must have,False,True
+11,mmlu_electrical_engineering,What is the name of the fluorescent material that gives red colour fluorescence?,False,False
+12,mmlu_electrical_engineering,How many bits are required to store one BCD digit ?,False,False
+13,mmlu_electrical_engineering,Commutator in DC generator is used for,False,True
+14,mmlu_electrical_engineering,1 F is theoretically equal to,False,False
+15,mmlu_electrical_engineering,How many entries will be in the truth table of a 3 input NAND gate ?,False,False
+16,mmlu_electrical_engineering,In decimal number system what is MSD,True,False
+17,mmlu_electrical_engineering,"In Digital Logic Designs, GAL is abbreviated as",True,False
+18,mmlu_electrical_engineering,Inintel 8085A microprocessor ALE signal is made high to,True,False
+19,mmlu_electrical_engineering,For an SCR gate cathode characteristic is a straight line of 130. For triggered source volume of 15 V and allowable gate power dissipation of 0.5 W compute the gate source resistance?,True,False
+20,mmlu_electrical_engineering,The concept of V/f control of inverters driving induction motors resuls in,True,False
+21,mmlu_electrical_engineering,"The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carrying a current at 10 amp, is",False,True
+22,mmlu_electrical_engineering,"While operating on variable frequency supplies, the AC motor requires variable voltage in order to",False,True
+23,mmlu_electrical_engineering,Which of the following windings are necessary in case of all dc machines?,False,False
+24,mmlu_electrical_engineering,Relaxation Voltage controlled oscillators are used to generate,True,True
+25,mmlu_electrical_engineering,The supply frequency usually employed for high frequency eddy current heating is,True,True
+26,mmlu_electrical_engineering,In the toggle mode a JK flip-flop has,False,True
+27,mmlu_electrical_engineering,Electric drive is becoming more and more popular because,True,True
+28,mmlu_electrical_engineering,A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is,True,True
+29,mmlu_electrical_engineering,A Binary number system has how many digits.,False,True
+30,mmlu_electrical_engineering,"Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of network is",False,False
+31,mmlu_electrical_engineering,Advantages of open loop control system is/are,False,False
+32,mmlu_electrical_engineering,"The voltage induced in an inductor is represented as,",False,True
+33,mmlu_electrical_engineering,"If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits",True,False
+34,mmlu_electrical_engineering,Induction heating takes place in,True,True
+35,mmlu_electrical_engineering,In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch,True,False
+36,mmlu_electrical_engineering,Magnetic flux has the unit of,True,False
+37,mmlu_electrical_engineering,"In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. This can be explained from which theorem",True,True
+38,mmlu_electrical_engineering,A D-flip-flop is said to be transparent when,False,False
+39,mmlu_electrical_engineering,A Lissajous pattern on an oscilloscope has 5 horinzontal tangencies and 2 vertical tangencies. The frequency of horizontal input is 100 Hz. The frequency of the vertical will be,False,True
+40,mmlu_electrical_engineering,Speed control by variation of field flux results in,True,False
+41,mmlu_electrical_engineering,Which of the following memories uses one transistor and one capacitor as basic memory unit,True,False
+42,mmlu_electrical_engineering,"What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * 3m rectangular room?",False,False
+43,mmlu_electrical_engineering,"The output of the system has an effect upon the input quantity, then the system is a",False,True
+44,mmlu_electrical_engineering,"A sinusoidal signal is analog signal, because",True,True
+45,mmlu_electrical_engineering,FM stands for,False,True
+46,mmlu_electrical_engineering,Stack is also known as,False,True
+47,mmlu_electrical_engineering,"In Ward-Leonard system, the lower limit of the speed imposed by",False,False
+48,mmlu_electrical_engineering,Colpitts oscillator is also called as,True,True
+49,mmlu_electrical_engineering,An SCR has half cycle surge current rating of 3000 A for 50 Hz supply. One cycle surge current will be,False,True
+50,mmlu_electrical_engineering,Both the ALU and control section of CPU employ which special purpose storage location?,False,False
+51,mmlu_electrical_engineering,Systematic errors are,True,True
+52,mmlu_electrical_engineering,Which of the following is/are the disadvantages of an open loop control system?,True,True
+53,mmlu_electrical_engineering,A diode (p-n junction) when reverse biased act as,False,False
+54,mmlu_electrical_engineering,Piezoelectric effect is carried out in,True,True
+55,mmlu_electrical_engineering,The resistivity of the conductor depends on,True,False
+56,mmlu_electrical_engineering,The smallest change in measured variable to which instrument will respond is,True,True
+57,mmlu_electrical_engineering,"In electronic communications, ""AM"" stands for",True,True
+58,mmlu_electrical_engineering,Which system is also known as automatic control system?,True,False
+59,mmlu_electrical_engineering,A combinational PLD with a fixed AND array and a programmable OR array is called a,False,False
+60,mmlu_electrical_engineering,A null type instrument as compared to a deflected type instrument has,False,False
+61,mmlu_electrical_engineering,"Length of the cable is doubled, its capacitance C will be",False,True
+62,mmlu_electrical_engineering,Electrons in p-type material of a semi-conductor are called as,True,False
+63,mmlu_electrical_engineering,________ is the most detrimental impurity in the magnetic materials,True,False
+64,mmlu_electrical_engineering,Voltage controlled oscillators are used commonly in,True,True
+65,mmlu_electrical_engineering,Low frequency supply is necessary for direct core type induction furnaces because,False,True
+66,mmlu_electrical_engineering,"The moving coil-meters, damping is provided by",False,False
+67,mmlu_electrical_engineering,Which of the following is the analogous quantity for mass element in force-voltage analogy?,False,False
+68,mmlu_electrical_engineering,A latch is ________ sensitive,False,False
+69,mmlu_electrical_engineering,What is used to protect the SCR from over current ?,True,False
+70,mmlu_electrical_engineering,The errors mainly caused by human mistakes are,True,False
+71,mmlu_electrical_engineering,Electrical analogous quantity for dash-pot in force-current analogy is,False,True
+72,mmlu_electrical_engineering,Which lamp has the best Colour Rendering Index (CRI)?,False,False
+73,mmlu_electrical_engineering,Power dissipation in ideal inductor is,True,False
+74,mmlu_electrical_engineering,For intermittent work which of the following furnace is suitable?,False,False
+75,mmlu_electrical_engineering,In electrical resistance welding material of electrode should have,True,True
+76,mmlu_electrical_engineering,Which of the following are the passive elements?,False,True
+77,mmlu_electrical_engineering,The main advantage of dielectric heating is that,True,True
+78,mmlu_electrical_engineering,Materials used in heat sink should have,False,True
+79,mmlu_electrical_engineering,Conductor is static and the field is varying then emf will be induced. This principle is called,False,False
+80,mmlu_electrical_engineering,"Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parallel. The short circuit level at the busbar is",True,False
+81,mmlu_electrical_engineering,"According to the Bohr model, an electron gains or losses energy only by",True,True
+82,mmlu_electrical_engineering,A three-state buffer has the following output states,True,True
+83,mmlu_electrical_engineering,"By using which of the following elements, mechanical translational systems are obtained?",True,True
+84,mmlu_electrical_engineering,"Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be",True,True
+85,mmlu_electrical_engineering,"The resistance of a conductor of diameter d and length l is R Ω. If the diameter of the conductor is halved and its length is doubled, the resistance will be",True,False
+86,mmlu_electrical_engineering,A single phase full bridge inverter can operated in load commutation mode in case load consist of,False,True
+87,mmlu_electrical_engineering,A microprocessor is ALU,False,True
+88,mmlu_electrical_engineering,"To obtain a high value of capacitance, the permittivity of dielectric medium should be",False,True
+89,mmlu_electrical_engineering,Deflection method direct measurements are most widely used as these are,False,True
+90,mmlu_electrical_engineering,Purely mechanical instrument cannot be used for dynamic measurements because they have,False,True
+91,mmlu_electrical_engineering,Advantages of higher transmission voltage is/are,True,True
+92,mmlu_electrical_engineering,Under over voltage condition impedance offered by the voltage clamping device is,False,True
+93,mmlu_electrical_engineering,A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting plane). A high voltage exists between the conductor and the ground. The maximum electric stress occurs at,True,False
+94,mmlu_electrical_engineering,In a dc machine 6 pole wave winding is used. The number of parallel paths are?,False,False
+95,mmlu_electrical_engineering,Which of the following is a digital device,True,True
+96,mmlu_electrical_engineering,Instantaneous power in inductor is proportional to the,True,True
+97,mmlu_electrical_engineering,Which of the following is a variable displacement transducer?,False,True
+98,mmlu_electrical_engineering,"Five capacitors each of 5 µF are connected in series, the equivalent capacitance of the system will be",False,False
+99,mmlu_electrical_engineering,Susceptibility is negative for,True,False
+100,mmlu_electrical_engineering,One of the following is the primary function of an oscillator,False,True
+101,mmlu_electrical_engineering,The metal surfaces for electrical resistance welding must be,True,True
+102,mmlu_electrical_engineering,The latching current of SCR is 20 mA. Its holding current will be,False,True
+103,mmlu_electrical_engineering,"In force-current analogy, electrical analogous quantity for displacement (x) is",False,True
+104,mmlu_electrical_engineering,Feedback circuit in an oscillator can be accomplished by,True,True
+105,mmlu_electrical_engineering,"Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of network is",False,False
+106,mmlu_electrical_engineering,What is the value of dielectric constant of air?,False,False
+107,mmlu_electrical_engineering,Temperature variation is a/an,True,True
+108,mmlu_electrical_engineering,The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is,False,False
+109,mmlu_electrical_engineering,For a dc machine shunt resistance and armature resistance values are,False,True
+110,mmlu_electrical_engineering,The change of cross sectional area of conductor in magnetic field will affect,False,True
+111,mmlu_electrical_engineering,Which of the following is used in SCR to protect from high dV / dt?,True,True
+112,mmlu_electrical_engineering,"What are the sets of commands in a program which are not translated into machine instructions during assembly process, called?",True,True
+113,mmlu_electrical_engineering,Speed of data transmission in 4-G network of telecom is,False,True
+114,mmlu_electrical_engineering,Which of the followings is/are active element?,True,True
+115,mmlu_electrical_engineering,Electrical analogous quantity for spring element (K) in force-voltage analogy is,False,False
+116,mmlu_electrical_engineering,A quartz crystal oscillator consists of,False,True
+117,mmlu_electrical_engineering,Which of the following oscillators are used for low frequency (LF) applications,True,False
+118,mmlu_electrical_engineering,The solid angle subtended by an area of 2400 cm^2 on the surface of a sphere of diameter 1.2 m is,False,False
+119,mmlu_electrical_engineering,Relative error is same as,True,True
+120,mmlu_electrical_engineering,If holding current of a thyristor is 2 mA then latching current should be,False,False
+121,mmlu_electrical_engineering,"In an intel 8085A, which is the first machine cycle of an instruction?",True,True
+122,mmlu_electrical_engineering,Which of the following are the disadvantages of a closed loop control system?,True,True
+123,mmlu_electrical_engineering,"Poles and zeros are arranged alternatively on negative real axis, then type of network is/are",False,True
+124,mmlu_electrical_engineering,The magnetisation and applied field in ferromagnetic materials are related,False,True
+125,mmlu_electrical_engineering,Thin laminations are used in a machine in order to reduce,False,False
+126,mmlu_electrical_engineering,A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The total outward electric displacement normal to the surface of the cube is,False,True
+127,mmlu_electrical_engineering,In binary number system the first digit (bit) from right to left is called as,True,False
+128,mmlu_electrical_engineering,In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of the system is,False,True
+129,mmlu_electrical_engineering,A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 75 V. The limiting error is in percentage,False,True
+130,mmlu_electrical_engineering,Which of the following methods is/are used for reactive or voltage compensation,True,True
+131,mmlu_electrical_engineering,The ROM programmed during manufacturing process itself is called,True,False
+132,mmlu_electrical_engineering,In 8085 name/names of the 16 bit registers is/are,True,True
+133,mmlu_electrical_engineering,Stability of a transmission line can be increased by,False,True
+134,mmlu_electrical_engineering,Snubber circuit is used with SCR,False,False
+135,mmlu_electrical_engineering,The number of rings in the Bohr model of any element is determined by what?,True,False
+136,mmlu_electrical_engineering,Silicon and Germanium are ________ elements.,False,True
+137,mmlu_electrical_engineering,The number of output pins in 8085 microprocessors are,True,False
+138,mmlu_electrical_engineering,If P is the power of a star connected system then what will be power of an equivalent delta connected system?,False,False
+139,mmlu_electrical_engineering,Which oscillators are easy to fabricate in a monolithic IC?,False,False
+140,mmlu_electrical_engineering,"If all the elements in a particular network are linear, then the superposition theorem would hold, when the excitation is",True,True
+141,mmlu_electrical_engineering,The feedback factor of a Wien bridge oscillator using Op-Amp is,False,False
+142,mmlu_electrical_engineering,"The length of bus cycle in 8086/8088 is four clock cycles, T1, T2, T3, T4 and an indeterminate number of wait state clock cycles denoted by Tw. The wait states are always inserted between",True,False
+143,mmlu_electrical_engineering,Which of the following is not a sinusoidal oscillator?,True,True
+144,mmlu_electrical_engineering,A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire will be,True,False

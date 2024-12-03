@@ -1,0 +1,246 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_security_studies,Which of these principles is not an element of the responsibility to protect?,True,False
+1,mmlu_security_studies,Can environmental changes be reconciled with national security interests?,False,False
+2,mmlu_security_studies,Which of the following statements could be described as a liberal perspective on future energy security?,True,False
+3,mmlu_security_studies,Which of the following is a common criticism of the human security concept?,True,True
+4,mmlu_security_studies,In what ways have governments responded to the threat of TNC post-Cold War?,False,True
+5,mmlu_security_studies,What potential problem for policy in the institutionalization of academe-policy interaction emerged?,False,True
+6,mmlu_security_studies,Which of the following is not one of the 10 steps of the Washington Consensus?,True,True
+7,mmlu_security_studies,Which of the following concepts does NOT form part of the technical discourse on cyber-security?,True,False
+8,mmlu_security_studies,What are the characteristics and manifestations of the strategy adopted by the USA in pursuit of energy security?,True,True
+9,mmlu_security_studies,In what ways do theories of conventional and critical social constructivism differ?,True,False
+10,mmlu_security_studies,"Considering commerce and marketing, which of the following present the most significant obstacle to developing IT security?",True,True
+11,mmlu_security_studies,Which of the following best describes the 'Orient' according to Edward Said?,True,False
+12,mmlu_security_studies,How can we best describe liberalism?,True,True
+13,mmlu_security_studies,"Which of the following is not one of the unifying principles of Critical Security Studies, as defined by Krause?",True,True
+14,mmlu_security_studies,"Considering 'offensive' and 'defensive realism', which of these statements is not correct?",False,False
+15,mmlu_security_studies,"Following the terrorist attacks of 9/11, what is the predominant paradigm in security and threat perception and to what extent is it an adequate response?",True,False
+16,mmlu_security_studies,In what ways has the concept of environmental security been contested?,True,True
+17,mmlu_security_studies,How can the origins of weak state insecurity be explained?,False,False
+18,mmlu_security_studies,Which of the following best describes the 'subaltern' in postcolonialism?,True,True
+19,mmlu_security_studies,How do biological differences affect the roles that men and women must perform for the state?,True,True
+20,mmlu_security_studies,"According to motivational realism, what might inspire the behaviour of so called 'greedy states'?",False,True
+21,mmlu_security_studies,In which year was the seminal Human Development Report published?,False,True
+22,mmlu_security_studies,What does it mean to be secure?,True,True
+23,mmlu_security_studies,What has been the effect of biological weapons on national security in the international community?,True,True
+24,mmlu_security_studies,How are US 'military moms' important to a critical reading of security?,True,True
+25,mmlu_security_studies,"Weak states face a number of security threats, which of the following threats is the odd one out?",False,False
+26,mmlu_security_studies,In what ways may TNC be regarded as a new concept?,False,False
+27,mmlu_security_studies,Which of the following statements does not characterise our understanding of disease pandemics within the contemporary international political system?,True,False
+28,mmlu_security_studies,In what ways does gender shape the conceptualization of nationhood and conflict?,False,False
+29,mmlu_security_studies,What might the pragmatic implications of biology be on post-conflict gender security?,False,True
+30,mmlu_security_studies,"How have the World Bank and International Monetary Fund, as international financial institutions (IFIs), affected the development of poorer countries?",False,False
+31,mmlu_security_studies,When may an issue fail to become securitized?,False,False
+32,mmlu_security_studies,What are the practical problems associated with applying coercive diplomacy in the West?,False,False
+33,mmlu_security_studies,Some governmental regimes are reluctant to fully join the liberalist camp; which of the following is not a valid reason for this reluctance?,True,False
+34,mmlu_security_studies,What are the themes that make post-structuralism a different field of study and why is it criticized?,True,False
+35,mmlu_security_studies,How is capitalism defined or regarded within the HM paradigm?,True,True
+36,mmlu_security_studies,Which statement best describes Booth's attitude toward constructivism and post-structuralism within Critical Security Studies?,True,False
+37,mmlu_security_studies,What is Critical Security Studies?,True,True
+38,mmlu_security_studies,How is a process of securitization completed?,True,True
+39,mmlu_security_studies,Which of the following is not a purportedly beneficial outcome of the globalization process?,False,True
+40,mmlu_security_studies,How can extraordinary measures be defined as 'special' or 'extra' ordinary?,False,False
+41,mmlu_security_studies,What role does language play in the process of securitization?,True,True
+42,mmlu_security_studies,Which of these is not a widely articulated or valid criticism of constructivism?,False,False
+43,mmlu_security_studies,In what ways is it possible to gain a definition of terrorism?,False,True
+44,mmlu_security_studies,How does the social constructivist approach account for the process of militarization?,True,False
+45,mmlu_security_studies,Which of these statements best describes the HM approach to sectoral security analysis?,True,False
+46,mmlu_security_studies,What was the importance of peace research during the 1980s?,True,False
+47,mmlu_security_studies,Which of these statements does not describe the liberalist conception of the international system?,True,False
+48,mmlu_security_studies,Which of the following might be considered part of the 'deepening and broadening' of security?,True,True
+49,mmlu_security_studies,In what ways did game theory and deterrence theory mark an intellectual development in the 'golden age' of security studies?,False,False
+50,mmlu_security_studies,In what ways will the changing global security environment shape the nature of developing conflicts in the twenty-first century?,True,True
+51,mmlu_security_studies,Is the weak state security dilemma an inescapable condition?,False,True
+52,mmlu_security_studies,How might the recent global economic crisis be viewed as a challenge to the liberalist perspective?,False,False
+53,mmlu_security_studies,What factors facilitated the institutional innovation of security studies?,False,False
+54,mmlu_security_studies,Which of the following are true of the Great Law of Peace of the Haudenosaunee Confederacy?,True,True
+55,mmlu_security_studies,What has been the impact of nuclear deterrence on international politics post-Cold War?,False,False
+56,mmlu_security_studies,In what ways does the Ideal Policy framework explain previous understandings of the necessary conditions for successful coercive diplomacy actions?,True,True
+57,mmlu_security_studies,In what way might postcolonial analysis use the term 'thick space'?,True,False
+58,mmlu_security_studies,In which of these wars did the overwhelming technological superiority of one side lead to rapid defeat of its enemy?,False,True
+59,mmlu_security_studies,Which approach or perspective dominates post-Cold War Security Studies?,False,False
+60,mmlu_security_studies,How can we define the role of the state in achieving human security?,True,True
+61,mmlu_security_studies,What is the relevance of behaviour in economic security analysis?,True,True
+62,mmlu_security_studies,What long-term trends can be foreseen in the concept of environmental security?,True,True
+63,mmlu_security_studies,What is meant by the term 'energy security nexus'?,True,True
+64,mmlu_security_studies,"It has been argued by Braun and Chyba (2004) that indigenous nuclear programs are making proliferation safeguards obsolete. In what ways, if any, can a case be made to support this argument?",True,True
+65,mmlu_security_studies,Which of the following statements is true within the postcolonial approach?,True,True
+66,mmlu_security_studies,What differences emerged with regard to theorizing on both sides of the Atlantic?,False,True
+67,mmlu_security_studies,Traditional approaches seek to explain why and how states have sought security. Which answer best describes the approach of traditional Security Studies?,False,False
+68,mmlu_security_studies,Which of the following statements is the odd one out?,False,False
+69,mmlu_security_studies,To what extent can societal identity be defended militarily?,True,False
+70,mmlu_security_studies,Which of the following defines a Revolution in Military Affairs?,False,True
+71,mmlu_security_studies,What is the relationship between historical materialism and the global justice movement?,True,True
+72,mmlu_security_studies,What is the relationship between Westphalian sovereignty and humanitarian intervention?,False,False
+73,mmlu_security_studies,In what ways have post-Cold War developments undermined state authority?,True,True
+74,mmlu_security_studies,"What are the implications of recent technological change and development, according to peace studies?",False,False
+75,mmlu_security_studies,Inefficient balancing or buckpassing by states can lead to what?,False,False
+76,mmlu_security_studies,Which of the following is essential to societal security?,False,False
+77,mmlu_security_studies,Which of the following best describes the existing legacy of structural adjustment policies?,True,True
+78,mmlu_security_studies,Which of the following is not an economic tool of security policy?,True,False
+79,mmlu_security_studies,What is the value of a post-structuralist critique in security studies?,True,True
+80,mmlu_security_studies,Which of the following ways is NOT a defining feature that distinguishes postcolonialism from other perspectives on security?,True,False
+81,mmlu_security_studies,In what ways does the Ideal Policy framework provide an analytical framework for practitioners' success?,False,False
+82,mmlu_security_studies,What challenges to liberalism were shown by the Western response to the Arab Spring?,True,True
+83,mmlu_security_studies,What is realism?,True,False
+84,mmlu_security_studies,Which of the following is NOT one of the 3 forms of violence identified by postcolonialism?,True,True
+85,mmlu_security_studies,Which of the following represent a move away from traditional interpretations of security studies?,True,False
+86,mmlu_security_studies,What are the causes of terrorism?,False,True
+87,mmlu_security_studies,What techniques and targets belong to a workable definition of terrorism and terrorist concerns?,True,True
+88,mmlu_security_studies,What has been the importance of the new critical schools of security studies for the development of security studies? Have they simply become IR and lost their position that defines them as security studies?,False,False
+89,mmlu_security_studies,In what ways do environmental issues present a concern for peace researchers in the twenty-first century?,True,True
+90,mmlu_security_studies,There is a need to establish the nature and consequences of insecurity in the developing world. Why is this?,True,True
+91,mmlu_security_studies,"When considering the international system from a realist perspective, which of the following statements concerning the advent of war is true?",True,True
+92,mmlu_security_studies,Describe the relationship between the military security domain and social constructivism.,True,False
+93,mmlu_security_studies,How do gun shows and international arms fairs contribute to illicit arms markets?,False,True
+94,mmlu_security_studies,Which of the following statements is the odd one out?,False,False
+95,mmlu_security_studies,Which of the following was not stated as an objective of the Commission on Human Security when it was launched?,True,False
+96,mmlu_security_studies,"In terms of cyber-security, what is meant by 'resilience' and why is it important?",False,False
+97,mmlu_security_studies,Has TNC become a national security threat?,True,True
+98,mmlu_security_studies,In what ways is a fusion nuclear device different from a fission device?,True,True
+99,mmlu_security_studies,"In defining the term 'historical materialism', which of the following statements best defines the term 'materialism'?",True,True
+100,mmlu_security_studies,Which of the following events can be regarded as contributing to the emergence of environmental security during the 1960s and 1970s?,True,True
+101,mmlu_security_studies,Is TNC a new phenomenon?,False,False
+102,mmlu_security_studies,Which of the following is not a response to the illicit arms trade?,True,True
+103,mmlu_security_studies,"Prior to the late 20th century the role of women in war had been neglected as an area of concern in security studies, for what reason?",True,True
+104,mmlu_security_studies,What are the main criticisms of the realist argument against humanitarian intervention?,True,True
+105,mmlu_security_studies,Which of the following statements best describes our understanding of the term 'globalization'?,True,True
+106,mmlu_security_studies,In what ways may weak states be challenged externally?,True,True
+107,mmlu_security_studies,Which of the following is applicable when considering the concept of security dilemmas in terms of societal identity?,True,True
+108,mmlu_security_studies,What is meant by the term 'security dilemma' and how does it impact on the international security environment?,True,False
+109,mmlu_security_studies,Which of the following statements does NOT characterize arms control as a strategic policy?,True,False
+110,mmlu_security_studies,What are the types of terrorism? Are all groups the same?,True,True
+111,mmlu_security_studies,What kind of actors are involved in the defence trade?,False,True
+112,mmlu_security_studies,How has HM developed during and since the Cold War?,True,True
+113,mmlu_security_studies,"To what extent is TNC linked with terrorism, and in what ways?",False,False
+114,mmlu_security_studies,Which statement best describes the relationship between realist international relations theorists and peace researchers in the early 1960s?,True,False
+115,mmlu_security_studies,Which of the following is an important outcome of the 'energy security nexus'?,False,False
+116,mmlu_security_studies,In what ways did strategic circumstances have an effect on environmental security perspectives?,True,False
+117,mmlu_security_studies,The following statements define the conceptualization of 'class' within HM; which is incorrect?,False,True
+118,mmlu_security_studies,Which of the following security sectors are intrinsically linked with energy security?,True,True
+119,mmlu_security_studies,What is the relationship between HM and realism?,True,True
+120,mmlu_security_studies,What factors enabled the expansion of transnational crime (TNC) in the 1990s?,False,False
+121,mmlu_security_studies,Why do so many feminist scholars regard the exclusion of women from the military sphere or from armed combat as important?,True,True
+122,mmlu_security_studies,"In the context of energy security and the production of oil, which of the following does not define the term 'stability'?",True,False
+123,mmlu_security_studies,"In what ways is the case for humanitarian intervention, as outlined in this chapter, limited?",True,True
+124,mmlu_security_studies,Which of the following statements is not applicable to the Securitization process?,False,False
+125,mmlu_security_studies,"During the 20th century, how has the focus of security studies changed regarding military security?",False,False
+126,mmlu_security_studies,Which of the following is not a purported limitation of the liberalist approach?,False,False
+127,mmlu_security_studies,Which of these statements is not applicable to the development of peace studies in the twentieth century?,False,False
+128,mmlu_security_studies,"In the contemporary context, how can peace studies best be defined?",True,True
+129,mmlu_security_studies,What role does 'Information' play in the economic science of decision making?,True,True
+130,mmlu_security_studies,Which of the following are frequently cited criticisms of HM?,False,False
+131,mmlu_security_studies,What is the referent object in contemporary cyber-security?,False,True
+132,mmlu_security_studies,Which of the following phrases is not likely to indicate legitimacy in the new terminology of RMA?,True,True
+133,mmlu_security_studies,Which of the following did not emerge as a trend of the defence trade in the 20th century?,True,True
+134,mmlu_security_studies,Which of these statements concerning the study of identity is not applicable to social constructivism?,True,True
+135,mmlu_security_studies,Which of these are characteristics of realist theory?,True,True
+136,mmlu_security_studies,Which of these statements defines the Copenhagen School's view of security?,True,False
+137,mmlu_security_studies,Which of these best describes the concept of hegemonic masculinity?,True,True
+138,mmlu_security_studies,How do institutional constraints affect behaviour?,False,True
+139,mmlu_security_studies,Which of the following policies is not true of economic policy?,True,True
+140,mmlu_security_studies,Which of the following is not an assertion made in the realist case against humanitarian inventions?,True,True
+141,mmlu_security_studies,"Why, in the contemporary studies of security, is the subject of energy security so important?",True,True
+142,mmlu_security_studies,Which of the following is a legitimate threat to societal security?,True,True
+143,mmlu_security_studies,Which of the following statements best describes the orientation of military security within the traditional conception of security studies?,False,True
+144,mmlu_security_studies,Which of these statements cannot be applied to the initial development of peace studies?,True,False
+145,mmlu_security_studies,"Since the end of the Cold War, how has the use of coercive diplomacy by Western powers changed?",False,False
+146,mmlu_security_studies,To what extent and to what effect has the environment been securitized?,False,False
+147,mmlu_security_studies,Which of the following is not a common criticism of Securitization?,True,False
+148,mmlu_security_studies,"Which of these statements characterizes the traditional concept of national security, as opposed to human security?",False,False
+149,mmlu_security_studies,How does Buzan's concept of 'societal security' mark a departure from traditional understandings of security?,False,True
+150,mmlu_security_studies,Which of the following conditions does not constitute 'human security'?,True,True
+151,mmlu_security_studies,What are the effects of nuclear weapons?,True,True
+152,mmlu_security_studies,Which statement best describes commercial liberalism?,True,False
+153,mmlu_security_studies,Security studies can be interpreted as an imperial field of knowledge in which of the following ways?,True,True
+154,mmlu_security_studies,What do critics fear would be the result of granting rights of humanitarian intervention?,True,False
+155,mmlu_security_studies,"In what ways did the Human Development Report, published by the United Nations Development Program in 1994, challenge the traditional security paradigm?",True,True
+156,mmlu_security_studies,How might we understand the terms gender and gender security?,True,False
+157,mmlu_security_studies,"Which of the following best describes what is meant by security in the contemporary world, according to the field of Security Studies?",True,False
+158,mmlu_security_studies,Which of these is an effective way of securing against cyber threats?,True,False
+159,mmlu_security_studies,Which of the following are trends to emerge in the global defence trade since the end of the Cold War?,True,True
+160,mmlu_security_studies,"In theorising the Responsibility to Protect, fundamental questions are raised about the nature of state sovereignty. Regarding this tension between R2P and notions of sovereignty, which of the following is not an accurate statement?",True,False
+161,mmlu_security_studies,In what ways might international measures be employed? Are they a help or a hindrance?,False,False
+162,mmlu_security_studies,"According to Krause and Williams, what agenda would most likely attract scholars to the 'broad church' of security studies?",True,True
+163,mmlu_security_studies,"According to George and Simons, what factors influence the outcomes of an act of coercive diplomacy?",True,True
+164,mmlu_security_studies,What is the significance of anarchy to the realist explanation of international politics?,True,True
+165,mmlu_security_studies,Which of the following ideas have become mainstreamed within human security since the Human Development Report?,True,True
+166,mmlu_security_studies,Which of the statements below is not one of the eight themes of post-Marxist critical security theory identified by Ken Booth as being important to critical security theory?,True,False
+167,mmlu_security_studies,Which statement best defines the term 'international regime' in relation to liberalism?,True,True
+168,mmlu_security_studies,How can we define energy security?,True,True
+169,mmlu_security_studies,Which of the following statements best describes the characteristics of a weak state?,True,False
+170,mmlu_security_studies,What is distinguishable about security studies theory?,False,True
+171,mmlu_security_studies,How does the preoccupation with human rights affect the human rights orientated school of liberalism?,True,True
+172,mmlu_security_studies,What would be the policy implications of a hierarchical vision of TNC?,False,False
+173,mmlu_security_studies,What role does the concept of 'human security' have in our understanding of security studies?,True,True
+174,mmlu_security_studies,What are the specific elements of a comprehensive national defence trade control system?,True,True
+175,mmlu_security_studies,Which of the following are Schelling's necessary conditions for compellence success?,False,True
+176,mmlu_security_studies,"Which of the following characteristics describe 'Category B' agents, as defined by the US Centers for Disease Control?",False,False
+177,mmlu_security_studies,"When did the cyber-security discourse emerge? (When did politicians, academics, and other agents begin to talk seriously about cyber-security?)",False,False
+178,mmlu_security_studies,"In the context of military security, which of the following is not an obvious benefit of adopting a 'critical' theoretical approach?",True,True
+179,mmlu_security_studies,Considering Wendt's three cultures of anarchy; which of the following defines the Lockean culture?,False,True
+180,mmlu_security_studies,In what ways does the idea of 'victim' impact on the way in which gender security is regarded?,False,False
+181,mmlu_security_studies,In what ways is gender applicable to the field of Security Studies?,True,True
+182,mmlu_security_studies,What is the function of sanctions?,True,True
+183,mmlu_security_studies,"Given current patterns of industrial development, what are the future prospects for energy security?",True,False
+184,mmlu_security_studies,Which of the following is not a correct definition?,True,False
+185,mmlu_security_studies,What external strategies do elites employ?,False,False
+186,mmlu_security_studies,"What problems has the post-Cold War security literature revealed on women, war, development, and security?",True,True
+187,mmlu_security_studies,How might weapons belonging to state military or police forces arrive on the illicit arms market?,True,False
+188,mmlu_security_studies,In what ways has human security been significant as a concept?,True,True
+189,mmlu_security_studies,Which of these statements is not accurately applied to Critical Security Studies?,True,False
+190,mmlu_security_studies,Can armed forces be linked to environmental security and in what ways?,False,False
+191,mmlu_security_studies,"When considering economic tools for security policy, which of the following is the odd one out?",False,True
+192,mmlu_security_studies,What is the market vision of transnational organized crime?,False,False
+193,mmlu_security_studies,What impact did the end of the Cold War have on warlord politics?,True,False
+194,mmlu_security_studies,In what ways might the effects of chemical weapons affect the decision to deploy them against a target?,False,False
+195,mmlu_security_studies,"What is the relationship between war, military security, and security studies?",True,False
+196,mmlu_security_studies,How has coercive diplomacy featured in contemporary security studies?,False,False
+197,mmlu_security_studies,In what ways is defining coercive diplomacy success problematic?,False,False
+198,mmlu_security_studies,"In what ways, if any, can the environment be considered a security concern?",True,True
+199,mmlu_security_studies,Which statement best describes the liberalist attitude towards international organisations?,True,False
+200,mmlu_security_studies,What is the relationship between culture and social constructivism?,False,False
+201,mmlu_security_studies,Which of the following is an impact of common structural adjustment policies on the poor?,True,True
+202,mmlu_security_studies,How might the diversity of the current global international system impact upon the case for humanitarian intervention?,True,False
+203,mmlu_security_studies,Which of the following are economic objectives of IMF adjustment policies?,True,True
+204,mmlu_security_studies,To what extent have biological agents been weaponized?,False,False
+205,mmlu_security_studies,"According to Buzan, Waever, and de Wilde, in what ways does the Copenhagen School's approach to Security Studies differ from that of Critical Security Studies?",True,False
+206,mmlu_security_studies,What are Fission Nuclear Weapons?,False,True
+207,mmlu_security_studies,Why is HIV/AIDS considered to be a non-traditional security issue?,False,False
+208,mmlu_security_studies,Which of the following is an important reason to advocate the process of desecuritization?,False,False
+209,mmlu_security_studies,Which of the following statements best describes the process of 'medicalization'?,True,False
+210,mmlu_security_studies,How has the conceptualization of health as a security issue changed during the twentieth century?,True,False
+211,mmlu_security_studies,Which statement best describes the circumstances that have shaped the emergence of peace studies as a field of research?,True,False
+212,mmlu_security_studies,Which of these statements is commonly regarded as a tangible benefit of the securitization process?,True,True
+213,mmlu_security_studies,In what ways might a society be threatened?,False,True
+214,mmlu_security_studies,Which of these statements best defines the concepts of corporate and social identity?,True,True
+215,mmlu_security_studies,In what ways has conflict been a concern of the environmental security agenda for strong states?,False,True
+216,mmlu_security_studies,"Threats to IT systems can be classified in many ways; in this chapter three different categories of threat are listed. According to this classification, which of the following would be classified as a 'Failure'?",True,False
+217,mmlu_security_studies,Which of the following reasons might influence a state's decision to join an alliance such as NATO?,True,True
+218,mmlu_security_studies,What is the 'security dilemma' that faces weak states?,True,True
+219,mmlu_security_studies,Which of the following does not constitute a fundamental ontological principle of social constructivism?,True,True
+220,mmlu_security_studies,Historical materialism is founded on the ideas and philosophies of which theorists?,True,True
+221,mmlu_security_studies,What internal security policy options are available to elites?,False,False
+222,mmlu_security_studies,Are strategies of Arms Control and Deterrence useful in cyber-security?,False,False
+223,mmlu_security_studies,In what ways does the perspective on terrorism influence the response a government will take?,True,True
+224,mmlu_security_studies,How might the period of academic institutionalization be assessed?,True,True
+225,mmlu_security_studies,In what ways may the security dimensions of infectious disease be considered in the national security framework?,True,True
+226,mmlu_security_studies,What is the role of non-governmental organisations (NGOs) in the global defence trade?,True,True
+227,mmlu_security_studies,"The concept of R2P rests on three pillars, which of these is widely acclaimed to be the most important?",True,True
+228,mmlu_security_studies,"In the context of globalization, how can we best define the term 'development'?",False,True
+229,mmlu_security_studies,Which of the following best describes Eurocentrism?,True,False
+230,mmlu_security_studies,What is meant by the term 'cyber-crime'?,False,True
+231,mmlu_security_studies,How might global inequality present a threat to global security?,True,False
+232,mmlu_security_studies,What is the future of WMD?,False,False
+233,mmlu_security_studies,In which ways does realism differ from social constructivism in the theorisation of identity within international relations?,True,False
+234,mmlu_security_studies,What is 'malware'?,False,False
+235,mmlu_security_studies,"For post-structuralists, which of the following is the most important impact of security studies?",True,True
+236,mmlu_security_studies,In what ways can the different relationship between US and European security studies be explained?,True,True
+237,mmlu_security_studies,Which of the following statements does not describe 'nations'?,True,False
+238,mmlu_security_studies,In what ways have feminist and critical security investigations of the 1980s and 1990s expanded our understanding of gender security issues?,True,True
+239,mmlu_security_studies,What preventative security measures might a government take in defence of a potential future terrorist attack?,False,False
+240,mmlu_security_studies,In what ways can a distinction be made between limited force and full-scale force?,False,True
+241,mmlu_security_studies,What are the challenges for the future of security studies?,True,True
+242,mmlu_security_studies,Which of the following is the odd one out?,False,False
+243,mmlu_security_studies,"Within Critical Security Studies, what is the referent object of security?",True,False
+244,mmlu_security_studies,Why is coercive diplomacy hard? What are the inherent difficulties?,True,False

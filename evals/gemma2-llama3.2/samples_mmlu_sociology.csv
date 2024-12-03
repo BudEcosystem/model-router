@@ -1,0 +1,202 @@
+id,domain,prompt,Gemma-2-27b-it,Llama-3.2-1B-Instruct
+0,mmlu_sociology,Mass-society theory suggests that:,False,False
+1,mmlu_sociology,The ecological approach to urban sociology involved studying:,True,True
+2,mmlu_sociology,Becker proclaimed that cannabis use was:,False,True
+3,mmlu_sociology,The middle classes that developed over the nineteenth century were:,True,True
+4,mmlu_sociology,Technological forms of surveillance have made it easier to:,True,True
+5,mmlu_sociology,The concept of gemeinschaft developed by Ferdinand Tönnies describes basically the same relational characteristics as,True,False
+6,mmlu_sociology,There was a growth in income inequality in the 1980s because:,False,False
+7,mmlu_sociology,"If a deviant act is 'normalized', it is:",False,True
+8,mmlu_sociology,"In the debate about the 'managerial revolution', John Scott (1997) argued that:",True,False
+9,mmlu_sociology,Marxist feminists explain patriarchy in terms of:,False,False
+10,mmlu_sociology,Which of the following was not defined by Giddens (1998) as part of New Labour's 'third way':,True,True
+11,mmlu_sociology,Anti-psychiatrists like Laing & Esterson believed that:,False,True
+12,mmlu_sociology,Butler & Stokes (1969) suggested that working class support for the Labour Party arose from:,True,False
+13,mmlu_sociology,"In contemporary societies, social institutions are:",True,True
+14,mmlu_sociology,The term 'emotion work' (Hochschild 1983) refers to:,True,True
+15,mmlu_sociology,"When sociologists study the structure of layers in society and people's movement between them, they call this:",True,True
+16,mmlu_sociology,"The four ideal types of social action that Weber identified were as follows: instrumentally-rational, value-rational, traditional, and...",True,False
+17,mmlu_sociology,An ecclesia is:,True,False
+18,mmlu_sociology,"After slavery was abolished in the USA and British Empire, policy makers claimed that former slaves migrating to these cities would experience:",False,False
+19,mmlu_sociology,Sutherland's study of the 'professional thief' suggested that:,True,True
+20,mmlu_sociology,Which of the following policies did the New Labour government not pursue?,False,False
+21,mmlu_sociology,"Stone's research suggests that prior to industrialization, the nuclear family:",False,False
+22,mmlu_sociology,"Statistics about rural, suburban, and urban patterns of development and mobility are almost always reported based on a geographical area labeled as Metropolitan Statistical Areas (MSA). What constitutes an MSA?",True,True
+23,mmlu_sociology,Mosca and Pareto identified the ruling elite as:,False,True
+24,mmlu_sociology,Bourdieu attributed the reproduction of class to:,False,True
+25,mmlu_sociology,Secularization involves the two related ideas of:,True,True
+26,mmlu_sociology,The general fertility rate fell between 1964 and 2000 because of:,True,False
+27,mmlu_sociology,Howard's idea of the garden city consisted of:,True,False
+28,mmlu_sociology,The 'third age' of the life course is said to involve:,True,False
+29,mmlu_sociology,Weber (1919) said that the state's monopoly of the use of force was legitimated by:,True,True
+30,mmlu_sociology,Sullivan's (2000) study suggested that the proportion of housework men did was greatest when:,False,True
+31,mmlu_sociology,The shift from custodial to joint parenthood after divorce means that:,True,True
+32,mmlu_sociology,Émile Durkheim believed the primary focus of sociology should be which of the following?,True,True
+33,mmlu_sociology,"The term ""sociology"" was coined in the early 1800s by which of the following?",True,False
+34,mmlu_sociology,"In their study of depression, Brown & Harris (1978) found that:",True,True
+35,mmlu_sociology,The alternative form of 'network organization' means that:,True,False
+36,mmlu_sociology,Margaret Mead suggested that:,True,True
+37,mmlu_sociology,The term 'secondary deviation' refers to:,True,True
+38,mmlu_sociology,The effect of the Internet upon the public sphere has been to:,False,True
+39,mmlu_sociology,Weber said that the 'spirit of capitalism' could be traced back to:,True,False
+40,mmlu_sociology,The terms 'crisis of the 1970s' is used to refer to:,True,True
+41,mmlu_sociology,The Macpherson Report highlighted the increasing problem of:,False,True
+42,mmlu_sociology,Seven people standing silently while waiting for a bus at a bus stop is an example of which of the following?,False,False
+43,mmlu_sociology,Environmentalist social movements are global in the sense that:,True,True
+44,mmlu_sociology,Chodorow (1978) argued that gender socialization occurred through:,True,False
+45,mmlu_sociology,The 'new man' of the 1980s was alleged to be:,True,False
+46,mmlu_sociology,"In the 1960s, comprehensive schools did not eradicate class inequalities in education because:",False,True
+47,mmlu_sociology,"In idealized views of science, the experimental method is said to involve:",True,True
+48,mmlu_sociology,An 'open' society is one that:,False,True
+49,mmlu_sociology,The Nation of Islam group appealed to:,False,True
+50,mmlu_sociology,Comte's term 'positivism' refers to:,False,False
+51,mmlu_sociology,Theories of racialized discourse suggest that:,True,True
+52,mmlu_sociology,"A major car accident occurs. One man stops his car and starts helping people. After seeing him stop, others also stop and start helping. Which of the following theories best explains the scenario?",False,False
+53,mmlu_sociology,A new highway extends from a major city though an area used for farmland. Which of the following is most likely to happen as a result?,True,False
+54,mmlu_sociology,"According to W. E. B. Dubois, progress for African Americans in the aftermath of slavery",True,False
+55,mmlu_sociology,Pluralist theories suggest that:,False,False
+56,mmlu_sociology,The term 'over-urbanization' means that:,True,False
+57,mmlu_sociology,The capitalist class of the mid-twentieth century were said to join the upper class because they:,False,False
+58,mmlu_sociology,The term inter-generational mobility refers to:,False,True
+59,mmlu_sociology,"The term 'culture industry', used by members of the Frankfurt School, referred to:",True,True
+60,mmlu_sociology,"According to Hakim (1995, 1996), the majority of part-time work is done by women because:",False,False
+61,mmlu_sociology,A sect is organised around:,False,True
+62,mmlu_sociology,What is the name of the process by which we acquire a sense of identity and become members of society?,True,True
+63,mmlu_sociology,Pre-testing a questionnaire is useful for:,True,True
+64,mmlu_sociology,Judith Butler (1999) suggested that:,True,True
+65,mmlu_sociology,Patterns of drug use in Britain reveal that:,True,True
+66,mmlu_sociology,Murray thought that the 'underclass' consisted of people who:,True,True
+67,mmlu_sociology,"Religious organizations such as the Church of Norway, Islam, the Church of England, and the Church of Greece have which of the following characteristics in common?",False,False
+68,mmlu_sociology,"A researcher mailed 1,000 questionnaires to members of a labor union and received 300 back. Most of those who returned the questionnaires indicated that they were dissatisfied with the union. Results based only on the returned questionnaires are most likely contaminated by",True,True
+69,mmlu_sociology,Role-learning theory suggests that,True,False
+70,mmlu_sociology,Post-modernist writers have argued that:,False,False
+71,mmlu_sociology,"Leroy visits his parents, who live in a primarily African American working-class neighborhood. During his visit, he notices that the community is changing. Several developments have been built to accommodate single-family homes, and upscale shopping centers have been added. While Leroy appreciates these changes, he is worried that his parents will not be able to afford to continue living in their neighborhood because property values are rising. Which of the following best explains what is happening to Leroy's old neighborhood?",True,True
+72,mmlu_sociology,Warner's study of the city of Natchez in the American Deep South showed that the 'colour line' there was:,False,True
+73,mmlu_sociology,The social construction of childhood can be traced back to:,True,True
+74,mmlu_sociology,"In Marx's theory, the 'mode of production' means:",True,False
+75,mmlu_sociology,The trend of decarceration involves:,True,True
+76,mmlu_sociology,The work of Smart suggested that:,False,False
+77,mmlu_sociology,Allen's (2001) study of nurses showed that:,False,True
+78,mmlu_sociology,Which of the following best describes the practice of placing the blame for the problems of a society on one particular group?,True,True
+79,mmlu_sociology,"Dahrendorf, Rex, and Habermas focused their attention on:",True,True
+80,mmlu_sociology,Sreberny-Mohammadi (1996) argues that national cultures can resist American cultural domination of the media by:,True,True
+81,mmlu_sociology,Mulholland (1998) argued that privatization changed the relationship between companies and managers in that:,False,True
+82,mmlu_sociology,Which of the following is consistent with results of current research conducted in the area of gender roles and the workplace?,False,True
+83,mmlu_sociology,Socialization is:,True,True
+84,mmlu_sociology,The term 'assets' refers to:,False,False
+85,mmlu_sociology,"In the traditional hierarchy of status and precedence, which of these members of the upper class are in the right order (from highest to lowest status)?",False,False
+86,mmlu_sociology,Social norms are:,True,True
+87,mmlu_sociology,The 'nuclear family' means:,False,False
+88,mmlu_sociology,The rise of new social movements indicates that:,False,True
+89,mmlu_sociology,Which of the following sociological perspectives views society as a system of interdependent and coordinated parts?,True,True
+90,mmlu_sociology,Post-Fordist forms of media production and consumption involve:,True,False
+91,mmlu_sociology,Marx said that the development of the labour movement through factory-based production would turn the working class into:,False,True
+92,mmlu_sociology,"In stage 3 of the 'health transition', the main causes of illness and death are:",False,True
+93,mmlu_sociology,Sociologists like Bordo (1993) have attributed the 'epidemic' of anorexia in Western cultures to:,True,True
+94,mmlu_sociology,One of the difficulties in 'operationalizing' concepts like social class is that:,True,True
+95,mmlu_sociology,"In the 1990 reform of the National Health Service, hospitals became:",True,False
+96,mmlu_sociology,Law and order was privatized in the 1980s and 1990s through:,True,True
+97,mmlu_sociology,The 'correspondence principle' (Bowles & Gintis) suggests that:,True,False
+98,mmlu_sociology,Class segregation was apparent in mid-twentieth century Britain insofar as:,True,True
+99,mmlu_sociology,Charles Cooley's theory of the looking-glass self emphasizes,True,True
+100,mmlu_sociology,Queer Theory makes the claim that:,False,True
+101,mmlu_sociology,Scott (1991) introduced the term 'power elite' to describe:,True,False
+102,mmlu_sociology,"A sociologist is conducting research on institutional power relations at a local hospital. The sociologist is on staff at the hospital for several weeks, recording data as field notes. This method of research is called",True,True
+103,mmlu_sociology,"In Symbolic Interactionist theory, Mead defined the 'generalized other' as:",True,False
+104,mmlu_sociology,"According to Davis (1995), women may seek cosmetic surgery because:",False,True
+105,mmlu_sociology,Marx (1844) claimed that capitalism had alienated workers from:,True,False
+106,mmlu_sociology,Herberg's (1955) study of religion in America suggested that:,True,True
+107,mmlu_sociology,Structural-Functionalists describe society as:,True,True
+108,mmlu_sociology,Booth's (1901) study revealed that the percentage of people in London who were living in poverty was:,True,False
+109,mmlu_sociology,Traditional working class identity was based around:,True,True
+110,mmlu_sociology,Bernstein thought that using 'restricted codes' of language disadvantaged pupils at school because:,False,False
+111,mmlu_sociology,Telework is a form of employment that involves:,False,True
+112,mmlu_sociology,Frank (1967) made the claim that 'underdeveloped' societies were:,False,True
+113,mmlu_sociology,The case of the former Soviet Union supports Kerr et al.'s (1960) claim that:,False,True
+114,mmlu_sociology,The print revolution of the nineteenth century resulted in:,True,True
+115,mmlu_sociology,The term 'feminist standpoint' suggests:,False,False
+116,mmlu_sociology,Ethnographic research produces qualitative data because:,True,True
+117,mmlu_sociology,Marx proclaimed that religion would disappear when:,False,False
+118,mmlu_sociology,Which of the following is not a feature of globalization?,True,True
+119,mmlu_sociology,Someone who gains a higher (or lower) social position than he or she was born into has experienced,False,True
+120,mmlu_sociology,A survey should avoid asking:,False,True
+121,mmlu_sociology,"The theory of development which suggests that societies move from traditional to modern, industrial forms of organization is called:",True,True
+122,mmlu_sociology,"In modern societies, social status is typically measured by a person's:",False,True
+123,mmlu_sociology,Sociology differs from common sense in that:,True,True
+124,mmlu_sociology,World-affirming religions:,True,True
+125,mmlu_sociology,The 'extension pattern' that Parker (1976) identified was said to be:,False,False
+126,mmlu_sociology,Weber defined a 'class situation' as:,False,False
+127,mmlu_sociology,The introduction of market principles to educational policy in the 1980s resulted in:,False,False
+128,mmlu_sociology,Smith & Tomlinson argued that:,False,False
+129,mmlu_sociology,The 'post-industrial society' identified by Bell (1973) involved:,True,False
+130,mmlu_sociology,White-collar crime is low in visibility because:,True,True
+131,mmlu_sociology,"With industrial capitalism, leisure emerged as a concept that meant:",True,True
+132,mmlu_sociology,A moral panic occurs when:,True,True
+133,mmlu_sociology,The 'demographic transition' is a social trend that involves:,True,True
+134,mmlu_sociology,'Snowballing' is an example of:,True,False
+135,mmlu_sociology,The 'class polarization' that Marx predicted referred to:,False,True
+136,mmlu_sociology,"In the context of the labour movement in the nineteenth century, 'incorporation' meant:",False,True
+137,mmlu_sociology,Millions of immigrant children who entered the United States learned English and the duties of citizenship while attending public schools in the communities in which they settled. This is an example of which of the following sociological concepts?,True,True
+138,mmlu_sociology,The capitalist world economy is what Wallerstein (1974) would call a 'world system'. This term refers to:,True,False
+139,mmlu_sociology,"According to Foucault, carceral organizations:",False,True
+140,mmlu_sociology,Which of the following is not recognised as a level of society?,True,False
+141,mmlu_sociology,Ethnic identity refers to:,True,True
+142,mmlu_sociology,Marriage appears to be in decline because:,False,False
+143,mmlu_sociology,The market model of state welfare is based on the principle of:,True,False
+144,mmlu_sociology,The term feminization of poverty refers to:,True,True
+145,mmlu_sociology,Which of the following is not identified as a new form of community?,True,True
+146,mmlu_sociology,The use of 'indentured labour' in the nineteenth century involved:,True,True
+147,mmlu_sociology,Cultural restructuring has involved:,True,True
+148,mmlu_sociology,Which of the following was not part of Weber's ideal type of bureaucracy?,False,True
+149,mmlu_sociology,Which of the following is the most important agent of socialization in early childhood?,True,True
+150,mmlu_sociology,Which of the following is not a 'research purpose'?,True,False
+151,mmlu_sociology,'Scientific' theories in the nineteenth century tried to explain race in naturalistic terms. Which of the following ideas was not considered?,False,False
+152,mmlu_sociology,Which of the following is not a regular national survey carried out by the British government?,True,True
+153,mmlu_sociology,Which of the following industries did Blauner (1964) suggest was most alienating to its employees?,False,False
+154,mmlu_sociology,The 'decentralized city' can be identified by:,False,True
+155,mmlu_sociology,Lombroso claimed that:,True,True
+156,mmlu_sociology,Warner and Myrdal claimed that black former slaves were not joining the 'ethnic melting pot' of the North American cities because:,True,True
+157,mmlu_sociology,"When Berger & Luckmann said that reality is socially constructed, they meant:",True,True
+158,mmlu_sociology,Which of the following groups or organizations can be identified as having the characteristics of a bureaucracy?,True,True
+159,mmlu_sociology,Pilcher (1999) identified soap operas as a 'feminine genre' of media because:,False,True
+160,mmlu_sociology,Which of these was not one of Townsend's (1979) indicators of relative deprivation?,True,True
+161,mmlu_sociology,Children who are still sucking their thumbs when they enter kindergarten are often subject to teasing and ridicule for this behavior. What type of social sanction is applied in this instance?,True,False
+162,mmlu_sociology,The concept of political culture refers to the,True,True
+163,mmlu_sociology,"Walt Disney, Sony and Time Warner are examples of:",True,False
+164,mmlu_sociology,Equilibrium theories of social change emphasize,True,True
+165,mmlu_sociology,Which of the following best describes the definition of poverty used by the United States government?,True,False
+166,mmlu_sociology,The 'absolute' poverty line is drawn to show:,False,True
+167,mmlu_sociology,'Eyeballing' is a technique that involves:,False,False
+168,mmlu_sociology,Which of the following was not a strategy used by the Conservative government of 1979 to reduce the power of the labour movement?,True,True
+169,mmlu_sociology,"In the nineteenth century, homosexuality was understood as:",False,False
+170,mmlu_sociology,The population pyramid of a population that has had a slightly larger birth rate than death rate for several generations will most likely have which of the following shapes?,False,True
+171,mmlu_sociology,The 'new racism' refers to:,True,True
+172,mmlu_sociology,Giselle graduated from college with high honors in management. She was recruited immediately following college by a large corporation and accepted a position in junior management. She quickly advanced to middle management. Ten years later Giselle was still in a middle-management position and had witnessed junior male colleagues promoted over her. Which of the following is a phenomenon that is most likely to explain Giselle's lack of promotion?,True,True
+173,mmlu_sociology,The Mafia is an example of:,False,True
+174,mmlu_sociology,Goldthorpe identified the 'service class' as:,True,True
+175,mmlu_sociology,Industrial production in the nineteenth century was characterized by:,True,False
+176,mmlu_sociology,The term 'collective consumption' (Castells 1977) refers to:,True,True
+177,mmlu_sociology,The deviant subculture of homosexuals who met in seventeenth and eighteenth century London was called the:,True,True
+178,mmlu_sociology,Robert and Tanya are married and live with their three children. Their family unit is called,False,True
+179,mmlu_sociology,"In Durkheim's work, the term 'collective representations' refers to:",True,True
+180,mmlu_sociology,Which of the following is not a characteristic of totalitarian societies?,True,True
+181,mmlu_sociology,Freud's notion of the 'ego' referred to:,False,True
+182,mmlu_sociology,Which of the following theories focuses on how society manages to carry out the activities necessary to maintain order and stability?,True,True
+183,mmlu_sociology,Which of the following is a personal document with closed access?,False,False
+184,mmlu_sociology,The tripartite system used the 11+ exam to select pupils for:,False,False
+185,mmlu_sociology,Durkheim defined social facts as:,True,True
+186,mmlu_sociology,The media-themes model of media influence claims that:,False,True
+187,mmlu_sociology,Bowlby's maternal deprivation thesis claimed that:,True,True
+188,mmlu_sociology,War became possible between nation states in the nineteenth century because:,True,True
+189,mmlu_sociology,Which of the following is not identified by Fulcher & Scott as a criterion of community?,True,True
+190,mmlu_sociology,The 'Great Migration' of 1916-1919 meant that Chicago became an ethnically diverse city. The consequence of this was:,True,True
+191,mmlu_sociology,"According to Scott (1990), a document is 'authentic' if it:",True,True
+192,mmlu_sociology,Which of the following is not a consequence of global tourism?,True,False
+193,mmlu_sociology,Which of the following did Thatcher's government not strive to achieve:,True,False
+194,mmlu_sociology,One of the ethical problems with covert participant observation is:,True,True
+195,mmlu_sociology,The embourgeoisement thesis suggests that:,True,False
+196,mmlu_sociology,Women have been excluded from the public sphere because:,True,True
+197,mmlu_sociology,Economic aid has largely failed to promote modernization in the developing countries because:,False,False
+198,mmlu_sociology,How is terrorism different from the types of crime described by the Chicago School?,True,True
+199,mmlu_sociology,The human relations approach emphasized the importance of:,True,True
+200,mmlu_sociology,Which of the following did Domhoff not identify as a process of decision-making in the USA?,False,True
